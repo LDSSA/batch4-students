@@ -1,12 +1,14 @@
-# Batch 3 Students Repository
+# Batch 4 Students Repository
 
-Welcome to Lisbon Data Science Academy Batch 3 Students repository. The presentation used at the introduction of
-the bootcamp is [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing).
+Welcome to Lisbon Data Science Academy Batch 4 Students repository. The presentation used at the introduction of
+the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing).
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
 
 1. [Initial Setup](#initial-setup)
+    1. [Windows Setup](#Windows-Setup)
+    1. [MacOS Setup](#MacOS-Setup)
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
     1. [Install _Anaconda_](#install-_anaconda_)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
@@ -27,7 +29,7 @@ in that the clone of the batch3-students needs to be done by URL (as is shown in
 ## Initial Setup
 
 **IMPORTANT**
-Before the bootcamp you will have to complete these instructions, this is 
+Before the bootcamp you will have to complete these instructions, this is
 essential.
 
 Once you complete the setup mark yourself as such on [this spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing).
@@ -36,64 +38,93 @@ By completing this you will setup and learn about all the tools you'll be
 using during the academy.
 We will also be able to identify any problems in time to figure out a solution.
 
+
+### Windows Setup
+
+This section deals with setting up either Windows Subsystem for Linux (WSL)
+or VMWare.
+If you are using MacOS or Linux you can skip this section.
+
+If you are using windows 10 we suggest using WSL (see below), if you are using an older Windows version we also support running a virtual linux machine with VMWare (TODO note that for this you will need at least 8 GB of RAM).
+
+##### Why do I need to install either WSL or VMware?
+
+Because of the differences in command line syntax between Windows vs Mac OS/Linux, it would be a great challenge for us to support and provide instructions for both Operating Systems. For this reason, we’d ask you to install Windows Subsystem for Linux, or VMware, which would enable you to run Linux command lines inside Windows. Keep in mind that these are simply extensions to your Windows operating system, hence, installing this software will not do any changes on your laptop. It is also quick to do so.
+
+TODO If due to some reasons, you cannot install WSL or VMware (e.g. you do not have the admin rights for your computer), you can still join the Prep Course and follow the Learning materials. However, all of our setup instructions and learning materials are created for Mac OS/Linux, and unfortunately we will not be able to provide support on how to do it on Windows.
+If you have some doubts/worries, feel free to reach out to us.
+
+#### Windows 10 Setup
+
+Follow [this guide](guides/Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md) if you are running Windows 10.
+
+#### Older Windows Setup
+
+If you are running an older version of Windows (such as Windows 8 or 7), follow the guide below on running Ubuntu with Windows using VMware Player. You'll be required to download VMware and Ubuntu 18, for that please use the links provided below (not the links provided in the tutorial).
+* [VMware download link](https://www.vmware.com/go/getplayer-win)
+* [Ubuntu download link](https://ubuntu.com/download/desktop/thank-you?version=18.04.4&architecture=amd64)
+* Follow this guide: [How To Run Ubuntu in Windows 7 with VMware Player](https://www.howtogeek.com/howto/11287/how-to-run-ubuntu-in-windows-7-with-vmware-player/)
+
+### MacOS Setup
+
+Some of the steps in the following sections will require _Homebrew_ for MacOS.
+Homebrew will make it easier to install software that we will use later on.
+To open the terminal, choose one:
+* In Finder <img src='assets/finder.png' alt='Finder' width="4%" height="4%"/>, open the /Applications/Utilities folder, then double-click Terminal.
+* By pressing <kbd>cmd</kbd> + <kbd>space</kbd> then type `terminal` and press <kbd>enter</kbd>.
+
+The terminal should now be open:
+
+![](assets/mac_terminal.png)
+
+
+Copy and paste the following line in the terminal:
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+You may be offered to install the _Command Line Developer Tools_, confirm and
+once it's finished continue installing Homebrew by pressing <kbd>enter</kbd> again.
+
+
 ### Setup _Git_/_GitHub_
 
-Having a _GitHub_ account and knowing the basics of committing and pushing 
+Having a _GitHub_ account and knowing the basics of committing and pushing
 changes are mandatory.
 By the end of this setup you will have accomplished both.
+Complete the following steps:
 
-1. Install [_git_](https://git-scm.com/)
-If you're on Windows or OS X, [_GitHub Desktop_](https://desktop.github.com/) is 
-probably easiest.
-1. [Sign up](https://github.com/join) for a _GitHub_ account if you don't 
+1. [Sign up](https://github.com/join) for a _GitHub_ account if you don't
 already have one.
+1. [Checking for existing SSH keys](https://help.github.com/en/github/authenticating-to-github/checking-for-existing-ssh-keys)
+1. [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+1. [Adding a new SSH key to your GitHub account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+1. [Testing your SSH connection](https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection)
 
-If you plan on using the terminal and not _GitHub_ desktop it might be a good
-idea to [set up ssh keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
-for _GitHub_.
-
-### Install _Anaconda_
-
-The work you will be doing during the academy makes use of packages to provide
-extra functionality.
-Installing and managing different versions (that may have subtle changes)
-in different operating systems and ensuring everyone gets the same results
-is a challenging task.
-_Anaconda_ is currently the best solution for this problem.
-
-Go to [_Anaconda_](https://www.anaconda.com/distribution/) for installation 
-instructions. **BE SURE to choose "Python 3.7 version".**
-
-**If you are on windows**
-
-Make sure that there are no non-english characters in your username or on the 
-path and that you have qt installed. [Here is a reference](https://github.com/ContinuumIO/anaconda-issues/issues/1270) 
-on how to address these issues.
 
 ### Setup your Workspace Repository
 
-It's good practice to store your work with version control. 
+It's good practice to store your work with version control.
 In this academy that is a requirement as it is how you will make your work
 available to us.
 
 #### Creating the Workspace
 
 1. Log into _GitHub_
-1. Create a new **private** _GitHub_ repository called *batch3-workspace*, see 
-[Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository). 
-**IMPORTANT** The repo **MUST** be named *batch3-workspace*! 
+1. Create a new **private** _GitHub_ repository called *batch4-workspace*, see
+[Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository).
+**IMPORTANT** The repo **MUST** be named *batch4-workspace*!
 If you name it anything else, you will be unable to submit any of your work!
-    1. You need to explicitly select Private - This is your work and nobody else's. 
-    You will be graded based upon the merits of what you are able to do here 
+    1. You need to explicitly select Private - This is your work and nobody else's.
+    You will be graded based upon the merits of what you are able to do here
     so this should not be open to the world while you are working
-    on it. 
-    Maybe after the course is completed, you can open-source it but not this 
+    on it.
+    Maybe after the course is completed, you can open-source it but not this
     time.
-    1. Initialize with a README. 
+    1. Initialize with a README.
     This is mostly just so that you don't initialize an empty repo.
     1. Add a Python `.gitignore`.
     This step is insanely important. If you don't do this, you may
-    end up checking things into the repo that make it un-gradeable by our 
+    end up checking things into the repo that make it un-gradeable by our
     grading system.
     ADD THE `.gitignore` PLEASE!!!! <--- 4 * `!` isn't enough
 
@@ -108,117 +139,129 @@ provide to you in our [_Portal_](https://portal.lisbondatascience.org/).
 
 1. Head on to the [_Portal_](https://portal.lisbondatascience.org/)
 1. Log in with your _GitHub_ account
-1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and 
+1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and
 copy the deploy key
 ![Profile](assets/profile.png "Profile")
 1. Go back to the repository you have just created
 1. Go back to the repository you have just created
 1. Go to `Settings > Deploy Keys`
 1. Click "Add deploy key"
-1. Give it a recognizable name like "grader" and paste the key from the 
+1. Give it a recognizable name like "grader" and paste the key from the
 _Portal_
 ![Deploy keys](assets/deploy_key.png "Deploy key")
 
 #### Cloning the Workspace
 
-###### Using _GitHub Desktop_
-
-1. Click "Clone a repository from the internet..." or select 
-"File > Clone repository" on the menubar if this not your first time
-![Clone first time](assets/clone_first_time.png "Clone first time")
-![Clone menubar](assets/clone.png "Clone form the menubar")
-1. Filter by "batch3-workspace"
-![Clone filter](assets/clone_workspace_filter.png "Clone filter")
-1. Select and clone
-
-###### Using the terminal
-
 1. Open a Terminal or Git Bash, the next steps are on this terminal
 1. Clone your _<username>/batch3-workspace_ repository
-```bash
-git clone https://github.com/<username>/batch3-workspace.git
-```
-
-Or if you have your ssh keys set up:
 ```bash
 git clone git@github.com:<username>/batch3-workspace.git
 ```
 
 ### Get the Learning Material
 
-You will be cloning the [batch3-students](https://github.com/LDSSA/batch3-students) 
+You will be cloning the [batch3-students](https://github.com/LDSSA/batch4-students)
 repository.
 All of the learning material you need will be made available on this repo
 as the academy progresses.
 
-###### Using _GitHub Desktop_
-
-1. Select "File > Clone repository" on the menubar
-![Clone menubar](assets/clone.png "Clone form the menubar")
-1. Select by URL "ldssa/batch3-students"
-![Select by URL](assets/select-by-url.png "Select by URL")
-1. Select and press clone
-
-###### Using the terminal
-
 1. Open a Terminal or Git Bash, the next steps are on this terminal
-1. Clone the students repository 
-[batch3-students](https://github.com/LDSSA/batch3-students)
+1. Clone the students repository
+[batch4-students](https://github.com/LDSSA/batch4-students)
 ```bash
-git clone https://github.com/LDSSA/batch3-students.git
+git clone https://github.com/LDSSA/batch4-students.git
 ```
 Or if you have your ssh keys set up:
 
 ```bash
-git clone git@github.com:LDSSA/batch3-students.git
+git clone git@github.com:LDSSA/batch4-students.git
 ```
 
 ### Running and Submitting a Learning Unit
 
-In the `batch3-students` repository that you just cloned there is a sample
+In the `batch4-students` repository that you just cloned there is a sample
 learning unit.
 It's used to give instructors guidelines to produce the learning units.
-We are also using it to ensure that you are able to run and submit a learning 
+We are also using it to ensure that you are able to run and submit a learning
 unit.
 
 So go ahead and copy the sample directory `sample/SLU00 - LU Tutorial` from the `
-batch3-students` repository to your repository (named `batch3-workspace`).
+batch4-students` repository to your repository (named `batch4-workspace`).
 ![Sample learning unit](assets/sample_learning_unit.png "Sample learning unit")
 
 The grader only requires you to have the contents in a directory starting with
-the learning unit's ID, but we highly advise to keep the same directory 
+the learning unit's ID, but we highly advise to keep the same directory
 structure as the students repository.
-All learning units are organized as: 
+All learning units are organized as:
 ```
 <specialization ID> - <specialization name>/<learning unit ID> - <learnin unit name>
 ```
 Doing so will help you keep organized and ease copying data from the students
 repository to yours.
 
-#### Creating a Conda Environment
+#### Creating a Python Virtual Environment and installing the necessary packages
 
-With each learning unit you will be provided with an `environment.yml` file.
-It tells _Anaconda_ all the packages the learning unit depends on and it
-will be used to create an _Anaconda_ environment.
+Bellow are the instructions that are enough to get the setup done and get you up and running :)
+You can also follow [this guide](guides/How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
 
-An environment is simply an isolated set of packages. 
-When you run your code inside an environment you will have access to the 
-same version of the packages the instructor used to create the notebooks.
+You should always be using a virtual environment to install python packages. We'll use _venv_ to set them up.
 
-###### Using the Graphical Interface
+To install and update packages, we'll be using _pip_ which is the reference Python package manager.
 
-1. Select "Environments"
-1. Select "Import"
-![Select environment](assets/anaconda_environment.png "Select environment")
-1. Set `slu00` for the name and select the `environment.yml` file in the 
-learning unit directory (the one in your `batch3-workspace`).
-![Create environment](assets/anaconda_create.png "Create environment")
+If you are using **Ubuntu** you will need to install a couple of packages first,
+this can be done in a terminal by running:
+```bash
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
+```
 
-###### Using the Terminal
+If you are using **Mac OS** you will need to install python, this can be done in a terminal by running:
+```bash
+brew install python
+```
+
+##### Start by installing ensuring pip, setuptools, and wheel are up to date:
 
 ```bash
-cd batch3-workspace/sample/SLU00\ -\ LU\ Tutorial
-conda env create -n slu00 --file environment.yml
+python3 -m pip install --user --upgrade pip setuptools wheel
+```
+
+* Create a virtual environment with the name `prep-venv`
+```bash
+python3 -m venv ~/.virtualenvs/prep-venv
+```
+* Activate the environment
+
+```bash
+source ~/.virtualenvs/prep-venv/bin/activate
+```
+
+>Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
+
+```bash
+mig@macbook-pro % source ~/.virtualenvs/prep-venv/bin/activate
+(prep-venv) mig@macbook-pro %
+```
+And you're able to make sure your virtual environment is active using the `which` command:
+
+```bash
+(prep-venv) mig@macbook-pro % which python
+/Users/mig/.virtualenvs/prep-venv/bin/python
+```
+
+Please don't forget to update pip.
+```bash
+pip install -U pip
+```
+
+This means that our virtual environment is active.
+
+*IMPORTANT!!!* make sure that your virtual environment is active before you proceed
+
+* Now you're ready to install packages! Just enter the directory of the `SLU000 - Jupyter Notebook` using the `cd` command, and install the required packages that are enumerated in the `requirements.txt` file
+
+```bash
+cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
+pip install -r requirements.txt
 ```
 
 #### Working on the Learning Unit
@@ -236,27 +279,39 @@ unit structure.
 It will give you a handle on what to expect and what rules the instructors
 follow (and the effort they put) when creating a learning unit.
 
-So let's start the Jupyter Notebook app.
+So let's start the Jupyter Notebook app:
+1. Activate your virtual environment
+    ```bash
+    source ~/.virtualenvs/prep-venv/bin/activate
+    ```
+1. Enter the Learning unit directory in your workspace directory (`ds-prep-workspace`).
+    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `ds-prep-workspace` repository, and **NEVER** work on files that are in your `ds-prep-course` repository!
+    ```bash
+    cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
+    ```
+1. Run the jupyter notebook
+    >**Windows 10 note:** if you are running **Windows 10** with WSL, the command to run the jupyter notebook is: `jupyter notebook --NotebookApp.use_redirect_file=False`
+    ```bash
+    jupyter notebook
+    ```
 
-###### Using the Graphical Interface
+When you run the `jupyter notebook` command, you should see something similar to this in your terminal:
+![Open exercise notebook](assets/jupyter_terminal.png "Open exercise notebook")
+Your browser should pop up with Jupyter open, however, if this does not happen, you can simply copy the link you see on your terminal (the one that contains `localhost`) and past it in your browser's address bar:
 
-1. Click the play button next to the newly created environment and select
-"Open with Jupyter Notebook"
-![Anaconda Jupyter](assets/anaconda_jupyter.png "Anaconda Jupyter")
+![Open exercise notebook](assets/jupyter_terminal_link.png "Open exercise notebook")
 
-###### Using the Terminal
+>Note: If you see these scarry looking error messages, don't worry, you can just ignore them.
 
-1. Activate the environment and run jupyter notebook
-```bash
-conda activate slu00
-jupyter notebook
-```
+![Open exercise notebook](assets/jupyter_error_red.png "Open exercise notebook")
 
 ##### The Exercise Notebook
 
+Make sure you open and go through the Learning Notebook first.
+
 Every learning unit contains an exercise notebook with exercises you will
 work on.
-So let's have a look at the sample Learning Unit. 
+So let's have a look at the sample Learning Unit.
 1. On the Jupyter Notebook UI in the browser open the exercise notebook
 ![Open exercise notebook](assets/jupyter_exercise_notebook.png "Open exercise notebook")
 1. Follow the instructions provided in the notebook
@@ -267,7 +322,7 @@ This is how we (and you) will determine if a solution is correct.
 If all `assert` statements pass, meaning you dont get an `AssertionError` or
 any other kind of exception, the solution is correct.
 
-Once you've solved all of the notebook we recommend the following this simple 
+Once you've solved all of the notebook we recommend the following this simple
 checklist to avoid unexpected surprises.
 1. Save the notebook (again)
 1. Run "Restart & Run All"
@@ -277,25 +332,18 @@ checklist to avoid unexpected surprises.
 If you want to submit your notebook before it is all the way done to
 check intermediate progress, feel free to.
 
-If you are able to go through the entire process and get a passing grade on 
+If you are able to go through the entire process and get a passing grade on
 the sample LU you'll have a good understanding of the same flow that you'll use
 for all LUs throughout the academy.
 
 #### Commit and Push
 
-Now you have worked on the sample learning unit and you have some uncommitted 
+Now you have worked on the sample learning unit and you have some uncommitted
 changes.
-It's time to commit the changes, which just means adding them to your `batch3-workspace`
+It's time to commit the changes, which just means adding them to your `batch4-workspace`
 repository history, and pushing this history to you remote on _GitHub_.
 
-###### Using _GitHub Desktop_
-
-1. Use the _GitHub Desktop_ application commit the changes and push
-![GitHub commit](assets/github_desktop_commit.png "GitHub commit")
-
-###### Using the terminal
-
-1. Using the terminal commit and push the changes
+* Using the terminal commit and push the changes
 ```bash
 git add .
 git commit -m 'Testing the sample notebook'
@@ -304,7 +352,7 @@ git push
 
 ##### Some Advice
 
-Our advice it to get comfortable with _git_, commit often and create branches 
+Our advice it to get comfortable with _git_, commit often and create branches
 to try different solutions and once you're ready merge everything back to
 the `master` branch.
 Having all of the iterations will help you keep track of your work.
@@ -324,26 +372,26 @@ into it
 ![Learning unit](assets/portal_sample_lu.png "Learning unit")
 1. Select "Grade"
 ![Grade](assets/portal_grade.png "Grade")
-1. After grading is complete you should have 20/20 
-1. If everything passes locally but the grader doesn't give you the excepted 
+1. After grading is complete you should have 20/20
+1. If everything passes locally but the grader doesn't give you the excepted
 output head to out [troubleshooting](#_portal_)
-1. Once you have your grade don't forget to do the 
+1. Once you have your grade don't forget to do the
 [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
 ## Learning Unit Workflow
 
 Learning units will be announced in the academy's _#annoucements_ channel.
-At this point they are available in the 
-[batch3-students](https://github.com/LDSSA/batch3-students) 
-repository and submissions are open in the 
+At this point they are available in the
+[batch4-students](https://github.com/LDSSA/batch4-students)
+repository and submissions are open in the
 [_Portal_](https://portal.lisbondatascience.org).
 
 The steps you followed during the initial setup are exactly what you are going
 to be doing for each new learning unit.
 Here's a quick recap:
-1. Once a new learning unit is available pull the changes from the 
-[batch3-students](https://github.com/LDSSA/batch3-students) repo.
-1. Copy the unit to your `batch3-workspace` repo
+1. Once a new learning unit is available pull the changes from the
+[batch4-students](https://github.com/LDSSA/batch4-students) repo.
+1. Copy the unit to your `batch4-workspace` repo
 1. Work
 1. Once all tests pass or once you're happy, commit the changes and push
 1. Go to the [_Portal_](https://portal.lisbondatascience.org), select the learning unit you're working on and click  "Grade"
@@ -352,9 +400,9 @@ Here's a quick recap:
 
 ## Updates to Learning Units
 
-As much as we try and have processes in place to prevent errors and bugs in 
+As much as we try and have processes in place to prevent errors and bugs in
 the learning units some make it through to you.
-If the problem is not in the exercise notebook you can just pull the new 
+If the problem is not in the exercise notebook you can just pull the new
 version from the students repo and replace the file.
 The problem is if the correction is in the exercise notebook, you can't just
 replace the file your work is there and you'll lose it!
@@ -366,7 +414,7 @@ and not graded.
 You will have to merge the work you've already done into the new version of the
 notebook.
 
-At the moment our suggestion to merge the changes is: 
+At the moment our suggestion to merge the changes is:
 1. Rename the old version
 1. Copy the new exercise notebook over
 1. Open both and copy paste your solutions to the new notebook
@@ -378,6 +426,8 @@ we offer no support for this at the moment.
 
 ## Help
 
+TODO should we include the troubleshooting section from the ds-prep-course readme?
+
 During the academy you will surely run into problems and have doubts about the
 material.
 We provide you with some different channels to ask for help.
@@ -385,7 +435,7 @@ We provide you with some different channels to ask for help.
 ### Learning Unit
 
 If you feel something is not clear enough or there is a bug in the learning
-material please follow [these steps](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help). Remember, there is no such thing as a dumb question, and by asking questions publically you will help others! 
+material please follow [these steps](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help). Remember, there is no such thing as a dumb question, and by asking questions publicly you will help others!
 
 If you have more conceptual questions about the materials or how to approach a problem you can also
 reach out to the instructors on slack.
@@ -395,13 +445,13 @@ out or redirect you to someone that is available at the moment.
 
 ### _Portal_
 
-Are you getting different results locally than what you are getting in the 
+Are you getting different results locally than what you are getting in the
 _Portal_?
 If so we will first ask to do a bit of troubleshooting.
 1. Ensure that you have saved the changes in the notebook
 1. Ensure that you have committed and pushed the changes
 1. Ensure that you are not using packages that are not present in the original
-`environment.yml` file (changes to this file or your local environment have no
+`requirements.txt` file (changes to this file or your local environment have no
 effect)
 1. In the learning unit page in the [_Portal_](https://portal.lisbondatascience.org/)
 you are able to download the exercise notebook with the results of the grader
