@@ -21,10 +21,8 @@ workflow you'll use during the academy.
     1. [_Portal_](#_portal_)
     1. [Other](#other)
 
-There is also a screencast to accompany this readme. Please note that there is one known issue so far in the screencast
-in that the clone of the batch3-students needs to be done by URL (as is shown in this README) and not by filter.
+TODO: There is also a screencast to accompany this readme.
 
-[![screencast](https://img.youtube.com/vi/6cHRO-ab_L4/0.jpg)](https://www.youtube.com/watch?v=6cHRO-ab_L4)
 
 ## Initial Setup
 
@@ -153,14 +151,14 @@ _Portal_
 #### Cloning the Workspace
 
 1. Open a Terminal or Git Bash, the next steps are on this terminal
-1. Clone your _<username>/batch3-workspace_ repository
+1. Clone your _<username>/batch4-workspace_ repository
 ```bash
-git clone git@github.com:<username>/batch3-workspace.git
+git clone git@github.com:<username>/batch4-workspace.git
 ```
 
 ### Get the Learning Material
 
-You will be cloning the [batch3-students](https://github.com/LDSSA/batch4-students)
+You will be cloning the [batch4-students](https://github.com/LDSSA/batch4-students)
 repository.
 All of the learning material you need will be made available on this repo
 as the academy progresses.
@@ -458,11 +456,11 @@ you are able to download the exercise notebook with the results of the grader
 by clicking your grade, have a look to figure out what went wrong.
 ![Download notebook](assets/portal_download_notebook.png "Download notebook")
 If none of these steps helped go ahead and open a support ticket for the portal
-[here](https://github.com/LDSSA/batch3-portal-support).
+[here](https://github.com/LDSSA/batch4-portal-support).
 
 Is the _Portal_ down or acting out in some unexpected way?
 Then please open a support ticket for the portal
-[here](https://github.com/LDSSA/batch3-portal-support).
+[here](https://github.com/LDSSA/batch4-portal-support).
 
 ### Other
 
