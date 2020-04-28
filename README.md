@@ -1,16 +1,26 @@
 # Batch 4 Students Repository
 
 Welcome to Lisbon Data Science Academy Batch 4 Students repository. The presentation used at the introduction of
-the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing).
+the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing). ----------------- remove this for now
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
+
+TODO:
+move the package instalations here:
+[Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
+to the [Initial Setup](#initial-setup)
+
+TODO: alter the venv name from prep-venv to slu00
+
+TODO: change slu000 to slu00
+
+TODO add an initial setup section for ubuntu
 
 1. [Initial Setup](#initial-setup)
     1. [Windows Setup](#Windows-Setup)
     1. [MacOS Setup](#MacOS-Setup)
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
-    1. [Install _Anaconda_](#install-_anaconda_)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
     1. [Get the Learning Material](#get-the-learning-material)
     1. [Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
@@ -21,7 +31,6 @@ workflow you'll use during the academy.
     1. [_Portal_](#_portal_)
     1. [Other](#other)
 
-TODO: There is also a screencast to accompany this readme.
 
 
 ## Initial Setup
@@ -43,14 +52,11 @@ This section deals with setting up either Windows Subsystem for Linux (WSL)
 or VMWare.
 If you are using MacOS or Linux you can skip this section.
 
-If you are using windows 10 we suggest using WSL (see below), if you are using an older Windows version we also support running a virtual linux machine with VMWare (TODO note that for this you will need at least 8 GB of RAM).
+If you are using windows 10 we suggest using WSL (see below), if you are using an older Windows version we also support running a virtual linux machine with VMWare.
 
 ##### Why do I need to install either WSL or VMware?
 
 Because of the differences in command line syntax between Windows vs Mac OS/Linux, it would be a great challenge for us to support and provide instructions for both Operating Systems. For this reason, we’d ask you to install Windows Subsystem for Linux, or VMware, which would enable you to run Linux command lines inside Windows. Keep in mind that these are simply extensions to your Windows operating system, hence, installing this software will not do any changes on your laptop. It is also quick to do so.
-
-TODO If due to some reasons, you cannot install WSL or VMware (e.g. you do not have the admin rights for your computer), you can still join the Prep Course and follow the Learning materials. However, all of our setup instructions and learning materials are created for Mac OS/Linux, and unfortunately we will not be able to provide support on how to do it on Windows.
-If you have some doubts/worries, feel free to reach out to us.
 
 #### Windows 10 Setup
 
@@ -62,6 +68,12 @@ If you are running an older version of Windows (such as Windows 8 or 7), follow 
 * [VMware download link](https://www.vmware.com/go/getplayer-win)
 * [Ubuntu download link](https://ubuntu.com/download/desktop/thank-you?version=18.04.4&architecture=amd64)
 * Follow this guide: [How To Run Ubuntu in Windows 7 with VMware Player](https://www.howtogeek.com/howto/11287/how-to-run-ubuntu-in-windows-7-with-vmware-player/)
+
+You'll now need to install a couple of packages,
+which can be done in a terminal by running:
+```bash
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
+```
 
 ### MacOS Setup
 
@@ -206,12 +218,6 @@ You should always be using a virtual environment to install python packages. We'
 
 To install and update packages, we'll be using _pip_ which is the reference Python package manager.
 
-If you are using **Ubuntu** you will need to install a couple of packages first,
-this can be done in a terminal by running:
-```bash
-sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
-```
-
 If you are using **Mac OS** you will need to install python, this can be done in a terminal by running:
 ```bash
 brew install python
@@ -348,22 +354,6 @@ git commit -m 'Testing the sample notebook'
 git push
 ```
 
-##### Some Advice
-
-Our advice it to get comfortable with _git_, commit often and create branches
-to try different solutions and once you're ready merge everything back to
-the `master` branch.
-Having all of the iterations will help you keep track of your work.
-
-Here is a recommendation for a _git_ workflow, if you are not comfortable you
-don't need to use it (but using it _will_ make you comfortable).
-1. Create a branch for the learning unit you're working on e.g. `slu00`
-1. Copy the files and commit
-1. Work a bit and commit, start the commit message with WIP (work in progress)
-1. Once you are ready checkout the `master` branch and merge the `slu00` branch
-into it
-1. Push the changes
-
 #### Grading
 
 1. Go to the [_Portal_](https://portal.lisbondatascience.org) and select the learning unit
@@ -377,6 +367,8 @@ output head to out [troubleshooting](#_portal_)
 [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
 ## Learning Unit Workflow
+
+TODO: add here the same commands we have in the ds-prep-course repo to hel the students set up
 
 Learning units will be announced in the academy's _#annoucements_ channel.
 At this point they are available in the
@@ -424,7 +416,7 @@ we offer no support for this at the moment.
 
 ## Help
 
-TODO should we include the troubleshooting section from the ds-prep-course readme?
+TODO should we include the troubleshooting section from the ds-prep-course readme? yes!!!
 
 During the academy you will surely run into problems and have doubts about the
 material.
