@@ -6,20 +6,16 @@ the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
 
-TODO:
-move the package instalations here:
-[Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
-to the [Initial Setup](#initial-setup)
+TODO: alter the references of ds-prep-course and ds-prep-workspace
 
-TODO: alter the venv name from prep-venv to slu00
+TODO: add instructions on how to create venvs for future LUs
 
-TODO: change slu000 to slu00
-
-TODO add an initial setup section for ubuntu
 
 1. [Initial Setup](#initial-setup)
     1. [Windows Setup](#Windows-Setup)
     1. [MacOS Setup](#MacOS-Setup)
+    1. [Ubuntu Setup](#Ubuntu-Setup)
+    1. [Setup for all Operating Systems](#Setup-for-all-Operating-Systems)
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
     1. [Get the Learning Material](#get-the-learning-material)
@@ -32,7 +28,10 @@ TODO add an initial setup section for ubuntu
     1. [Other](#other)
 
 
+###############################
 
+
+############################
 ## Initial Setup
 
 **IMPORTANT**
@@ -69,6 +68,7 @@ If you are running an older version of Windows (such as Windows 8 or 7), follow 
 * [Ubuntu download link](https://ubuntu.com/download/desktop/thank-you?version=18.04.4&architecture=amd64)
 * Follow this guide: [How To Run Ubuntu in Windows 7 with VMware Player](https://www.howtogeek.com/howto/11287/how-to-run-ubuntu-in-windows-7-with-vmware-player/)
 
+
 You'll now need to install a couple of packages,
 which can be done in a terminal by running:
 ```bash
@@ -94,6 +94,70 @@ Copy and paste the following line in the terminal:
 ```
 You may be offered to install the _Command Line Developer Tools_, confirm and
 once it's finished continue installing Homebrew by pressing <kbd>enter</kbd> again.
+
+You will need to install python, this can be done in a terminal by running:
+```bash
+brew install python
+```
+
+
+### Ubuntu Setup
+
+So you're using Ubuntu, hun? Well, kudos to you.
+
+You just need to install a couple of packages,
+which can be done in a terminal by running:
+```bash
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
+```
+
+
+### Setup for all Operating Systems
+
+
+#### Creating a Python Virtual Environment
+
+Bellow are the instructions that are enough to get the setup done and get you up and running :)
+You can also follow [this guide](guides/How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
+
+You should always be using a virtual environment to install python packages. We'll use _venv_ to set them up.
+
+To install and update packages, we'll be using _pip_ which is the reference Python package manager.
+
+
+##### Start by installing ensuring pip, setuptools, and wheel are up to date:
+
+```bash
+python3 -m pip install --user --upgrade pip setuptools wheel
+```
+
+* Create a virtual environment with the name `slu00`
+```bash
+python3 -m venv ~/.virtualenvs/slu00
+```
+* Activate the environment
+
+```bash
+source ~/.virtualenvs/slu00/bin/activate
+```
+
+>Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
+
+```bash
+mig@macbook-pro % source ~/.virtualenvs/slu00/bin/activate
+(slu00) mig@macbook-pro %
+```
+And you're able to make sure your virtual environment is active using the `which` command (it outputs the location of your virtual environment's python installation):
+
+```bash
+(slu00) mig@macbook-pro % which python
+/Users/mig/.virtualenvs/slu00/bin/python
+```
+
+Now update pip.
+```bash
+pip install -U pip
+```
 
 
 ### Setup _Git_/_GitHub_
@@ -209,64 +273,6 @@ All learning units are organized as:
 Doing so will help you keep organized and ease copying data from the students
 repository to yours.
 
-#### Creating a Python Virtual Environment and installing the necessary packages
-
-Bellow are the instructions that are enough to get the setup done and get you up and running :)
-You can also follow [this guide](guides/How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
-
-You should always be using a virtual environment to install python packages. We'll use _venv_ to set them up.
-
-To install and update packages, we'll be using _pip_ which is the reference Python package manager.
-
-If you are using **Mac OS** you will need to install python, this can be done in a terminal by running:
-```bash
-brew install python
-```
-
-##### Start by installing ensuring pip, setuptools, and wheel are up to date:
-
-```bash
-python3 -m pip install --user --upgrade pip setuptools wheel
-```
-
-* Create a virtual environment with the name `prep-venv`
-```bash
-python3 -m venv ~/.virtualenvs/prep-venv
-```
-* Activate the environment
-
-```bash
-source ~/.virtualenvs/prep-venv/bin/activate
-```
-
->Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
-
-```bash
-mig@macbook-pro % source ~/.virtualenvs/prep-venv/bin/activate
-(prep-venv) mig@macbook-pro %
-```
-And you're able to make sure your virtual environment is active using the `which` command:
-
-```bash
-(prep-venv) mig@macbook-pro % which python
-/Users/mig/.virtualenvs/prep-venv/bin/python
-```
-
-Please don't forget to update pip.
-```bash
-pip install -U pip
-```
-
-This means that our virtual environment is active.
-
-*IMPORTANT!!!* make sure that your virtual environment is active before you proceed
-
-* Now you're ready to install packages! Just enter the directory of the `SLU000 - Jupyter Notebook` using the `cd` command, and install the required packages that are enumerated in the `requirements.txt` file
-
-```bash
-cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
-pip install -r requirements.txt
-```
 
 #### Working on the Learning Unit
 
@@ -286,13 +292,20 @@ follow (and the effort they put) when creating a learning unit.
 So let's start the Jupyter Notebook app:
 1. Activate your virtual environment
     ```bash
-    source ~/.virtualenvs/prep-venv/bin/activate
+    source ~/.virtualenvs/slu00/bin/activate
     ```
+
 1. Enter the Learning unit directory in your workspace directory (`ds-prep-workspace`).
     >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `ds-prep-workspace` repository, and **NEVER** work on files that are in your `ds-prep-course` repository!
     ```bash
-    cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
+    cd ~/projects/ds-prep-workspace/"Week 0"/"SLU00 - Jupyter Notebook"
     ```
+
+1. Installing the necessary packages
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 1. Run the jupyter notebook
     >**Windows 10 note:** if you are running **Windows 10** with WSL, the command to run the jupyter notebook is: `jupyter notebook --NotebookApp.use_redirect_file=False`
     ```bash
