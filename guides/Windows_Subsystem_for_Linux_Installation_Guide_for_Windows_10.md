@@ -111,7 +111,7 @@ sudo apt update && sudo apt upgrade
 
 If you’d like to use Windows File Explorer to manipulate the files in WSL, just type this in the WSL terminal **(don't forget to include the dot! the dot means "current directory")**:
 
-TODO: make it very clear that to use explorer to access the file swe use throughout the accademy they need to use this command
+> Important: to use Windows Explorer to access the the files you will use throughout the academy (which exist on the WSL file system) you will need to use this command to open Windows Explorer
 
 ```console
 mig@DESKTOP-GKLQ11P:~$ explorer.exe .

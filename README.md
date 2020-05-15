@@ -1,14 +1,9 @@
 # Batch 4 Students Repository
 
-Welcome to Lisbon Data Science Academy Batch 4 Students repository. The presentation used at the introduction of
-the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing). ----------------- remove this for now
+Welcome to Lisbon Data Science Academy Batch 4 Students repository!
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
-
-TODO: alter the references of ds-prep-course and ds-prep-workspace
-
-TODO: add instructions on how to create venvs for future LUs
 
 
 1. [Initial Setup](#initial-setup)
@@ -25,13 +20,10 @@ TODO: add instructions on how to create venvs for future LUs
 1. [Help](#help)
     1. [Learning Unit](#learning-unit-workflow)
     1. [_Portal_](#_portal_)
+    1. [Troubleshooting](#Troubleshooting)
     1. [Other](#other)
 
 
-###############################
-
-
-############################
 ## Initial Setup
 
 **IMPORTANT**
@@ -295,10 +287,10 @@ So let's start the Jupyter Notebook app:
     source ~/.virtualenvs/slu00/bin/activate
     ```
 
-1. Enter the Learning unit directory in your workspace directory (`ds-prep-workspace`).
-    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `ds-prep-workspace` repository, and **NEVER** work on files that are in your `ds-prep-course` repository!
+1. Enter the Learning unit directory in your workspace directory (`batch4-workspace`).
+    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `batch4-workspace` repository, and **NEVER** work on files that are in your `batch4-students` repository!
     ```bash
-    cd ~/projects/ds-prep-workspace/"Week 0"/"SLU00 - Jupyter Notebook"
+    cd ~/projects/batch4-workspace/"Week 0"/"SLU00 - Jupyter Notebook"
     ```
 
 1. Installing the necessary packages
@@ -379,27 +371,87 @@ output head to out [troubleshooting](#_portal_)
 1. Once you have your grade don't forget to do the
 [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
+
 ## Learning Unit Workflow
 
-TODO: add here the same commands we have in the ds-prep-course repo to hel the students set up
+You will need to follow this workflow every week starting from week 1.
 
-Learning units will be announced in the academy's _#annoucements_ channel.
+Learning units will be announced in the academy's _#announcements_ channel.
 At this point they are available in the
 [batch4-students](https://github.com/LDSSA/batch4-students)
-repository and submissions are open in the
-[_Portal_](https://portal.lisbondatascience.org).
+repository.
+A new Learning Unit is released every Monday, and its
+solutions are then released the next Monday.
 
 The steps you followed during the initial setup are exactly what you are going
-to be doing for each new learning unit.
+to be doing for each new Learning Unit.
 Here's a quick recap:
-1. Once a new learning unit is available pull the changes from the
-[batch4-students](https://github.com/LDSSA/batch4-students) repo.
-1. Copy the unit to your `batch4-workspace` repo
+1. Once a new Learning Unit is available at the beginning of each week, pull the changes from the
+[batch4-students](https://github.com/LDSSA/batch4-students) repo:
+    * enter the `~/projects/batch4-students/` using the `cd` command, then use the `git pull` command:
+    ```bash
+    cd ~/projects/batch4-students/
+    git pull
+    ```
+
+    >note that this will also pull the solutions for the Learning Unit of the previous week
+
+1. Copy the Learning Unit to your `batch4-workspace` repo
+
+    * To do that you can use the `cp` command:
+    ```bash
+    cp -r ~/projects/batch4-students/"Week <week number>" ~/projects/batch4-workspace
+    ```
+
+    and you would replace the `<week number>` with the week number, such that in week 0, for example, the command would be:
+    ```bash
+    cp -r ~/projects/batch4-students/"Week 0" ~/projects/batch4-workspace
+    ```
+
+1. Create a new virtual environment for the Learning Unit you'll be working on.
+
+    * To do this you will run the following command:
+    ```bash
+    python3 -m venv ~/.virtualenvs/<Learning Unit name>
+    ```
+
+    * and you would replace the `<Learning Unit name>` with the Learning Unit name, such that for SLU00, for example, the command would be:
+    ```bash
+    python3 -m venv ~/.virtualenvs/slu00
+    ```
+
+1. Activate your virtual environment
+    ```bash
+    source ~/.virtualenvs/slu00/bin/activate
+    ```
+
+1. Install the python packages from requirements.txt for the specific SLU (you must do this for each SLU, and there are multiple SLU's in a Week)
+    ```bash
+    pip install -r ~/projects/batch4-workspace/"Week <week number>"/"<SLU name>"/requirements.txt
+    ```
+    and you would replace `<week number>` and `<SLU name>`, such that in Week 0 and SLU000 - Jupyter Notebook, for example, the command would be:
+    ```bash
+    pip install -r ~/projects/batch4-workspace/"Week 0"/"SLU000 - Jupyter Notebook"/requirements.txt
+    ```
+1. Change to the `batch4-workspace` dir
+    ```bash
+    cd ~/projects/batch4-workspace
+    ```
+1. Open Jupyter Notebook
+    ```bash
+    jupyter notebook
+    ```
 1. Work
-1. Once all tests pass or once you're happy, commit the changes and push
-1. Go to the [_Portal_](https://portal.lisbondatascience.org), select the learning unit you're working on and click  "Grade"
-1. Refresh the page until you get the results back
+1. Once all tests pass or once you're happy, save your work, close the browser tab with the Jupyter Notebook, close the terminal and open a new terminal
+1. Then commit the changes and push
+    ```bash
+    cd ~/projects/batch4-workspace
+    git add .
+    git commit -m "Work on week <week number> exercises"
+    git push
+    ```
 1. Profit
+
 
 ## Updates to Learning Units
 
@@ -429,11 +481,10 @@ we offer no support for this at the moment.
 
 ## Help
 
-TODO should we include the troubleshooting section from the ds-prep-course readme? yes!!!
-
 During the academy you will surely run into problems and have doubts about the
 material.
 We provide you with some different channels to ask for help.
+
 
 ### Learning Unit
 
@@ -445,6 +496,7 @@ reach out to the instructors on slack.
 You can find the main contact for the learning unit in the
 [_Portal_](https://portal.lisbondatascience.org/) this instructor can help you
 out or redirect you to someone that is available at the moment.
+
 
 ### _Portal_
 
@@ -466,6 +518,77 @@ If none of these steps helped go ahead and open a support ticket for the portal
 Is the _Portal_ down or acting out in some unexpected way?
 Then please open a support ticket for the portal
 [here](https://github.com/LDSSA/batch4-portal-support).
+
+
+### Troubleshooting
+
+1. [When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide](#When-I-open-Windows-Explorer-through-Ubuntu,-it-goes-to-a-different-folder-than-in-the-guide)
+1. [Tips and Tricks](#Tips-and-Tricks)
+1. [When I pull from the `ds prep course` repository, I get an error](#When-I-pull-from-the-batch4-students-repository,-I-get-the-error)
+1. [When I try to open `jupyter notebook`, I get an error](#When-I-try-to-open-jupyter-notebook,-I-get-the-error)
+1. [When I use the `cp` command the `>` sign appears and the command does not execute](#When-I-use-the-`cp`-command-the->-sign-appears-and-the-command-does-not-execute)
+
+#### When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide
+
+* Please make sure:
+    * you are running the command `explorer.exe .` including the dot at the end.
+    * you are running Windows 10 version `1909` or newer.
+
+#### Ubuntu on Windows 10 high CPU usage, crashes
+
+* First please make sure you are running Windows 10 version `1909` or newer.
+* Then, try following [these steps](https://teckangaroo.com/enable-windows-10-virtual-machine-platform/)
+
+#### When I pull from the `batch4-students` repository, I get the error:
+
+```
+error: Your local changes to the following files would be overwritten by merge:
+<some files>
+Please commit your changes or stash them before you merge.
+Aborting
+```
+
+_git_ is telling us that changes were made by you to the files on the `~/projects/batch4-students` folder, and is not pulling the changes made by the instructors because they would override the changes that you made there. To fix this do the following:
+1. make sure that any change you made to the files on `~/projects/batch4-students`  (that you want to not lose) is saved in your `~/projects/batch4-workspace` repository (see https://github.com/LDSSA/batch4-students#updates-to-learning-units for how to do this), and if you don't want to keep the changes you made to these files, just continue on to the next step
+2. go to the `~/projects/batch4-students` folder and run:
+
+    ```
+    cd ~/projects/batch4-students
+    git stash
+    ```
+
+3. now you can pull from the `batch4-students` repository:
+
+    ```
+    git pull
+    ```
+
+#### When I try to open `jupyter notebook`, I get the error:
+
+```
+migs-MBP% jupyter notebook
+zsh: command not found: jupyter
+```
+
+Before opening `jupyter notebook` activate your virtual environment:
+
+```
+source ~/.virtualenvs/slu00/bin/activate
+```
+
+#### When I use the `cp` command the `>` sign appears and the command does not execute
+
+```
+cp -r ~/projects/batch4-students/“Week 0" batch4-workspace
+>
+```
+
+Make sure to use this type of quotes `"` and not these ones `“`.
+
+#### My problem is not listed here, what should I do?
+
+If the above steps didn't solve the problem for you, please contact us on Slack or if you are not on slack, [open an issue](https://guides.github.com/features/issues/)
+
 
 ### Other
 
