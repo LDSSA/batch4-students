@@ -136,13 +136,13 @@ source ~/.virtualenvs/slu00/bin/activate
 >Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
 
 ```bash
-mig@macbook-pro % source ~/.virtualenvs/slu00/bin/activate
-(slu00) mig@macbook-pro %
+mig@my-machine % source ~/.virtualenvs/slu00/bin/activate
+(slu00) mig@my-machine %
 ```
 And you're able to make sure your virtual environment is active using the `which` command (it outputs the location of your virtual environment's python installation):
 
 ```bash
-(slu00) mig@macbook-pro % which python
+(slu00) mig@my-machine % which python
 /Users/mig/.virtualenvs/slu00/bin/python
 ```
 
