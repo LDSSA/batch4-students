@@ -1,0 +1,4 @@
+jupyter==1.0.0
+nbgrader==0.6.1
+pandas==1.0.3
+numpy==1.18.3
