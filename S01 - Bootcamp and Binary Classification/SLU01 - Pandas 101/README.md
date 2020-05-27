@@ -1,8 +1,6 @@
 # Small Learning Unit 1 - Pandas 101
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1CQxhV9_3-f-aRtRc7SemIhGZIyZE0D5dUPY6L3EvGgE/edit#slide=id.g5cd8845971_0_0)
-
 # New concepts in this unit
 
 - Importing Pandas
