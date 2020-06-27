@@ -1,0 +1,6 @@
+jupyter==1.0.0
+numpy==1.18.5
+nbgrader==0.6.1
+pandas==1.0.4
+scikit-learn==0.23.1
+
