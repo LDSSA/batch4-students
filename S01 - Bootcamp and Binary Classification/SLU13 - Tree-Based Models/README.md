@@ -22,5 +22,5 @@
 ## Installing graphviz
 
 To visualize some of the examples in the unit, you will need to install [graphviz](https://graphviz.org/):
-* Mac: `brew cask install graphviz`
+* Mac: `brew cask install graphviz` (if you don't have Homebrew, follow [these instructions](https://brew.sh/))
 * Ubuntu: `sudo apt install graphviz`
