@@ -1,6 +1,6 @@
 # SLU09 - Model Selection & Overfitting
 
-#### [Presentation](https://drive.google.com/drive/u/2/folders/1Vu0cXy5CO9vzzsonKKwtaV6-BFvkAV3p)
+#### [Presentation](https://docs.google.com/presentation/d/1HW_5IRseiowCZrVcxFQnn3pocdBjtN_3jbklisCu_uw/edit?usp=sharing)
 
 # New concepts in this unit
 
