@@ -86,6 +86,8 @@ def plot_super_conservative(X, y):
     plt.figure(figsize=(10, 10))
     plot_decision_regions(X.values, y.values, clf=lr, legend=2)
     plt.title("Logistic Regression (LR)")
+    plt.xlabel('Color')
+    plt.ylabel('IBU')
     plt.show()
     return preds
 
@@ -97,6 +99,8 @@ def plot_super_flexible(X, y):
     plt.figure(figsize=(10, 10))
     plot_decision_regions(X.values, y.values, clf=knn_k1, legend=2)
     plt.title("KNN (k=1)")
+    plt.xlabel('Color')
+    plt.ylabel('IBU')
     plt.show()
     return preds
 
@@ -108,6 +112,8 @@ def plot_just_right(X, y):
     plt.figure(figsize=(10, 10))
     plot_decision_regions(X.values, y.values, clf=knn_k9, legend=2)
     plt.title("KNN (k=9)")
+    plt.xlabel('Color')
+    plt.ylabel('IBU')
     plt.show()
     return preds
 
@@ -174,4 +180,6 @@ def fit_and_plot_linear_regression(data):
 
     plt.scatter(X['x'], data['y'], c='orange', s=5)
     plt.plot(X['x'], lr.predict(X))
+    plt.xlabel('X')
+    plt.ylabel('y')
     plt.title('Linear Regression (R²: {})'.format(lr.score(X, y)))
