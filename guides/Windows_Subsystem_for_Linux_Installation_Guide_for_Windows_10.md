@@ -2,7 +2,7 @@
 
 ## Make sure that Windows is up to date
 
-1. Type "update" in your Windows search bar 
+1. Type "update" in your Windows search bar
 
 ![start](assets/start.png)
 
@@ -20,7 +20,7 @@ After you're done installing those updates, please [check which version of Windo
 
 Before installing any Linux distros for WSL, you must ensure that the "Windows Subsystem for Linux" optional feature is enabled:
 
-1. Open PowerShell as Administrator by typing "PowerShell" in your Windows search bar 
+1. Open PowerShell as Administrator by typing "PowerShell" in your Windows search bar
 
 ![start](assets/start.png)
 
@@ -28,7 +28,7 @@ and then clicking "Run as Administrator"
 
 ![start](assets/open_powershell.png)
 
-2. Then paste the following command on PowerShell 
+2. Then paste the following command on PowerShell
 
 ```powershell
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
@@ -37,7 +37,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 ![start](assets/paste_powershell.png)
 
 and run it by pressing <kbd>enter</kbd>:
-    
+
 
 3. Restart your computer if asked to.
 
@@ -47,7 +47,7 @@ and run it by pressing <kbd>enter</kbd>:
 
 
 ## Launch a distro
-To complete the initialization of your newly installed distro, launch a new instance. You can do this by typing "ubuntu" in your Windows search bar 
+To complete the initialization of your newly installed distro, launch a new instance. You can do this by typing "ubuntu" in your Windows search bar
 
 ![start](assets/start.png)
 
@@ -59,19 +59,19 @@ The first time a newly installed distro runs, a Console window will open, and yo
 
 ## Setting up a new Linux user account
 
-Once installation is complete, you will be prompted to create a new user account (and its password). 
+Once installation is complete, you will be prompted to create a new user account (and its password).
 
 ![Ubuntu unpacking in the Windows console](assets/UbuntuInstall.png)
 
 This user account is for the normal non-admin user that you'll be logged-in as by default when launching a distro.
 
-> You can choose any username and password you wish - they have no bearing on your Windows username. 
+> You can choose any username and password you wish - they have no bearing on your Windows username.
 
 When you open a new distro instance, you won't be prompted for your password, but **if you elevate a process using `sudo`, you will need to enter your password**, so make sure you choose a password you can easily remember!
 
 ## Opening the WSL terminal
 
-After that, whenever you want to use WSL, just type "ubuntu" in your Windows search bar 
+After that, whenever you want to use WSL, just type "ubuntu" in your Windows search bar
 
 ![start](assets/start.png)
 
@@ -111,6 +111,8 @@ sudo apt update && sudo apt upgrade
 
 If you’d like to use Windows File Explorer to manipulate the files in WSL, just type this in the WSL terminal **(don't forget to include the dot! the dot means "current directory")**:
 
+> Important: to use Windows Explorer to access the the files you will use throughout the academy (which exist on the WSL file system) you will need to use this command to open Windows Explorer
+
 ```console
 mig@DESKTOP-GKLQ11P:~$ explorer.exe .
 ```
@@ -120,4 +122,4 @@ The Windows Explorer should pop up:
 
 Keep in mind that you should manipulate files and create directories inside your `Ubuntu-18.04/home/<your name>` folder.
 
-## You're all set!  
+## You're all set!

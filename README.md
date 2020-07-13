@@ -1,16 +1,17 @@
 # Batch 4 Students Repository
 
-Welcome to Lisbon Data Science Academy Batch 4 Students repository. The presentation used at the introduction of
-the bootcamp is TODO CHECK THIS LINK [here](https://docs.google.com/presentation/d/1uMTbu7vRd0tYEp2ksOqRZyLefPEBB_0-pvanLtAOhjk/edit?usp=sharing).
+Welcome to Lisbon Data Science Academy Batch 4 Students repository!
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the academy.
 
+
 1. [Initial Setup](#initial-setup)
     1. [Windows Setup](#Windows-Setup)
     1. [MacOS Setup](#MacOS-Setup)
+    1. [Ubuntu Setup](#Ubuntu-Setup)
+    1. [Setup for all Operating Systems](#Setup-for-all-Operating-Systems)
     1. [Setup _Git_/_GitHub_](#setup-_git__github_)
-    1. [Install _Anaconda_](#install-_anaconda_)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
     1. [Get the Learning Material](#get-the-learning-material)
     1. [Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
@@ -19,9 +20,8 @@ workflow you'll use during the academy.
 1. [Help](#help)
     1. [Learning Unit](#learning-unit-workflow)
     1. [_Portal_](#_portal_)
+    1. [Troubleshooting](#Troubleshooting)
     1. [Other](#other)
-
-TODO: There is also a screencast to accompany this readme.
 
 
 ## Initial Setup
@@ -43,14 +43,11 @@ This section deals with setting up either Windows Subsystem for Linux (WSL)
 or VMWare.
 If you are using MacOS or Linux you can skip this section.
 
-If you are using windows 10 we suggest using WSL (see below), if you are using an older Windows version we also support running a virtual linux machine with VMWare (TODO note that for this you will need at least 8 GB of RAM).
+If you are using windows 10 we suggest using WSL (see below), if you are using an older Windows version we also support running a virtual linux machine with VMWare.
 
 ##### Why do I need to install either WSL or VMware?
 
 Because of the differences in command line syntax between Windows vs Mac OS/Linux, it would be a great challenge for us to support and provide instructions for both Operating Systems. For this reason, we’d ask you to install Windows Subsystem for Linux, or VMware, which would enable you to run Linux command lines inside Windows. Keep in mind that these are simply extensions to your Windows operating system, hence, installing this software will not do any changes on your laptop. It is also quick to do so.
-
-TODO If due to some reasons, you cannot install WSL or VMware (e.g. you do not have the admin rights for your computer), you can still join the Prep Course and follow the Learning materials. However, all of our setup instructions and learning materials are created for Mac OS/Linux, and unfortunately we will not be able to provide support on how to do it on Windows.
-If you have some doubts/worries, feel free to reach out to us.
 
 #### Windows 10 Setup
 
@@ -62,6 +59,13 @@ If you are running an older version of Windows (such as Windows 8 or 7), follow 
 * [VMware download link](https://www.vmware.com/go/getplayer-win)
 * [Ubuntu download link](https://ubuntu.com/download/desktop/thank-you?version=18.04.4&architecture=amd64)
 * Follow this guide: [How To Run Ubuntu in Windows 7 with VMware Player](https://www.howtogeek.com/howto/11287/how-to-run-ubuntu-in-windows-7-with-vmware-player/)
+
+
+You'll now need to install a couple of packages,
+which can be done in a terminal by running:
+```bash
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
+```
 
 ### MacOS Setup
 
@@ -82,6 +86,70 @@ Copy and paste the following line in the terminal:
 ```
 You may be offered to install the _Command Line Developer Tools_, confirm and
 once it's finished continue installing Homebrew by pressing <kbd>enter</kbd> again.
+
+You will need to install python, this can be done in a terminal by running:
+```bash
+brew install python
+```
+
+
+### Ubuntu Setup
+
+So you're using Ubuntu, hun? Well, kudos to you.
+
+You just need to install a couple of packages,
+which can be done in a terminal by running:
+```bash
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
+```
+
+
+### Setup for all Operating Systems
+
+
+#### Creating a Python Virtual Environment
+
+Bellow are the instructions that are enough to get the setup done and get you up and running :)
+You can also follow [this guide](guides/How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
+
+You should always be using a virtual environment to install python packages. We'll use _venv_ to set them up.
+
+To install and update packages, we'll be using _pip_ which is the reference Python package manager.
+
+
+##### Start by installing ensuring pip, setuptools, and wheel are up to date:
+
+```bash
+python3 -m pip install --user --upgrade pip setuptools wheel
+```
+
+* Create a virtual environment with the name `slu00`
+```bash
+python3 -m venv ~/.virtualenvs/slu00
+```
+* Activate the environment
+
+```bash
+source ~/.virtualenvs/slu00/bin/activate
+```
+
+>Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
+
+```bash
+mig@my-machine % source ~/.virtualenvs/slu00/bin/activate
+(slu00) mig@my-machine %
+```
+And you're able to make sure your virtual environment is active using the `which` command (it outputs the location of your virtual environment's python installation):
+
+```bash
+(slu00) mig@my-machine % which python
+/Users/mig/.virtualenvs/slu00/bin/python
+```
+
+Now update pip.
+```bash
+pip install -U pip
+```
 
 
 ### Setup _Git_/_GitHub_
@@ -197,70 +265,6 @@ All learning units are organized as:
 Doing so will help you keep organized and ease copying data from the students
 repository to yours.
 
-#### Creating a Python Virtual Environment and installing the necessary packages
-
-Bellow are the instructions that are enough to get the setup done and get you up and running :)
-You can also follow [this guide](guides/How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
-
-You should always be using a virtual environment to install python packages. We'll use _venv_ to set them up.
-
-To install and update packages, we'll be using _pip_ which is the reference Python package manager.
-
-If you are using **Ubuntu** you will need to install a couple of packages first,
-this can be done in a terminal by running:
-```bash
-sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3-venv
-```
-
-If you are using **Mac OS** you will need to install python, this can be done in a terminal by running:
-```bash
-brew install python
-```
-
-##### Start by installing ensuring pip, setuptools, and wheel are up to date:
-
-```bash
-python3 -m pip install --user --upgrade pip setuptools wheel
-```
-
-* Create a virtual environment with the name `prep-venv`
-```bash
-python3 -m venv ~/.virtualenvs/prep-venv
-```
-* Activate the environment
-
-```bash
-source ~/.virtualenvs/prep-venv/bin/activate
-```
-
->Note: after you activate your virtual environment you should see at the leftmost of your command line the name of your virtual environment surrounded by parenthesis, like this:
-
-```bash
-mig@macbook-pro % source ~/.virtualenvs/prep-venv/bin/activate
-(prep-venv) mig@macbook-pro %
-```
-And you're able to make sure your virtual environment is active using the `which` command:
-
-```bash
-(prep-venv) mig@macbook-pro % which python
-/Users/mig/.virtualenvs/prep-venv/bin/python
-```
-
-Please don't forget to update pip.
-```bash
-pip install -U pip
-```
-
-This means that our virtual environment is active.
-
-*IMPORTANT!!!* make sure that your virtual environment is active before you proceed
-
-* Now you're ready to install packages! Just enter the directory of the `SLU000 - Jupyter Notebook` using the `cd` command, and install the required packages that are enumerated in the `requirements.txt` file
-
-```bash
-cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
-pip install -r requirements.txt
-```
 
 #### Working on the Learning Unit
 
@@ -280,13 +284,20 @@ follow (and the effort they put) when creating a learning unit.
 So let's start the Jupyter Notebook app:
 1. Activate your virtual environment
     ```bash
-    source ~/.virtualenvs/prep-venv/bin/activate
+    source ~/.virtualenvs/slu00/bin/activate
     ```
-1. Enter the Learning unit directory in your workspace directory (`ds-prep-workspace`).
-    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `ds-prep-workspace` repository, and **NEVER** work on files that are in your `ds-prep-course` repository!
+
+1. Enter the Learning unit directory in your workspace directory (`batch4-workspace`).
+    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `batch4-workspace` repository, and **NEVER** work on files that are in your `batch4-students` repository!
     ```bash
-    cd ~/projects/ds-prep-workspace/"Week 0"/"SLU000 - Jupyter Notebook"
+    cd ~/projects/batch4-workspace/"Week 0"/"SLU00 - Jupyter Notebook"
     ```
+
+1. Installing the necessary packages
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 1. Run the jupyter notebook
     >**Windows 10 note:** if you are running **Windows 10** with WSL, the command to run the jupyter notebook is: `jupyter notebook --NotebookApp.use_redirect_file=False`
     ```bash
@@ -348,22 +359,6 @@ git commit -m 'Testing the sample notebook'
 git push
 ```
 
-##### Some Advice
-
-Our advice it to get comfortable with _git_, commit often and create branches
-to try different solutions and once you're ready merge everything back to
-the `master` branch.
-Having all of the iterations will help you keep track of your work.
-
-Here is a recommendation for a _git_ workflow, if you are not comfortable you
-don't need to use it (but using it _will_ make you comfortable).
-1. Create a branch for the learning unit you're working on e.g. `slu00`
-1. Copy the files and commit
-1. Work a bit and commit, start the commit message with WIP (work in progress)
-1. Once you are ready checkout the `master` branch and merge the `slu00` branch
-into it
-1. Push the changes
-
 #### Grading
 
 1. Go to the [_Portal_](https://portal.lisbondatascience.org) and select the learning unit
@@ -376,25 +371,87 @@ output head to out [troubleshooting](#_portal_)
 1. Once you have your grade don't forget to do the
 [spreadsheet](https://docs.google.com/spreadsheets/d/1bEOwvEmEJONYzW94efixHa8Te8I_QKC91m8WPoADxjY/edit?usp=sharing) thing.
 
+
 ## Learning Unit Workflow
 
-Learning units will be announced in the academy's _#annoucements_ channel.
+You will need to follow this workflow every week starting from week 1.
+
+Learning units will be announced in the academy's _#announcements_ channel.
 At this point they are available in the
 [batch4-students](https://github.com/LDSSA/batch4-students)
-repository and submissions are open in the
-[_Portal_](https://portal.lisbondatascience.org).
+repository.
+A new Learning Unit is released every Monday, and its
+solutions are then released the next Monday.
 
 The steps you followed during the initial setup are exactly what you are going
-to be doing for each new learning unit.
+to be doing for each new Learning Unit.
 Here's a quick recap:
-1. Once a new learning unit is available pull the changes from the
-[batch4-students](https://github.com/LDSSA/batch4-students) repo.
-1. Copy the unit to your `batch4-workspace` repo
+1. Once a new Learning Unit is available at the beginning of each week, pull the changes from the
+[batch4-students](https://github.com/LDSSA/batch4-students) repo:
+    * enter the `~/projects/batch4-students/` using the `cd` command, then use the `git pull` command:
+    ```bash
+    cd ~/projects/batch4-students/
+    git pull
+    ```
+
+    >note that this will also pull the solutions for the Learning Unit of the previous week
+
+1. Copy the Learning Unit to your `batch4-workspace` repo
+
+    * To do that you can use the `cp` command:
+    ```bash
+    cp -r ~/projects/batch4-students/"Week <week number>" ~/projects/batch4-workspace
+    ```
+
+    and you would replace the `<week number>` with the week number, such that in week 0, for example, the command would be:
+    ```bash
+    cp -r ~/projects/batch4-students/"Week 0" ~/projects/batch4-workspace
+    ```
+
+1. Create a new virtual environment for the Learning Unit you'll be working on.
+
+    * To do this you will run the following command:
+    ```bash
+    python3 -m venv ~/.virtualenvs/<Learning Unit name>
+    ```
+
+    * and you would replace the `<Learning Unit name>` with the Learning Unit name, such that for SLU00, for example, the command would be:
+    ```bash
+    python3 -m venv ~/.virtualenvs/slu00
+    ```
+
+1. Activate your virtual environment
+    ```bash
+    source ~/.virtualenvs/slu00/bin/activate
+    ```
+
+1. Install the python packages from requirements.txt for the specific SLU (you must do this for each SLU, and there are multiple SLU's in a Week)
+    ```bash
+    pip install -r ~/projects/batch4-workspace/"Week <week number>"/"<SLU name>"/requirements.txt
+    ```
+    and you would replace `<week number>` and `<SLU name>`, such that in Week 0 and SLU000 - Jupyter Notebook, for example, the command would be:
+    ```bash
+    pip install -r ~/projects/batch4-workspace/"Week 0"/"SLU000 - Jupyter Notebook"/requirements.txt
+    ```
+1. Change to the `batch4-workspace` dir
+    ```bash
+    cd ~/projects/batch4-workspace
+    ```
+1. Open Jupyter Notebook
+    ```bash
+    jupyter notebook
+    ```
 1. Work
-1. Once all tests pass or once you're happy, commit the changes and push
-1. Go to the [_Portal_](https://portal.lisbondatascience.org), select the learning unit you're working on and click  "Grade"
-1. Refresh the page until you get the results back
+1. Once all tests pass or once you're happy, save your work, close the browser tab with the Jupyter Notebook, close the terminal and open a new terminal
+1. Then commit the changes and push
+    ```bash
+    cd ~/projects/batch4-workspace
+    git add .
+    git commit -m "Work on week <week number> exercises"
+    git push
+    ```
 1. Profit
+
 
 ## Updates to Learning Units
 
@@ -424,11 +481,10 @@ we offer no support for this at the moment.
 
 ## Help
 
-TODO should we include the troubleshooting section from the ds-prep-course readme?
-
 During the academy you will surely run into problems and have doubts about the
 material.
 We provide you with some different channels to ask for help.
+
 
 ### Learning Unit
 
@@ -440,6 +496,7 @@ reach out to the instructors on slack.
 You can find the main contact for the learning unit in the
 [_Portal_](https://portal.lisbondatascience.org/) this instructor can help you
 out or redirect you to someone that is available at the moment.
+
 
 ### _Portal_
 
@@ -461,6 +518,77 @@ If none of these steps helped go ahead and open a support ticket for the portal
 Is the _Portal_ down or acting out in some unexpected way?
 Then please open a support ticket for the portal
 [here](https://github.com/LDSSA/batch4-portal-support).
+
+
+### Troubleshooting
+
+1. [When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide](#When-I-open-Windows-Explorer-through-Ubuntu,-it-goes-to-a-different-folder-than-in-the-guide)
+1. [Tips and Tricks](#Tips-and-Tricks)
+1. [When I pull from the `ds prep course` repository, I get an error](#When-I-pull-from-the-batch4-students-repository,-I-get-the-error)
+1. [When I try to open `jupyter notebook`, I get an error](#When-I-try-to-open-jupyter-notebook,-I-get-the-error)
+1. [When I use the `cp` command the `>` sign appears and the command does not execute](#When-I-use-the-`cp`-command-the->-sign-appears-and-the-command-does-not-execute)
+
+#### When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide
+
+* Please make sure:
+    * you are running the command `explorer.exe .` including the dot at the end.
+    * you are running Windows 10 version `1909` or newer.
+
+#### Ubuntu on Windows 10 high CPU usage, crashes
+
+* First please make sure you are running Windows 10 version `1909` or newer.
+* Then, try following [these steps](https://teckangaroo.com/enable-windows-10-virtual-machine-platform/)
+
+#### When I pull from the `batch4-students` repository, I get the error:
+
+```
+error: Your local changes to the following files would be overwritten by merge:
+<some files>
+Please commit your changes or stash them before you merge.
+Aborting
+```
+
+_git_ is telling us that changes were made by you to the files on the `~/projects/batch4-students` folder, and is not pulling the changes made by the instructors because they would override the changes that you made there. To fix this do the following:
+1. make sure that any change you made to the files on `~/projects/batch4-students`  (that you want to not lose) is saved in your `~/projects/batch4-workspace` repository (see https://github.com/LDSSA/batch4-students#updates-to-learning-units for how to do this), and if you don't want to keep the changes you made to these files, just continue on to the next step
+2. go to the `~/projects/batch4-students` folder and run:
+
+    ```
+    cd ~/projects/batch4-students
+    git stash
+    ```
+
+3. now you can pull from the `batch4-students` repository:
+
+    ```
+    git pull
+    ```
+
+#### When I try to open `jupyter notebook`, I get the error:
+
+```
+migs-MBP% jupyter notebook
+zsh: command not found: jupyter
+```
+
+Before opening `jupyter notebook` activate your virtual environment:
+
+```
+source ~/.virtualenvs/slu00/bin/activate
+```
+
+#### When I use the `cp` command the `>` sign appears and the command does not execute
+
+```
+cp -r ~/projects/batch4-students/“Week 0" batch4-workspace
+>
+```
+
+Make sure to use this type of quotes `"` and not these ones `“`.
+
+#### My problem is not listed here, what should I do?
+
+If the above steps didn't solve the problem for you, please contact us on Slack or if you are not on slack, [open an issue](https://guides.github.com/features/issues/)
+
 
 ### Other
 
