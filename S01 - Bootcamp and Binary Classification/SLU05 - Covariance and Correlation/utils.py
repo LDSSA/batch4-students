@@ -201,13 +201,13 @@ def plot_correlation_bars():
 
 
     f, ax = plt.subplots(figsize=(8, 8))
-    pd.Series(np.linspace(0, 1, 100) + 0.2, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='blue')
-    pd.Series(np.linspace(0, 1, 100) - 0.2, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='blue')
-    pd.Series(np.linspace(0, 1, 100) + 0.1, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='orange')
-    pd.Series(np.linspace(0, 1, 100) - 0.1, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='orange')
+    pd.Series(np.linspace(0, 1, 100) + 0.2, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='blue', label='_nolegend_')
+    pd.Series(np.linspace(0, 1, 100) - 0.2, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='blue', label='_nolegend_')
+    pd.Series(np.linspace(0, 1, 100) + 0.1, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='orange', label='_nolegend_')
+    pd.Series(np.linspace(0, 1, 100) - 0.1, index=np.linspace(0, 1, 100) ).plot(ax=ax, color='orange', label='_nolegend_')
     scatter_plot(df1, ax, 'blue')
     scatter_plot(df2, ax, 'orange')
-
+    plt.legend()
     plt.show()
 
 def plot_angled_correlations():
