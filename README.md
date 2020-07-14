@@ -11,7 +11,7 @@ workflow you'll use during the academy.
     1. [MacOS Setup](#MacOS-Setup)
     1. [Ubuntu Setup](#Ubuntu-Setup)
     1. [Setup for all Operating Systems](#Setup-for-all-Operating-Systems)
-    1. [Setup _Git_/_GitHub_](#setup-_git__github_)
+    1. [Setup Git and GitHub](#Setup-Git-and-GitHub)
     1. [Setup your Workspace Repository](#setup-your-workspace-repository)
     1. [Get the Learning Material](#get-the-learning-material)
     1. [Running and Submitting a Learning Unit](#running-and-submitting-a-learning-unit)
@@ -152,7 +152,7 @@ pip install -U pip
 ```
 
 
-### Setup _Git_/_GitHub_
+### Setup Git and GitHub
 
 Having a _GitHub_ account and knowing the basics of committing and pushing
 changes are mandatory.
@@ -206,12 +206,11 @@ provide to you in our [_Portal_](https://portal.lisbondatascience.org/).
 1. Head on to the [_Portal_](https://portal.lisbondatascience.org/)
 1. Log in with your _GitHub_ account
 1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and
-copy the deploy key
+copy the deploy key (including the `ssh-rsa` part)
 ![Profile](assets/profile.png "Profile")
 1. Go back to the repository you have just created
-1. Go back to the repository you have just created
 1. Go to `Settings > Deploy Keys`
-1. Click "Add deploy key"
+1. Click "Add deploy key" (no need to grant Write Access)
 1. Give it a recognizable name like "grader" and paste the key from the
 _Portal_
 ![Deploy keys](assets/deploy_key.png "Deploy key")
