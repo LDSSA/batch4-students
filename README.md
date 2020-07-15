@@ -150,7 +150,7 @@ And you're able to make sure your virtual environment is active using the `which
 Now update pip.
 
 ```bash
-pip install -U pip
+(slu00) pip install -U pip
 ```
 
 ### Setup Git and GitHub
@@ -219,6 +219,8 @@ _Portal_
 
 1. Open a Terminal or Git Bash, the next steps are on this terminal
 1. Clone your `<username>/batch4-workspace` repository
+
+    > If you're not sure where to clone the repository in, you can create a `~/projects` folder, and clone it there
 
 ```bash
 git clone git@github.com:<username>/batch4-workspace.git
