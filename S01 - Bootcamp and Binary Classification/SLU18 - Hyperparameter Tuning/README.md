@@ -4,7 +4,7 @@
 What are hyperparamters and how to search for best possible combinations;
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1qUaAGyHlkmMhcgd8U5szxJjeO9eLVlwWGUNQia2IMRE/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1oKeHZ3iESE35RoL4eI94KZonv4J5EA5iZ4pyjHE-4fs/edit?usp=sharing)
 
 ### New concepts in this unit
 
