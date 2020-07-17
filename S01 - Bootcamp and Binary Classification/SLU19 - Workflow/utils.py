@@ -1,9 +1,10 @@
-import json
 import random
 import pandas as pd
-from hashlib import sha1
 
 from sklearn.datasets import make_classification
+
+
+WORDS = open('data/words.txt').read().splitlines()
 
 
 def get_dataset():
@@ -28,14 +29,15 @@ def get_dataset():
 
     X = create_na(X)
 
-    def create_evil_cols(dataset: pd.DataFrame, n: int = 3):
+    def create_limbs_cols(dataset: pd.DataFrame, n: int = 4):
+        limbs = ['arm', 'leg', 'arm', 'leg']
         for i in range(n):
-            dataset['evil_{}'.format(i)] = random.choices(
-                population=range(100, 1000), k=100)
+            dataset['{limb}_{num}'.format(limb=limbs[i], num=i)] = random.choices(
+                population=WORDS, k=100)
 
         return dataset
 
-    X = create_evil_cols(X)
+    X = create_limbs_cols(X)
 
     def rearrange_cols(ds: pd.DataFrame):
         cols = list(ds.columns)
@@ -45,8 +47,18 @@ def get_dataset():
     return rearrange_cols(X), y
 
 
-def _hash(obj, salt='none'):
-    if type(obj) is not str:
-        obj = json.dumps(obj)
-    to_encode = obj + salt
-    return sha1(to_encode.encode()).hexdigest()
+workflow_steps = [
+    'Get the data', 'Spam', 'Data analysis and preparation', 'Google Hackathon solutions',
+    'Evaluate results', 'Iterate', 'Train model', 'Watch Netflix',  'Establish a Baseline',
+    'Increase complexity'
+]
+
+random.shuffle(workflow_steps)
+
+data_analysis_steps = [
+    'Feature engineering', 'Dealing with data problems',
+    'Data analysis', 'Feature selection',
+    'Spanish Inquisition'
+]
+
+random.shuffle(data_analysis_steps)
