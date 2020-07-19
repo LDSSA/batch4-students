@@ -438,6 +438,12 @@ Here's a quick recap:
     source ~/.virtualenvs/slu01/bin/activate
     ```
 
+1. Update pip
+
+    ```bash
+    pip install -U pip
+    ```
+
 1. Install the python packages from requirements.txt for the specific Learning Unit (you must do this for each Learning Unit, and there are multiple Learning Units in a Specialization)
 
     ```bash
