@@ -297,7 +297,7 @@ So let's start the Jupyter Notebook app:
     >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files on your `batch4-workspace` repository, and **NEVER** work on files that are in your `batch4-students` repository!
 
     ```bash
-    cd ~/projects/batch4-workspace/"Week 0"/"SLU00 - Jupyter Notebook"
+    cd ~/projects/batch4-workspace/sample/"SLU00 - LU Tutorial"
     ```
 
 1. Installing the necessary packages
@@ -385,7 +385,7 @@ output head to out [troubleshooting](#_portal_)
 
 ## Learning Unit Workflow
 
-You will need to follow this workflow every week starting from week 1.
+You will need to follow this workflow whenever new learning materials are released.
 
 Learning units will be announced in the academy's _#announcements_ channel.
 At this point they are available in the
@@ -398,7 +398,7 @@ The steps you followed during the initial setup are exactly what you are going
 to be doing for each new Learning Unit.
 Here's a quick recap:
 
-1. Once a new Learning Unit is available at the beginning of each week, pull the changes from the [batch4-students](https://github.com/LDSSA/batch4-students) repo:
+1. Once a new Learning Unit is available, pull the changes from the [batch4-students](https://github.com/LDSSA/batch4-students) repo:
     * enter the `~/projects/batch4-students/` using the `cd` command, then use the `git pull` command:
 
     ```bash
@@ -406,20 +406,16 @@ Here's a quick recap:
     git pull
     ```
 
-    >note that this will also pull the solutions for the Learning Unit of the previous week
-
 1. Copy the Learning Unit to your `batch4-workspace` repo
 
-    * To do that you can use the `cp` command:
-
     ```bash
-    cp -r ~/projects/batch4-students/"Week <week number>" ~/projects/batch4-workspace
+    cp -r ~/projects/batch4-students/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learnin unit name>" ~/projects/batch4-workspace/"<specialization ID> - <specialization name>"
     ```
 
-    and you would replace the `<week number>` with the week number, such that in week 0, for example, the command would be:
+    For example, for the `S01 - Bootcamp and Binary Classification` and `SLU01 - Pandas 101`, it would look like this:
 
     ```bash
-    cp -r ~/projects/batch4-students/"Week 0" ~/projects/batch4-workspace
+    cp -r ~/projects/batch4-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch4-workspace/"S01 - Bootcamp and Binary Classification"
     ```
 
 1. Create a new virtual environment for the Learning Unit you'll be working on.
@@ -427,31 +423,31 @@ Here's a quick recap:
     * To do this you will run the following command:
 
     ```bash
-    python3 -m venv ~/.virtualenvs/<Learning Unit name>
+    python3 -m venv ~/.virtualenvs/<learning unit ID>
     ```
 
-    * and you would replace the `<Learning Unit name>` with the Learning Unit name, such that for SLU00, for example, the command would be:
+    * and you would replace the `<learning unit ID>` with the learning unit ID, such that for SLU01, for example, the command would be:
 
     ```bash
-    python3 -m venv ~/.virtualenvs/slu00
+    python3 -m venv ~/.virtualenvs/slu01
     ```
 
 1. Activate your virtual environment
 
     ```bash
-    source ~/.virtualenvs/slu00/bin/activate
+    source ~/.virtualenvs/slu01/bin/activate
     ```
 
-1. Install the python packages from requirements.txt for the specific SLU (you must do this for each SLU, and there are multiple SLU's in a Week)
+1. Install the python packages from requirements.txt for the specific Learning Unit (you must do this for each Learning Unit, and there are multiple Learning Units in a Specialization)
 
     ```bash
-    pip install -r ~/projects/batch4-workspace/"Week <week number>"/"<SLU name>"/requirements.txt
+    pip install -r ~/projects/batch4-workspace/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learnin unit name>"/requirements.txt
     ```
 
-    and you would replace `<week number>` and `<SLU name>`, such that in Week 0 and SLU000 - Jupyter Notebook, for example, the command would be:
+    For example, for the `S01 - Bootcamp and Binary Classification` and `SLU01 - Pandas 101`, it would look like this:
 
     ```bash
-    pip install -r ~/projects/batch4-workspace/"Week 0"/"SLU000 - Jupyter Notebook"/requirements.txt
+    pip install -r ~/projects/batch4-workspace/"S01 - Bootcamp and Binary Classification"/requirements.txt
     ```
 
 1. Change to the `batch4-workspace` dir
@@ -473,7 +469,7 @@ Here's a quick recap:
     ```bash
     cd ~/projects/batch4-workspace
     git add .
-    git commit -m "Work on week <week number> exercises"
+    git commit -m "Worked on SLU01 exercises"
     git push
     ```
 
@@ -607,7 +603,7 @@ source ~/.virtualenvs/slu00/bin/activate
 #### When I use the `cp` command the `>` sign appears and the command does not execute
 
 ```bash
-cp -r ~/projects/batch4-students/“Week 0" batch4-workspace
+cp -r ~/projects/batch4-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch4-workspace/"S01 - Bootcamp and Binary Classification"
 >
 ```
 
