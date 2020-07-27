@@ -15,7 +15,8 @@ def get_company_salaries_and_plot():
     # make some companies
     company_a = pd.Series([int(c) for c in np.random.normal(1500, 50, 1000)])
     company_a.name = 'Company A'
-    company_b = pd.Series([int(c) for c in np.random.normal(1500, 100, 1000)])
+    # apply used to intensify the presence of outliers
+    company_b = pd.Series([int(c) for c in np.random.normal(1500, 10, 1000)]).apply(lambda x: x + abs(x-1500)**1.78*np.sign(x-1500))
     company_b.name = 'Company B'
     
     # plot the histograms 
