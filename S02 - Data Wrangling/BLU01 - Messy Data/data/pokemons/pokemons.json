@@ -1,0 +1,32 @@
+{
+    "1": {
+        "Name": "Bulbasaur",
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 45,
+        "Generation": 1,
+        "Legendary": false
+    },
+    "2": {
+        "Name": "Ivysaur",
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 60,
+        "Generation": 1,
+        "Legendary": false
+    }
+}
