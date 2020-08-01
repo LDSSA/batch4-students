@@ -21,8 +21,7 @@ Good luck!
 
 ## How to go through this BLU
 
-1. Follow the [Learning Unit Workflow](https://github.com/LDSSA/batch3-students#learning-unit-workflow) to setup your environment.
-Don't forget to create a new conda environment using the `environment.txt` file for this BLU!
+1. Follow the [Learning Unit Workflow](https://github.com/LDSSA/batch4-students#learning-unit-workflow) to setup your environment.
 1. Go through the Learning Notebooks (there's three of them).
 1. Do the Exercise notebook, and submit it on [the portal](https://portal.lisbondatascience.org), as usual.
 
