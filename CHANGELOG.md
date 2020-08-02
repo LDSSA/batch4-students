@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## 2020-08-02
-### Update
+### New
 HCKT01 - Release of Hackathon #1 - Binary Classification.
 
 ## 2020-08-01
