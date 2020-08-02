@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-08-02
+### Update
+HCKT01 - Release of Hackathon #1 - Binary Classification.
+
+## 2020-08-01
+### New
+HCKT01 - Release of requirements.txt file.
+
 ## 2020-07-27
 ### Updated
 S01 - SLU04
