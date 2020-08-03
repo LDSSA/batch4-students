@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-08-03
+### New
+S02 - Release of BLU01.
+
 ## 2020-08-02
 ### New
 HCKT01 - Release of Hackathon #1 - Binary Classification.
