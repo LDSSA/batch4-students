@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-08-17
+### New
+S02 - Release of BLU03.
+
+## 2020-08-13
+### Updated
+S02 - Instructors solution added to Hackathon #1 - Binary Classification.
+
+## 2020-08-10
+### New
+S02 - Release of BLU02.
+
 ## 2020-08-03
 ### New
 S02 - Release of BLU01.
