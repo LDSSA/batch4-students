@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 2020-08-27
 ### Updated
 S02 - BLU03
-- The public API used in some of the exercises was down. Questions related to the API were removed. The other questions were scaled accordingly.
+- Change `Exercise Notebook.ipynb`: The public API used in some of the exercises was down. Questions related to the API were removed. The other questions were scaled accordingly.
 
 ## 2020-08-17
 ### New
