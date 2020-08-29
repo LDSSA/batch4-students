@@ -2,4 +2,3 @@
 game_id,The id of the game
 Team,depends on the team that got the monster and the type of monster
 Time,the time in minutes of when the kill occurred. This attribute is very important.
-Type,the type of monster

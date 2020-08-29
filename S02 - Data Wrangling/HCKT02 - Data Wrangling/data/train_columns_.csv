@@ -1,0 +1,14 @@
+,Description
+Year," Year the match took place in 
+"
+Season,"Spring or Summer depending on which half of the year the match took place in
+"
+blueTeamTag," Blue Team's tag name (ex. Team SoloMid is TSM) 
+"
+bResult," Result of the match for Blue Team - 1 is a win, 0 is a loss 
+"
+redTeamTag," Red Team's Tag Name (ex. Team SoloMid is TSM) 
+"
+gamelength," Game length in minutes 
+"
+game_id,The id of the game

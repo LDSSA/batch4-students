@@ -2,10 +2,3 @@
 game_id,The id of the game
 Team,depends on the team that got the kill. This attribute is very important.
 Time,the time in minutes of when the kill occurred. This attribute is very important.
-Victim,"the victim, identified by <TeamTag> <Player>. This attribute is not very important."
-Killer,"the killer, identified by <TeamTag> <Player>. This attribute is not very important."
-Assist_1,one of the players that helped with the kill. This attribute is not very important.
-Assist_2,one of the players that helped with the kill. This attribute is not very important.
-Assist_3,one of the players that helped with the kill. This attribute is not very important.
-Assist_4,one of the players that helped with the kill. This attribute is not very important.
-x_pos,the y axis coordinate in the map where the kill happenned. This attribute is not very important.
