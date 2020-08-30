@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-08-30
+### New
+S02 - HCKT02
+- Release of Hackathon #2 - Data Wrangling.
+
 ## 2020-08-27
 ### Updated
 S02 - BLU03
@@ -25,11 +30,13 @@ S02 - Release of BLU01.
 
 ## 2020-08-02
 ### New
-HCKT01 - Release of Hackathon #1 - Binary Classification.
+S01 - HCKT01
+- Release of Hackathon #1 - Binary Classification.
 
 ## 2020-08-01
 ### New
-HCKT01 - Release of requirements.txt file.
+S01 - HCKT01
+- Release of requirements.txt file.
 
 ## 2020-07-27
 ### Updated
