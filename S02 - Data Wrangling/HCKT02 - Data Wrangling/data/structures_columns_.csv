@@ -1,4 +1,0 @@
-,Description
-game_id,The id of the game
-Team,The team that got the monster and the type of monster
-Time,The time in minutes of when the kill occurred. This attribute is very important.
