@@ -1,0 +1,4 @@
+,Description
+game_id,The id of the game
+Type,The position and team of the player to which the gold amount corresponds to. For example: goldblueTop. Structured like gold<blue:red><Top:Jungle:Middle:ADC:Support>
+min_i,"The gold amount collected up to that minute by the given player in each minute of the game.Each player in a given game starts with the same amount of gold and this amount increases passively throughout the game. Players can get additional gold by killing other opponents, monsters and by destroying structures.Also, players who play effectively (by some hidden metric) will get rewarded with extra gold. This attribute is very important."
