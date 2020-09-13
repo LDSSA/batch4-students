@@ -11,6 +11,14 @@ def get_stores_data():
     stores = stores.sample(frac=1, random_state=9999)
     return stores
 
+def load_electricity_consumption_series():
+    data = pd.read_csv('data/monthly-av-residential-electrici.csv')
+    data = data[:-1]
+    data.Month = pd.to_datetime(data.Month)
+    data.columns = ['month', 'consumption']
+    data = data.set_index('month')
+    return data
+
 def load_airline_data():
     airlines = pd.read_csv('data/AirPassengers.csv',
                            index_col='Month')
