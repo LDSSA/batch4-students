@@ -1,0 +1,505 @@
+3M Company (MMM) -- Industrials
+Abbott Laboratories (ABT) -- Health Care
+AbbVie Inc. (ABBV) -- Health Care
+ABIOMED Inc (ABMD) -- Health Care
+Accenture plc (ACN) -- Information Technology
+Activision Blizzard (ATVI) -- Communication Services
+Adobe Inc. (ADBE) -- Information Technology
+Advanced Micro Devices Inc (AMD) -- Information Technology
+Advance Auto Parts (AAP) -- Consumer Discretionary
+AES Corp (AES) -- Utilities
+AFLAC Inc (AFL) -- Financials
+Agilent Technologies Inc (A) -- Health Care
+Air Products & Chemicals Inc (APD) -- Materials
+Akamai Technologies Inc (AKAM) -- Information Technology
+Alaska Air Group Inc (ALK) -- Industrials
+Albemarle Corp (ALB) -- Materials
+Alexandria Real Estate Equities (ARE) -- Real Estate
+Alexion Pharmaceuticals (ALXN) -- Health Care
+Align Technology (ALGN) -- Health Care
+Allegion (ALLE) -- Industrials
+Alliant Energy Corp (LNT) -- Utilities
+Allstate Corp (ALL) -- Financials
+Alphabet Inc. (Class A) (GOOGL) -- Communication Services
+Alphabet Inc. (Class C) (GOOG) -- Communication Services
+Altria Group Inc (MO) -- Consumer Staples
+Amazon.com Inc. (AMZN) -- Consumer Discretionary
+Amcor plc (AMCR) -- Materials
+Ameren Corp (AEE) -- Utilities
+American Airlines Group (AAL) -- Industrials
+American Electric Power (AEP) -- Utilities
+American Express Co (AXP) -- Financials
+American International Group (AIG) -- Financials
+American Tower Corp. (AMT) -- Real Estate
+American Water Works Company Inc (AWK) -- Utilities
+Ameriprise Financial (AMP) -- Financials
+AmerisourceBergen Corp (ABC) -- Health Care
+AMETEK Inc. (AME) -- Industrials
+Amgen Inc. (AMGN) -- Health Care
+Amphenol Corp (APH) -- Information Technology
+Analog Devices, Inc. (ADI) -- Information Technology
+ANSYS (ANSS) -- Information Technology
+Anthem (ANTM) -- Health Care
+Aon plc (AON) -- Financials
+A.O. Smith Corp (AOS) -- Industrials
+Apache Corporation (APA) -- Energy
+Apartment Investment & Management (AIV) -- Real Estate
+Apple Inc. (AAPL) -- Information Technology
+Applied Materials Inc. (AMAT) -- Information Technology
+Aptiv PLC (APTV) -- Consumer Discretionary
+Archer-Daniels-Midland Co (ADM) -- Consumer Staples
+Arista Networks (ANET) -- Information Technology
+Arthur J. Gallagher & Co. (AJG) -- Financials
+Assurant (AIZ) -- Financials
+AT&T Inc. (T) -- Communication Services
+Atmos Energy (ATO) -- Utilities
+Autodesk Inc. (ADSK) -- Information Technology
+Automatic Data Processing (ADP) -- Information Technology
+AutoZone Inc (AZO) -- Consumer Discretionary
+AvalonBay Communities (AVB) -- Real Estate
+Avery Dennison Corp (AVY) -- Materials
+Baker Hughes Co (BKR) -- Energy
+Ball Corp (BLL) -- Materials
+Bank of America Corp (BAC) -- Financials
+The Bank of New York Mellon (BK) -- Financials
+Baxter International Inc. (BAX) -- Health Care
+Becton Dickinson (BDX) -- Health Care
+Berkshire Hathaway (BRK.B) -- Financials
+Best Buy Co. Inc. (BBY) -- Consumer Discretionary
+Bio-Rad Laboratories (BIO) -- Health Care
+Biogen Inc. (BIIB) -- Health Care
+BlackRock (BLK) -- Financials
+Boeing Company (BA) -- Industrials
+Booking Holdings Inc (BKNG) -- Consumer Discretionary
+BorgWarner (BWA) -- Consumer Discretionary
+Boston Properties (BXP) -- Real Estate
+Boston Scientific (BSX) -- Health Care
+Bristol-Myers Squibb (BMY) -- Health Care
+Broadcom Inc. (AVGO) -- Information Technology
+Broadridge Financial Solutions (BR) -- Information Technology
+Brown-Forman Corp. (BF.B) -- Consumer Staples
+C. H. Robinson Worldwide (CHRW) -- Industrials
+Cabot Oil & Gas (COG) -- Energy
+Cadence Design Systems (CDNS) -- Information Technology
+Campbell Soup (CPB) -- Consumer Staples
+Capital One Financial (COF) -- Financials
+Cardinal Health Inc. (CAH) -- Health Care
+Carmax Inc (KMX) -- Consumer Discretionary
+Carnival Corp. (CCL) -- Consumer Discretionary
+Carrier Global (CARR) -- Industrials
+Caterpillar Inc. (CAT) -- Industrials
+Cboe Global Markets (CBOE) -- Financials
+CBRE Group (CBRE) -- Real Estate
+CDW (CDW) -- Information Technology
+Celanese (CE) -- Materials
+Centene Corporation (CNC) -- Health Care
+CenterPoint Energy (CNP) -- Utilities
+CenturyLink Inc (CTL) -- Communication Services
+Cerner (CERN) -- Health Care
+CF Industries Holdings Inc (CF) -- Materials
+Charles Schwab Corporation (SCHW) -- Financials
+Charter Communications (CHTR) -- Communication Services
+Chevron Corp. (CVX) -- Energy
+Chipotle Mexican Grill (CMG) -- Consumer Discretionary
+Chubb Limited (CB) -- Financials
+Church & Dwight (CHD) -- Consumer Staples
+CIGNA Corp. (CI) -- Health Care
+Cincinnati Financial (CINF) -- Financials
+Cintas Corporation (CTAS) -- Industrials
+Cisco Systems (CSCO) -- Information Technology
+Citigroup Inc. (C) -- Financials
+Citizens Financial Group (CFG) -- Financials
+Citrix Systems (CTXS) -- Information Technology
+The Clorox Company (CLX) -- Consumer Staples
+CME Group Inc. (CME) -- Financials
+CMS Energy (CMS) -- Utilities
+Coca-Cola Company (KO) -- Consumer Staples
+Cognizant Technology Solutions (CTSH) -- Information Technology
+Colgate-Palmolive (CL) -- Consumer Staples
+Comcast Corp. (CMCSA) -- Communication Services
+Comerica Inc. (CMA) -- Financials
+Conagra Brands (CAG) -- Consumer Staples
+Concho Resources (CXO) -- Energy
+ConocoPhillips (COP) -- Energy
+Consolidated Edison (ED) -- Utilities
+Constellation Brands (STZ) -- Consumer Staples
+The Cooper Companies (COO) -- Health Care
+Copart Inc (CPRT) -- Industrials
+Corning Inc. (GLW) -- Information Technology
+Corteva (CTVA) -- Materials
+Costco Wholesale Corp. (COST) -- Consumer Staples
+Coty, Inc (COTY) -- Consumer Staples
+Crown Castle International Corp. (CCI) -- Real Estate
+CSX Corp. (CSX) -- Industrials
+Cummins Inc. (CMI) -- Industrials
+CVS Health (CVS) -- Health Care
+D. R. Horton (DHI) -- Consumer Discretionary
+Danaher Corp. (DHR) -- Health Care
+Darden Restaurants (DRI) -- Consumer Discretionary
+DaVita Inc. (DVA) -- Health Care
+Deere & Co. (DE) -- Industrials
+Delta Air Lines Inc. (DAL) -- Industrials
+Dentsply Sirona (XRAY) -- Health Care
+Devon Energy (DVN) -- Energy
+DexCom (DXCM) -- Health Care
+Diamondback Energy (FANG) -- Energy
+Digital Realty Trust Inc (DLR) -- Real Estate
+Discover Financial Services (DFS) -- Financials
+Discovery, Inc. (Class A) (DISCA) -- Communication Services
+Discovery, Inc. (Class C) (DISCK) -- Communication Services
+Dish Network (DISH) -- Communication Services
+Dollar General (DG) -- Consumer Discretionary
+Dollar Tree (DLTR) -- Consumer Discretionary
+Dominion Energy (D) -- Utilities
+Domino's Pizza (DPZ) -- Consumer Discretionary
+Dover Corporation (DOV) -- Industrials
+Dow Inc. (DOW) -- Materials
+DTE Energy Co. (DTE) -- Utilities
+Duke Energy (DUK) -- Utilities
+Duke Realty Corp (DRE) -- Real Estate
+DuPont de Nemours Inc (DD) -- Materials
+DXC Technology (DXC) -- Information Technology
+E*Trade (ETFC) -- Financials
+Eastman Chemical (EMN) -- Materials
+Eaton Corporation (ETN) -- Industrials
+eBay Inc. (EBAY) -- Consumer Discretionary
+Ecolab Inc. (ECL) -- Materials
+Edison Int'l (EIX) -- Utilities
+Edwards Lifesciences (EW) -- Health Care
+Electronic Arts (EA) -- Communication Services
+Emerson Electric Company (EMR) -- Industrials
+Entergy Corp. (ETR) -- Utilities
+EOG Resources (EOG) -- Energy
+Equifax Inc. (EFX) -- Industrials
+Equinix (EQIX) -- Real Estate
+Equity Residential (EQR) -- Real Estate
+Essex Property Trust, Inc. (ESS) -- Real Estate
+Estée Lauder Companies (EL) -- Consumer Staples
+Evergy (EVRG) -- Utilities
+Eversource Energy (ES) -- Utilities
+Everest Re Group Ltd. (RE) -- Financials
+Exelon Corp. (EXC) -- Utilities
+Expedia Group (EXPE) -- Consumer Discretionary
+Expeditors (EXPD) -- Industrials
+Extra Space Storage (EXR) -- Real Estate
+Exxon Mobil Corp. (XOM) -- Energy
+F5 Networks (FFIV) -- Information Technology
+Facebook, Inc. (FB) -- Communication Services
+Fastenal Co (FAST) -- Industrials
+Federal Realty Investment Trust (FRT) -- Real Estate
+FedEx Corporation (FDX) -- Industrials
+Fidelity National Information Services (FIS) -- Information Technology
+Fifth Third Bancorp (FITB) -- Financials
+FirstEnergy Corp (FE) -- Utilities
+First Republic Bank (FRC) -- Financials
+Fiserv Inc (FISV) -- Information Technology
+FleetCor Technologies Inc (FLT) -- Information Technology
+FLIR Systems (FLIR) -- Information Technology
+Flowserve Corporation (FLS) -- Industrials
+FMC Corporation (FMC) -- Materials
+Ford Motor Company (F) -- Consumer Discretionary
+Fortinet (FTNT) -- Information Technology
+Fortive Corp (FTV) -- Industrials
+Fortune Brands Home & Security (FBHS) -- Industrials
+Fox Corporation (Class A) (FOXA) -- Communication Services
+Fox Corporation (Class B) (FOX) -- Communication Services
+Franklin Resources (BEN) -- Financials
+Freeport-McMoRan Inc. (FCX) -- Materials
+Gap Inc. (GPS) -- Consumer Discretionary
+Garmin Ltd. (GRMN) -- Consumer Discretionary
+Gartner Inc (IT) -- Information Technology
+General Dynamics (GD) -- Industrials
+General Electric (GE) -- Industrials
+General Mills (GIS) -- Consumer Staples
+General Motors (GM) -- Consumer Discretionary
+Genuine Parts (GPC) -- Consumer Discretionary
+Gilead Sciences (GILD) -- Health Care
+Globe Life Inc. (GL) -- Financials
+Global Payments Inc. (GPN) -- Information Technology
+Goldman Sachs Group (GS) -- Financials
+Grainger (W.W.) Inc. (GWW) -- Industrials
+H&R Block (HRB) -- Consumer Discretionary
+Halliburton Co. (HAL) -- Energy
+Hanesbrands Inc (HBI) -- Consumer Discretionary
+Hartford Financial Svc.Gp. (HIG) -- Financials
+Hasbro Inc. (HAS) -- Consumer Discretionary
+HCA Healthcare (HCA) -- Health Care
+Healthpeak Properties (PEAK) -- Real Estate
+Henry Schein (HSIC) -- Health Care
+The Hershey Company (HSY) -- Consumer Staples
+Hess Corporation (HES) -- Energy
+Hewlett Packard Enterprise (HPE) -- Information Technology
+Hilton Worldwide Holdings Inc (HLT) -- Consumer Discretionary
+HollyFrontier Corp (HFC) -- Energy
+Hologic (HOLX) -- Health Care
+Home Depot (HD) -- Consumer Discretionary
+Honeywell Int'l Inc. (HON) -- Industrials
+Hormel Foods Corp. (HRL) -- Consumer Staples
+Host Hotels & Resorts (HST) -- Real Estate
+Howmet Aerospace (HWM) -- Industrials
+HP Inc. (HPQ) -- Information Technology
+Humana Inc. (HUM) -- Health Care
+Huntington Bancshares (HBAN) -- Financials
+Huntington Ingalls Industries (HII) -- Industrials
+IDEX Corporation (IEX) -- Industrials
+IDEXX Laboratories (IDXX) -- Health Care
+IHS Markit Ltd. (INFO) -- Industrials
+Illinois Tool Works (ITW) -- Industrials
+Illumina Inc (ILMN) -- Health Care
+Incyte (INCY) -- Health Care
+Ingersoll Rand (IR) -- Industrials
+Intel Corp. (INTC) -- Information Technology
+Intercontinental Exchange (ICE) -- Financials
+International Business Machines (IBM) -- Information Technology
+International Paper (IP) -- Materials
+Interpublic Group (IPG) -- Communication Services
+International Flavors & Fragrances (IFF) -- Materials
+Intuit Inc. (INTU) -- Information Technology
+Intuitive Surgical Inc. (ISRG) -- Health Care
+Invesco Ltd. (IVZ) -- Financials
+IPG Photonics Corp. (IPGP) -- Information Technology
+IQVIA Holdings Inc. (IQV) -- Health Care
+Iron Mountain Incorporated (IRM) -- Real Estate
+Jack Henry & Associates (JKHY) -- Information Technology
+Jacobs Engineering Group (J) -- Industrials
+J. B. Hunt Transport Services (JBHT) -- Industrials
+JM Smucker (SJM) -- Consumer Staples
+Johnson & Johnson (JNJ) -- Health Care
+Johnson Controls International (JCI) -- Industrials
+JPMorgan Chase & Co. (JPM) -- Financials
+Juniper Networks (JNPR) -- Information Technology
+Kansas City Southern (KSU) -- Industrials
+Kellogg Co. (K) -- Consumer Staples
+KeyCorp (KEY) -- Financials
+Keysight Technologies (KEYS) -- Information Technology
+Kimberly-Clark (KMB) -- Consumer Staples
+Kimco Realty (KIM) -- Real Estate
+Kinder Morgan (KMI) -- Energy
+KLA Corporation (KLAC) -- Information Technology
+Kohl's Corp. (KSS) -- Consumer Discretionary
+Kraft Heinz Co (KHC) -- Consumer Staples
+Kroger Co. (KR) -- Consumer Staples
+L Brands Inc. (LB) -- Consumer Discretionary
+L3Harris Technologies (LHX) -- Industrials
+Laboratory Corp. of America Holding (LH) -- Health Care
+Lam Research (LRCX) -- Information Technology
+Lamb Weston Holdings Inc (LW) -- Consumer Staples
+Las Vegas Sands (LVS) -- Consumer Discretionary
+Leggett & Platt (LEG) -- Consumer Discretionary
+Leidos Holdings (LDOS) -- Information Technology
+Lennar Corp. (LEN) -- Consumer Discretionary
+Lilly (Eli) & Co. (LLY) -- Health Care
+Lincoln National (LNC) -- Financials
+Linde plc (LIN) -- Materials
+Live Nation Entertainment (LYV) -- Communication Services
+LKQ Corporation (LKQ) -- Consumer Discretionary
+Lockheed Martin Corp. (LMT) -- Industrials
+Loews Corp. (L) -- Financials
+Lowe's Cos. (LOW) -- Consumer Discretionary
+LyondellBasell (LYB) -- Materials
+M&T Bank Corp. (MTB) -- Financials
+Marathon Oil Corp. (MRO) -- Energy
+Marathon Petroleum (MPC) -- Energy
+MarketAxess (MKTX) -- Financials
+Marriott Int'l. (MAR) -- Consumer Discretionary
+Marsh & McLennan (MMC) -- Financials
+Martin Marietta Materials (MLM) -- Materials
+Masco Corp. (MAS) -- Industrials
+Mastercard Inc. (MA) -- Information Technology
+McCormick & Co. (MKC) -- Consumer Staples
+Maxim Integrated Products Inc (MXIM) -- Information Technology
+McDonald's Corp. (MCD) -- Consumer Discretionary
+McKesson Corp. (MCK) -- Health Care
+Medtronic plc (MDT) -- Health Care
+Merck & Co. (MRK) -- Health Care
+MetLife Inc. (MET) -- Financials
+Mettler Toledo (MTD) -- Health Care
+MGM Resorts International (MGM) -- Consumer Discretionary
+Microchip Technology (MCHP) -- Information Technology
+Micron Technology (MU) -- Information Technology
+Microsoft Corp. (MSFT) -- Information Technology
+Mid-America Apartments (MAA) -- Real Estate
+Mohawk Industries (MHK) -- Consumer Discretionary
+Molson Coors Beverage Company (TAP) -- Consumer Staples
+Mondelez International (MDLZ) -- Consumer Staples
+Monster Beverage (MNST) -- Consumer Staples
+Moody's Corp (MCO) -- Financials
+Morgan Stanley (MS) -- Financials
+The Mosaic Company (MOS) -- Materials
+Motorola Solutions Inc. (MSI) -- Information Technology
+MSCI Inc (MSCI) -- Financials
+Mylan N.V. (MYL) -- Health Care
+Nasdaq, Inc. (NDAQ) -- Financials
+National Oilwell Varco Inc. (NOV) -- Energy
+NetApp (NTAP) -- Information Technology
+Netflix Inc. (NFLX) -- Communication Services
+Newell Brands (NWL) -- Consumer Discretionary
+Newmont Corporation (NEM) -- Materials
+News Corp. Class A (NWSA) -- Communication Services
+News Corp. Class B (NWS) -- Communication Services
+NextEra Energy (NEE) -- Utilities
+Nielsen Holdings (NLSN) -- Industrials
+Nike, Inc. (NKE) -- Consumer Discretionary
+NiSource Inc. (NI) -- Utilities
+Noble Energy (NBL) -- Energy
+Norfolk Southern Corp. (NSC) -- Industrials
+Northern Trust Corp. (NTRS) -- Financials
+Northrop Grumman (NOC) -- Industrials
+NortonLifeLock (NLOK) -- Information Technology
+Norwegian Cruise Line Holdings (NCLH) -- Consumer Discretionary
+NRG Energy (NRG) -- Utilities
+Nucor Corp. (NUE) -- Materials
+Nvidia Corporation (NVDA) -- Information Technology
+NVR, Inc. (NVR) -- Consumer Discretionary
+O'Reilly Automotive (ORLY) -- Consumer Discretionary
+Occidental Petroleum (OXY) -- Energy
+Old Dominion Freight Line (ODFL) -- Industrials
+Omnicom Group (OMC) -- Communication Services
+ONEOK (OKE) -- Energy
+Oracle Corp. (ORCL) -- Information Technology
+Otis Worldwide (OTIS) -- Industrials
+PACCAR Inc. (PCAR) -- Industrials
+Packaging Corporation of America (PKG) -- Materials
+Parker-Hannifin (PH) -- Industrials
+Paychex Inc. (PAYX) -- Information Technology
+Paycom (PAYC) -- Information Technology
+PayPal (PYPL) -- Information Technology
+Pentair plc (PNR) -- Industrials
+People's United Financial (PBCT) -- Financials
+PepsiCo Inc. (PEP) -- Consumer Staples
+PerkinElmer (PKI) -- Health Care
+Perrigo (PRGO) -- Health Care
+Pfizer Inc. (PFE) -- Health Care
+Philip Morris International (PM) -- Consumer Staples
+Phillips 66 (PSX) -- Energy
+Pinnacle West Capital (PNW) -- Utilities
+Pioneer Natural Resources (PXD) -- Energy
+PNC Financial Services (PNC) -- Financials
+PPG Industries (PPG) -- Materials
+PPL Corp. (PPL) -- Utilities
+Principal Financial Group (PFG) -- Financials
+Procter & Gamble (PG) -- Consumer Staples
+Progressive Corp. (PGR) -- Financials
+Prologis (PLD) -- Real Estate
+Prudential Financial (PRU) -- Financials
+Public Service Enterprise Group (PSEG) (PEG) -- Utilities
+Public Storage (PSA) -- Real Estate
+PulteGroup (PHM) -- Consumer Discretionary
+PVH Corp. (PVH) -- Consumer Discretionary
+Qorvo (QRVO) -- Information Technology
+Quanta Services Inc. (PWR) -- Industrials
+QUALCOMM Inc. (QCOM) -- Information Technology
+Quest Diagnostics (DGX) -- Health Care
+Ralph Lauren Corporation (RL) -- Consumer Discretionary
+Raymond James Financial Inc. (RJF) -- Financials
+Raytheon Technologies (RTX) -- Industrials
+Realty Income Corporation (O) -- Real Estate
+Regency Centers Corporation (REG) -- Real Estate
+Regeneron Pharmaceuticals (REGN) -- Health Care
+Regions Financial Corp. (RF) -- Financials
+Republic Services Inc (RSG) -- Industrials
+ResMed (RMD) -- Health Care
+Robert Half International (RHI) -- Industrials
+Rockwell Automation Inc. (ROK) -- Industrials
+Rollins Inc. (ROL) -- Industrials
+Roper Technologies (ROP) -- Industrials
+Ross Stores (ROST) -- Consumer Discretionary
+Royal Caribbean Group (RCL) -- Consumer Discretionary
+S&P Global, Inc. (SPGI) -- Financials
+Salesforce.com (CRM) -- Information Technology
+SBA Communications (SBAC) -- Real Estate
+Schlumberger Ltd. (SLB) -- Energy
+Seagate Technology (STX) -- Information Technology
+Sealed Air (SEE) -- Materials
+Sempra Energy (SRE) -- Utilities
+ServiceNow (NOW) -- Information Technology
+Sherwin-Williams (SHW) -- Materials
+Simon Property Group Inc (SPG) -- Real Estate
+Skyworks Solutions (SWKS) -- Information Technology
+SL Green Realty (SLG) -- Real Estate
+Snap-on (SNA) -- Industrials
+Southern Company (SO) -- Utilities
+Southwest Airlines (LUV) -- Industrials
+Stanley Black & Decker (SWK) -- Industrials
+Starbucks Corp. (SBUX) -- Consumer Discretionary
+State Street Corp. (STT) -- Financials
+STERIS plc (STE) -- Health Care
+Stryker Corp. (SYK) -- Health Care
+SVB Financial (SIVB) -- Financials
+Synchrony Financial (SYF) -- Financials
+Synopsys Inc. (SNPS) -- Information Technology
+Sysco Corp. (SYY) -- Consumer Staples
+T-Mobile US (TMUS) -- Communication Services
+T. Rowe Price Group (TROW) -- Financials
+Take-Two Interactive (TTWO) -- Communication Services
+Tapestry, Inc. (TPR) -- Consumer Discretionary
+Target Corp. (TGT) -- Consumer Discretionary
+TE Connectivity Ltd. (TEL) -- Information Technology
+TechnipFMC (FTI) -- Energy
+Teledyne Technologies (TDY) -- Industrials
+Teleflex (TFX) -- Health Care
+Texas Instruments (TXN) -- Information Technology
+Textron Inc. (TXT) -- Industrials
+Thermo Fisher Scientific (TMO) -- Health Care
+Tiffany & Co. (TIF) -- Consumer Discretionary
+TJX Companies Inc. (TJX) -- Consumer Discretionary
+Tractor Supply Company (TSCO) -- Consumer Discretionary
+Trane Technologies plc (TT) -- Industrials
+TransDigm Group (TDG) -- Industrials
+The Travelers Companies Inc. (TRV) -- Financials
+Truist Financial (TFC) -- Financials
+Twitter, Inc. (TWTR) -- Communication Services
+Tyler Technologies (TYL) -- Information Technology
+Tyson Foods (TSN) -- Consumer Staples
+UDR, Inc. (UDR) -- Real Estate
+Ulta Beauty (ULTA) -- Consumer Discretionary
+U.S. Bancorp (USB) -- Financials
+Under Armour (Class A) (UAA) -- Consumer Discretionary
+Under Armour (Class C) (UA) -- Consumer Discretionary
+Union Pacific Corp (UNP) -- Industrials
+United Airlines Holdings (UAL) -- Industrials
+United Health Group Inc. (UNH) -- Health Care
+United Parcel Service (UPS) -- Industrials
+United Rentals, Inc. (URI) -- Industrials
+Universal Health Services (UHS) -- Health Care
+Unum Group (UNM) -- Financials
+VF Corporation (VFC) -- Consumer Discretionary
+Valero Energy (VLO) -- Energy
+Varian Medical Systems (VAR) -- Health Care
+Ventas Inc (VTR) -- Real Estate
+Verisign Inc. (VRSN) -- Information Technology
+Verisk Analytics (VRSK) -- Industrials
+Verizon Communications (VZ) -- Communication Services
+Vertex Pharmaceuticals Inc (VRTX) -- Health Care
+ViacomCBS (VIAC) -- Communication Services
+Visa Inc. (V) -- Information Technology
+Vornado Realty Trust (VNO) -- Real Estate
+Vulcan Materials (VMC) -- Materials
+W. R. Berkley Corporation (WRB) -- Financials
+Wabtec Corporation (WAB) -- Industrials
+Walmart (WMT) -- Consumer Staples
+Walgreens Boots Alliance (WBA) -- Consumer Staples
+The Walt Disney Company (DIS) -- Communication Services
+Waste Management Inc. (WM) -- Industrials
+Waters Corporation (WAT) -- Health Care
+WEC Energy Group (WEC) -- Utilities
+Wells Fargo (WFC) -- Financials
+Welltower Inc. (WELL) -- Real Estate
+West Pharmaceutical Services (WST) -- Health Care
+Western Digital (WDC) -- Information Technology
+Western Union Co (WU) -- Information Technology
+WestRock (WRK) -- Materials
+Weyerhaeuser (WY) -- Real Estate
+Whirlpool Corp. (WHR) -- Consumer Discretionary
+Williams Companies (WMB) -- Energy
+Willis Towers Watson (WLTW) -- Financials
+Wynn Resorts Ltd (WYNN) -- Consumer Discretionary
+Xcel Energy Inc (XEL) -- Utilities
+Xerox (XRX) -- Information Technology
+Xilinx (XLNX) -- Information Technology
+Xylem Inc. (XYL) -- Industrials
+Yum! Brands Inc (YUM) -- Consumer Discretionary
+Zebra Technologies (ZBRA) -- Information Technology
+Zimmer Biomet Holdings (ZBH) -- Health Care
+Zions Bancorp (ZION) -- Financials
+Zoetis (ZTS) -- Health Care
