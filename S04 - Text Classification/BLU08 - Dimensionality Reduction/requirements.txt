@@ -1,0 +1,11 @@
+jupyter==1.0.0
+matplotlib==3.1.1
+nbgrader==0.6.1
+nltk==3.5
+numpy==1.19.2
+pandas==1.1.2
+scikit-learn==0.23.2
+scipy==1.5.2
+seaborn==0.11.0
+spacy==2.3.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.0/en_core_web_md-2.3.0.tar.gz#egg=en_core_web_md
