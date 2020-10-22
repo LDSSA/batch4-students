@@ -22,3 +22,6 @@ most simple, yet effective, ways of recommending items to users.
 ## "I need help understanding something"
 
 You can and should ask for help, be it about Learning Notebooks, Exercises, or anything else. Please checkout the [How to Ask for Help](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help), and remember not to share code when asking for help about the exercises!
+
+## Additional notes
+Don't forget to install the requirements using the requirements.txt file for this BLU!
