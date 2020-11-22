@@ -1,0 +1,11 @@
+jupyter==1.0.0
+ipykernel==5.1.4
+matplotlib==3.2.1
+mlxtend==0.16.0
+ml-metrics==0.1.4
+nbgrader==0.6.1
+numpy==1.19.2
+pandas==1.1.2
+scikit-learn==0.23.2
+scipy==1.5.2
+seaborn==0.11.0
