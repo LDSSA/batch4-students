@@ -10,12 +10,12 @@
 
 #### Summary
 
-In this BLU, you'll learn how to make deploy your model in the wild. For that purpose, you need to deal with the uncertainty that comes with it and prepare for a jungle of weird inputs and requests that can mess up your app and/or your model. You'll be learning how to design your model and app to meet client requirements, how to handle problematic scenarios, and how to keep your system alive. 
+In this BLU, you'll learn how to deploy your model in the wild. For that purpose, you need to deal with the uncertainty that comes with it and prepare for a jungle of weird inputs and requests that can mess up your app and/or your model. You'll be learning how to design your model and app to meet client requirements, how to handle problematic scenarios, and how to keep your system alive. 
 
 ## How to go through this BLU
 
 1. Follow the [Learning Unit Workflow](https://github.com/LDSSA/batch4-students#learning-unit-workflow) to setup your environment.
-1. Go through the Learning Notebooks (there's three of them).
+1. Go through the Learning Notebooks (there's two of them).
 1. Do the Exercise notebook, and submit it on [the portal](https://portal.lisbondatascience.org), as usual.
 
 
