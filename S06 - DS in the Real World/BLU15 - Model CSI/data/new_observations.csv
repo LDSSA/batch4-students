@@ -1,0 +1,2001 @@
+ContrabandIndicator,Department Name,InterventionLocationName,InterventionReasonCode,ReportingOfficerIdentificationID,ResidentIndicator,SearchAuthorizationCode,StatuteReason,SubjectAge,SubjectEthnicityCode,SubjectRaceCode,SubjectSexCode,TownResidentIndicator
+False,farmington,unionville,V,400,False,I,Other,21,N,W,M,False
+False,suffield,suffield,V,114,True,I,Registration,36,N,W,M,False
+True,csp troop g,new haven,V,1000003362,True,C,Moving Violation,21,H,W,M,False
+True,new canaan,new canaan,E,287,False,O,Defective Lights,14,H,W,M,True
+False,stamford,stamford,V,3A NIGHTS,True,C,Seatbelt,37,N,W,M,False
+True,suffield,suffield,E,114,False,O,Defective Lights,22,N,W,M,False
+True,south windsor,south windsor,V,10013,True,O,Administrative Offense,15,N,W,M,False
+True,westport,westport,V,PSC20045,True,O,STC Violation,19,H,W,F,False
+False,new haven,new haven,E,305,True,C,Display of Plates,12,N,B,M,False
+True,state police,ashford             ,V,1000003193,True,C,Other,48,N,B,M,False
+False,wethersfield,wethersfield,V,MAF0958,True,O,Moving Violation,29,H,B,M,True
+False,stratford,stratford,V,30339,True,I,Traffic Control Signal,19,H,W,F,True
+False,new haven,new haven,E,199,False,C,Display of Plates,37,N,B,M,False
+True,bristol,bristol,V,120000050,True,N,Speed Related,43,N,A,M,True
+True,csp troop h,east hartford,V,1000002369,True,O,Traffic Control Signal,36,H,W,M,True
+True,norwalk,norwalk,V,100000287,False,C,Traffic Control Signal,16,N,W,M,True
+False,clinton,clinton,V,458,True,C,Moving Violation,21,N,W,M,True
+False,norwalk,norwalk             ,E,100000232,True,N,Display of Plates,17,N,B,M,True
+False,middlebury,middlebury,I,307,False,C,Other/Error,47,N,W,M,False
+True,torrington,torrington,E,DCARV028,True,C,Defective Lights,18,N,W,F,False
+False,orange,orange,V,JPK8040,True,C,Speed Related,49,N,B,F,False
+False,wilton,wilton              ,V,1008,False,N,Window Tint,26,H,W,M,True
+True,new london,new london,V,PSC56005,True,C,Stop Sign,24,N,B,M,True
+False,new haven,new haven,E,6519,True,C,Other,28,H,W,M,False
+False,manchester,manchester,V,TK5236,False,O,Other,30,H,W,M,True
+True,new haven,new haven,V,30514,True,O,Stop Sign,29,N,B,F,True
+True,wilton,wilton,I,120000071,False,O,Other,26,N,W,M,True
+True,simsbury,simsbury            ,V,1053,False,N,Defective Lights,22,N,B,M,True
+False,westport,westport,E,PSC20059,True,O,Defective Lights,27,N,B,M,True
+False,bridgeport,bridgeport,V,RUF0703,True,O,Defective Lights,28,N,B,M,True
+True,csp troop a,new fairfield,V,1000003228,True,O,Other,21,N,W,M,False
+False,shelton,shelton,V,356,False,C,Stop Sign,32,N,W,M,True
+False,waterbury,waterbury,V,1545,False,I,Registration,27,H,W,M,True
+False,east hartford,east hartford,V,JRH0349,False,C,Administrative Offense,31,H,W,F,False
+False,wilton,wilton,V,1016,True,I,Moving Violation,16,H,W,M,False
+False,stratford,stratford,E,30338,True,I,Display of Plates,37,H,W,F,False
+False,csp troop e,stonington,V,1000003206,False,O,Other,20,N,B,M,False
+True,state police,cheshire            ,V,1000002728,True,O,Registration,64,N,W,F,True
+False,middletown,middletown,V,175,False,O,Moving Violation,25,N,B,M,True
+False,south windsor,south windsor,V,JRF0184,False,O,Moving Violation,15,N,B,M,True
+False,state police,norwich             ,V,1000002349,True,O,Other/Error,27,N,W,M,False
+False,norwalk,norwalk,V,100000177,True,O,Moving Violation,22,N,B,M,True
+False,newington,newington,V,AJA2621,True,C,Moving Violation,15,H,W,M,True
+False,csp troop d,plainfield,V,1000002576,True,C,Other,35,N,W,F,False
+True,derby,derby,V,076,True,I,Administrative Offense,21,N,B,M,True
+False,waterford,waterford,V,PSC02545,False,O,Traffic Control Signal,32,N,W,M,False
+False,stratford,stratford,V,10185,False,C,Moving Violation,25,N,B,M,False
+False,wallingford,wallingford,I,225,False,O,Other,54,N,W,M,False
+True,state police,montville           ,E,1000002696,True,O,Defective Lights,26,N,W,M,True
+False,new haven,new haven,I,308,False,N,Suspended License,35,H,W,M,False
+False,torrington,torrington,V,064,True,O,Speed Related,37,N,W,M,True
+True,waterbury,waterbury,V,1041,False,N,Registration,31,N,B,M,False
+False,state police,deep river          ,V,1000002942,True,N,Speed Related,32,N,W,M,False
+False,naugatuck,naugatuck,E,PL33,True,C,Defective Lights,26,N,W,F,False
+False,csp troop a,danbury,V,592196034,False,C,Moving Violation,25,N,W,F,True
+False,wilton,wilton              ,V,120000032,True,N,Speed Related,21,N,W,M,True
+True,state police,plainfield          ,V,1000002266,True,C,Stop Sign,24,N,W,M,False
+True,newington,newington,V,YBB2609,True,O,Cell Phone,32,H,W,F,False
+False,state police,east windsor        ,V,1000003024,True,N,Other,43,N,B,M,False
+False,csp troop l,burlington,V,1000001927,False,O,Administrative Offense,23,H,W,F,True
+True,east haven,east haven,V,100274,True,O,Speed Related,24,H,W,M,False
+True,west hartford,west hartford       ,V,1000002164,False,O,Defective Lights,27,H,W,M,False
+True,csp troop g,stamford,V,1000003487,False,O,Display of Plates,28,N,B,M,False
+False,norwalk,norwalk,V,100000090,False,I,Moving Violation,26,H,W,M,True
+True,plainfield,plainfield,E,186,False,O,Moving Violation,24,N,W,M,False
+False,watertown,watertown,V,1000193,True,I,Speed Related,17,N,W,F,True
+True,stonington,pawcatuck,V,13,True,C,Speed Related,48,N,W,M,False
+True,new haven,new haven,V,202,True,C,Suspended License,25,N,B,M,False
+False,state police,hartford            ,V,1000002369,False,O,Other/Error,43,N,W,M,False
+False,csp troop e,stonington,V,1000003206,True,C,Registration,44,N,W,M,False
+False,csp troop g,west haven,V,1000003379,False,O,Seatbelt,26,N,B,M,True
+False,glastonbury,glastonbury,V,DNV0434,True,C,Display of Plates,29,N,W,M,False
+False,state police,bethany             ,V,1000002713,True,N,Stop Sign,36,N,W,M,True
+False,csp troop d,plainfield,V,614680420,True,C,Defective Lights,18,N,W,M,False
+True,willimantic,willimantic,V,362,True,C,Moving Violation,37,H,W,M,False
+False,glastonbury,glastonbury,V,BSR0403,False,I,Suspended License,39,N,W,F,True
+False,hamden,hamden              ,V,100000573,False,C,Other/Error,40,N,W,M,False
+True,west hartford,west hartford       ,V,100318,True,C,Moving Violation,52,N,W,M,False
+True,csp troop l,harwinton,V,1000003212,False,I,Administrative Offense,43,N,W,M,False
+True,branford,branford,V,291,True,O,Speed Related,32,N,W,M,True
+False,new canaan,new canaan,I,224,True,O,Moving Violation,14,N,W,M,False
+False,stamford,stamford,V,1B NIGHTS,True,C,Traffic Control Signal,42,N,W,M,True
+True,state police,windsor locks       ,V,55887736,False,C,Other,26,N,B,M,False
+False,waterford,waterford,E,64,True,O,Display of Plates,35,H,A,F,True
+False,east haven,east haven          ,E,100137,False,I,Window Tint,30,H,W,M,True
+True,east haven,east haven,I,100274,False,I,Administrative Offense,35,H,W,M,False
+False,east hartford,east hartford,V,239,True,C,Registration,25,N,B,M,False
+False,windsor locks,windsor locks,V,63,True,I,Other,26,N,W,M,True
+False,stratford,stratford,V,10173,True,I,Speed Related,25,N,B,M,False
+True,norwich,norwich,V,273,True,O,Speed Related,32,H,W,M,True
+False,csp headquarters,cromwell,E,44294139,False,O,Defective Lights,21,N,W,M,False
+True,danbury,danbury,V,1878,True,I,Registration,62,N,W,M,False
+False,waterford,waterford,E,73,False,O,Display of Plates,36,H,W,F,True
+False,new haven,new haven,V,305,False,C,Other,27,H,B,M,False
+False,greenwich,greenwich           ,V,110989,False,I,Other/Error,36,M,B,M,True
+True,bridgeport,bridgeport,V,TOP0206,False,I,Moving Violation,42,H,W,M,True
+False,glastonbury,glastonbury,V,BMV0404,False,I,Cell Phone,24,N,B,M,False
+False,csp troop a,waterbury,V,1000002747,True,O,Seatbelt,30,N,B,M,False
+True,waterbury,waterbury,I,1058,True,C,Stop Sign,36,N,W,F,False
+False,waterbury,waterbury,E,1083,True,I,Display of Plates,25,N,B,M,True
+False,ansonia,ansonia,V,100000195,True,C,Moving Violation,34,N,W,M,True
+True,cromwell,cromwell,I,10123,True,N,Speed Related,29,N,B,M,False
+False,torrington,torrington,V,68,True,N,Stop Sign,54,N,W,M,True
+False,yale,new haven,V,6540,True,I,Display of Plates,42,N,B,F,True
+False,east hartford,east hartford,V,251,True,I,Defective Lights,38,H,W,M,False
+True,wallingford,wallingford,V,207,True,O,Display of Plates,44,N,W,M,False
+True,clinton,clinton,E,462,True,C,Defective Lights,47,N,W,M,True
+False,csp troop k,mansfield,V,1000003229,False,C,Registration,31,H,W,M,False
+True,newtown,newtown,V,338,False,I,Moving Violation,62,N,W,F,True
+False,wethersfield,wethersfield,V,MVF0930,False,C,Administrative Offense,47,N,W,M,True
+False,csp troop c,somers,V,1000001903,False,C,Other,25,N,W,M,False
+True,csp troop l,torrington,V,1000003198,True,C,Seatbelt,21,N,A,M,False
+True,csp troop e,griswold,V,1000002753,True,C,Speed Related,22,N,W,M,True
+False,enfield,enfield,E,KPARENT,True,I,Speed Related,26,N,B,M,False
+False,hartford,hartford,V,3181,True,C,Display of Plates,29,N,B,M,False
+True,yale,new haven,V,6606,True,C,Other,37,N,W,M,True
+False,newtown,newtown,V,JTF0073,True,O,Moving Violation,26,N,W,M,False
+False,new britain,new britain,E,MPS0474,False,O,Display of Plates,27,H,W,M,False
+True,plymouth,terryville,V,21,True,O,Cell Phone,39,N,B,M,True
+False,state police,lisbon              ,I,1000002940,True,C,Suspended License,46,N,B,M,True
+False,west hartford,west hartford       ,V,100308,True,O,Moving Violation,28,N,W,M,False
+False,seymour,seymour,I,328,True,O,Other,35,N,W,M,False
+False,wallingford,wallingford,E,PSC27059,False,C,Registration,49,N,W,M,False
+False,waterford,waterford,E,73,True,O,Defective Lights,35,N,W,F,True
+False,branford,branford,V,387,True,O,Registration,20,H,W,M,True
+False,rocky hill,rocky hill,V,1095410,True,O,Speed Related,59,N,W,F,True
+False,trumbull,trumbull,V,3372,True,C,Defective Lights,28,H,W,M,True
+False,naugatuck,naugatuck,V,PL35,False,C,Display of Plates,27,N,W,M,False
+False,plainfield,moosup,V,184,True,C,Seatbelt,46,N,W,M,True
+False,bristol,bristol,E,120000083,True,C,Administrative Offense,26,H,W,M,False
+False,newington,newington,V,MHB2612,True,I,Registration,29,N,W,M,True
+True,new haven,new haven,V,6536,True,O,Other,44,H,W,M,True
+False,derby,derby,E,68,True,I,Display of Plates,39,H,W,M,True
+False,stamford,stamford,V,3C2,False,I,Other,54,N,B,M,False
+False,csp troop c,ellington,V,1000002715,True,I,Other,27,N,B,M,False
+False,danbury,danbury             ,V,10502,True,I,Suspended License,43,N,W,M,True
+True,granby,granby,V,MBJ0223,True,O,Moving Violation,38,N,W,M,False
+False,waterford,waterford,V,PSC02517,True,O,Other,35,N,W,M,False
+False,hartford,hartford,V,SABI29,True,O,Moving Violation,25,N,B,M,False
+True,wallingford,wallingford,V,P049,True,O,Other,30,N,W,M,False
+True,norwalk,norwalk,V,100000187,True,C,Registration,64,N,W,M,True
+True,trumbull,trumbull,V,5043,True,C,Traffic Control Signal,16,H,W,F,False
+True,norwich,norwich,E,1003,True,O,Seatbelt,19,H,W,M,True
+True,norwich,norwich,E,1053,True,C,Defective Lights,49,N,W,M,False
+False,orange,orange,V,JDD8054,False,O,Speed Related,31,H,W,M,False
+True,norwalk,norwalk,V,100000119,False,I,Traffic Control Signal,39,N,B,M,True
+True,state police,windsor,V,1000002570,True,O,Other,13,M,W,F,False
+False,wethersfield,wethersfield,V,SEM0240,False,O,Display of Plates,23,N,B,M,True
+False,west hartford,west hartford       ,V,1000002032,False,N,Registration,41,M,W,M,True
+False,west hartford,west hartford,V,1000002072,False,C,Moving Violation,16,N,W,M,False
+True,cheshire,cheshire,V,3119,False,O,Speed Related,24,N,B,M,False
+False,plainville,plainville,E,JJH2683,True,O,Other,24,N,W,F,False
+False,state police,norwich             ,V,965050435,True,C,Speed Related,57,N,W,M,False
+True,state police,southbury           ,V,1000002632,True,C,Traffic Control Signal,28,N,W,M,False
+False,norwich,norwich,V,1066,True,C,Moving Violation,62,N,W,F,False
+False,waterbury,waterbury,V,1355,True,I,Administrative Offense,18,N,W,F,False
+False,csp troop e,north stonington,V,240586212,False,O,Moving Violation,64,N,W,F,True
+True,rocky hill,rocky hill,V,JLF0213,True,O,Speed Related,14,N,W,M,True
+False,bridgeport,bridgeport,V,DEL0635,True,I,Moving Violation,74,N,W,M,True
+False,east hartford,east hartford,V,DWC0319,True,O,Traffic Control Signal,32,N,B,M,False
+False,new haven,new haven,V,30514,True,C,Moving Violation,37,N,W,M,False
+False,csp troop h,new britain,I,1000002608,False,O,Moving Violation,28,N,W,M,True
+False,west haven,west haven,V,1000465,True,C,Traffic Control Signal,38,H,W,M,True
+False,derby,derby,V,73,False,I,Traffic Control Signal,31,N,W,M,False
+True,danbury,danbury             ,V,10581,True,O,Registration,51,N,B,M,False
+True,new haven,new haven,V,6528,True,C,Other,30,N,W,M,False
+False,csp troop a,brookfield,I,427165641,True,C,Other,31,H,W,F,False
+True,hartford,hartford,E,890,False,O,Seatbelt,20,H,W,M,True
+True,berlin,berlin,V,CAG2461,False,O,Defective Lights,17,H,W,F,False
+False,greenwich,greenwich           ,V,106594,True,I,Moving Violation,20,M,W,M,False
+False,hartford,hartford,V,944,False,C,Traffic Control Signal,28,H,W,M,False
+False,wethersfield,wethersfield,I,JDB0749,False,C,Administrative Offense,50,H,W,M,True
+False,glastonbury,glastonbury,V,RJB0424,False,C,Traffic Control Signal,22,N,W,M,True
+True,derby,derby,V,58,False,O,Other/Error,35,H,W,M,True
+True,west hartford,west hartford,V,1000002072,True,O,Other,27,N,W,M,False
+True,cheshire,cheshire,V,3163,False,O,Stop Sign,17,H,W,M,False
+True,willimantic,willimantic,V,368,True,C,Moving Violation,32,H,W,M,True
+False,east haven,east haven,V,100303,True,I,Cell Phone,34,N,W,F,True
+False,berlin,berlin,V,TWB2850,False,I,Traffic Control Signal,22,H,W,F,False
+True,west hartford,west hartford       ,V,1000002052,True,N,Moving Violation,52,N,W,M,False
+False,cheshire,cheshire,V,77,False,O,Other,28,N,W,M,False
+False,state police,montville           ,V,1000002337,True,C,Moving Violation,30,N,W,M,True
+True,west hartford,west hartford,V,1000002052,True,O,Speed Related,11,N,W,M,False
+True,csp troop f,chester,V,498167384,True,I,Moving Violation,37,N,W,M,True
+True,csp troop h,hartford,V,1000002608,True,C,Registration,34,H,W,M,False
+False,danbury,danbury,V,1866,False,I,Display of Plates,25,N,W,M,False
+False,norwich,norwich,E,1057,False,O,Defective Lights,18,H,B,M,False
+False,new haven,new haven,V,6523,True,C,Display of Plates,31,N,B,M,True
+True,stamford,stamford,V,11907,False,O,Traffic Control Signal,13,N,W,M,False
+False,norwalk,norwalk,V,100000237,False,I,Moving Violation,36,H,W,M,False
+True,new haven,new haven,V,616,True,C,Stop Sign,33,N,B,M,True
+True,wethersfield,wethersfield,I,575,False,C,Seatbelt,24,N,A,M,False
+False,west haven,west haven,E,1000331,True,I,Display of Plates,25,H,W,M,False
+False,waterbury,waterbury,V,2041,True,I,Other,24,H,W,M,True
+False,branford,branford,V,387,True,O,Registration,28,N,W,M,True
+True,new haven,new haven,V,6511,True,C,Display of Plates,32,N,B,M,True
+False,new haven,new haven,V,6511,False,O,Window Tint,41,H,W,M,True
+False,state police,branford            ,V,498167384,True,O,Other/Error,52,N,W,M,True
+False,westport,westport,V,PSC20033,True,O,Moving Violation,34,N,B,M,False
+False,newington,newington,V,RFP2617,True,C,Moving Violation,30,N,W,M,True
+False,csp troop g,bridgeport,V,1000003221,False,O,Display of Plates,42,N,B,M,True
+True,norwich,norwich,V,1036,True,C,Speed Related,29,H,B,M,True
+False,wilton,wilton              ,V,1008,True,N,Speed Related,46,N,W,F,True
+False,csp troop c,vernon,V,1000002715,True,C,Speed Related,17,H,W,M,False
+True,east hartford,east hartford,V,TDH0287,True,O,Traffic Control Signal,24,H,W,F,False
+False,csp troop f,madison,V,1000003387,False,C,Speed Related,16,N,B,M,True
+False,west haven,west haven,V,1164,True,C,Moving Violation,33,N,B,F,False
+True,state police,watertown           ,V,1000001927,True,O,Display of Plates,15,N,W,F,False
+True,stamford,stamford,V,3A NIGHTS,False,I,Stop Sign,22,H,B,M,False
+True,berlin,berlin,V,BML2828,True,I,Suspended License,46,H,W,M,True
+False,glastonbury,glastonbury,I,BJB0397,True,I,Other,28,H,W,F,False
+False,waterford,waterford,E,PSC02568,False,C,Window Tint,33,H,W,M,False
+False,csp troop k,andover,I,19209,True,O,Unlicensed Operation,34,H,W,M,True
+True,ledyard,ledyard,V,PSC27513,True,N,Other,33,N,W,M,False
+False,state police,wethersfield        ,V,1000002271,True,C,Other/Error,24,N,B,M,False
+False,norwalk,norwalk,V,255,False,O,Administrative Offense,31,N,B,M,True
+True,east hartford,east hartford,V,MCD0324,False,C,Traffic Control Signal,26,N,B,M,False
+False,waterbury,waterbury,E,1083,True,I,Administrative Offense,46,N,B,M,False
+False,willimantic,willimantic,V,367,True,C,Defective Lights,20,N,W,F,False
+False,csp troop e,preston,E,854730376,False,C,Window Tint,17,N,B,F,True
+True,enfield,enfield,V,115,False,O,Seatbelt,23,N,W,M,False
+True,stratford,stratford,V,10165,False,C,Window Tint,35,N,B,M,False
+False,vernon,vernon,E,601,False,C,Equipment Violation,29,N,B,M,True
+True,csp troop e,montville,V,923295155,True,O,Seatbelt,36,N,W,M,False
+True,rocky hill,wethersfield,V,1095410,True,O,Registration,25,N,W,M,False
+True,csp troop d,plainfield,V,614680420,True,O,Other,17,H,W,M,True
+False,norwich,norwich,V,1046,True,C,Speed Related,31,H,W,M,False
+False,waterbury,waterbury,V,1634,True,O,Moving Violation,39,N,B,M,True
+True,vernon,vernon,V,611,False,I,Moving Violation,47,N,W,M,False
+True,woodbridge,woodbridge,V,238,True,N,Cell Phone,39,N,W,F,True
+False,vernon,vernon,E,221,True,C,Equipment Violation,33,N,B,M,True
+False,east hartford,east hartford,V,JJF0297,False,O,Administrative Offense,51,N,W,M,True
+True,csp troop k,colchester,V,1000002851,True,O,Speed Related,16,N,W,M,False
+True,windsor,windsor,V,3748,True,I,Registration,58,N,W,F,True
+False,bridgeport,bridgeport,V,1192,True,O,Traffic Control Signal,19,N,W,F,True
+False,west hartford,west hartford       ,V,1000002167,True,C,Traffic Control Signal,21,N,W,M,True
+False,csp troop g,trumbull,V,1000002598,False,C,Traffic Control Signal,31,H,W,F,False
+False,state police,waterbury           ,V,1000002625,True,O,Speed Related,28,H,W,M,True
+True,state police,lebanon             ,V,1000002250,True,I,Moving Violation,21,N,W,M,True
+True,easton,easton,V,18,True,I,Registration,48,N,B,M,False
+True,west haven,west haven,V,1221,True,I,Stop Sign,26,N,W,M,False
+False,csp troop a,newtown,I,1000003228,True,C,Other,23,N,W,M,True
+True,state police,plainfield          ,V,1000002605,False,C,Moving Violation,54,N,W,M,False
+False,bridgeport,bridgeport,V,121,True,C,Traffic Control Signal,44,H,W,M,False
+True,hartford,hartford,I,594,False,C,Window Tint,32,H,W,M,False
+False,north haven,north haven,V,100000228,False,C,Registration,48,N,W,F,False
+True,willimantic,willimantic,V,362,False,C,Defective Lights,22,H,W,M,True
+False,new haven,new haven,E,6513,True,O,Window Tint,40,N,B,M,True
+False,state police,brooklyn            ,V,890059831,True,C,Traffic Control Signal,31,N,W,M,False
+True,ansonia,ansonia,V,100000195,True,I,Defective Lights,46,N,W,M,False
+False,new britain,new britain,E,KRS0341,True,O,Defective Lights,22,H,W,M,False
+False,state police,griswold            ,V,1000002622,True,O,Speed Related,21,N,W,M,False
+False,norwalk,norwalk             ,V,100000187,True,C,Stop Sign,30,H,W,M,False
+True,torrington,torrington,I,RDAVI066,False,O,Moving Violation,53,N,W,F,True
+True,waterbury,waterbury,V,1355,False,I,Traffic Control Signal,33,H,W,M,True
+False,csp troop c,vernon,V,1000002743,True,C,Speed Related,26,N,B,M,True
+False,wethersfield,wethersfield,V,JBH0915,True,C,Window Tint,28,H,W,M,True
+True,new haven,new haven,V,70,False,C,Other,42,N,B,M,True
+False,glastonbury,glastonbury,E,DAK0357,True,I,Administrative Offense,22,H,W,M,True
+False,wallingford,wallingford,I,P199    ,True,O,Other/Error,17,N,W,M,False
+False,berlin,berlin,V,MLL2842,False,O,Display of Plates,41,H,W,M,False
+True,west hartford,west hartford       ,V,1000002164,True,O,Defective Lights,22,N,W,M,False
+True,stonington,pawcatuck,V,24,True,O,Other,25,N,W,F,True
+False,waterbury,waterbury,I,1558,False,I,Administrative Offense,29,N,B,M,False
+True,middletown,middletown,V,163,True,O,Seatbelt,19,H,W,M,True
+False,glastonbury,glastonbury,V,SCDESK360,True,I,Speed Related,34,N,W,F,True
+False,norwalk,norwalk,V,100000277,True,C,Moving Violation,20,N,B,F,False
+True,guilford,guilford,V,67,True,C,Stop Sign,20,N,W,F,False
+True,csp troop g,norwalk,V,19018,True,C,Seatbelt,23,N,B,M,False
+True,east hampton,east hampton,V,PSC21505,True,C,Speed Related,41,N,W,M,False
+True,state police,stafford            ,V,1000002961,False,C,Stop Sign,25,N,W,M,True
+False,danbury,danbury,V,1878,True,I,Registration,24,N,A,M,True
+False,csp troop g,bridgeport,V,961269420,False,O,Traffic Control Signal,17,N,W,M,True
+False,west hartford,west hartford,I,1000002128,False,O,Registration,26,N,B,M,False
+True,west hartford,west hartford,V,1000002164,True,O,Moving Violation,18,N,W,M,True
+True,wallingford,wallingford,E,P049,False,O,Window Tint,26,N,B,M,True
+True,milford,milford,V,304,True,C,Other,16,N,W,F,True
+False,west hartford,west hartford,V,100306,True,N,Cell Phone,34,N,W,F,False
+False,state police,colchester          ,V,1000002236,True,C,Other,32,N,W,M,False
+True,manchester,manchester,E,JBW5138,True,C,Window Tint,32,N,B,F,False
+True,norwalk,norwalk,V,100000243,True,C,Moving Violation,28,H,W,M,False
+False,glastonbury,glastonbury,V,APP0396,True,C,Cell Phone,24,N,W,M,False
+False,state police,hartford            ,E,1000002246,True,C,Other/Error,31,N,W,F,False
+False,north haven,north haven,V,100000119,True,I,Registration,40,N,W,M,True
+True,waterbury,waterbury,V,2171,False,O,Seatbelt,29,N,B,M,True
+False,west haven,west haven,V,1232,True,C,Unlicensed Operation,41,N,B,M,False
+False,manchester,manchester,V,CNK5248,True,C,Seatbelt,14,N,W,M,False
+False,east haven,east haven          ,E,136,True,I,Registration,46,N,W,M,True
+False,west hartford,west hartford,V,100310,False,N,Moving Violation,20,N,W,M,False
+True,bridgeport,bridgeport,V,1207,True,I,Other/Error,22,N,B,M,False
+False,old saybrook,old saybrook,V,17,True,O,Administrative Offense,51,N,W,M,False
+False,norwich,norwich,V,1042,True,O,Stop Sign,33,N,W,M,True
+True,naugatuck,naugatuck,V,PL33,False,I,Traffic Control Signal,24,N,B,M,False
+False,csp troop c,willington,V,1000003196,True,O,Registration,40,N,W,M,False
+False,wethersfield,wethersfield,V,RGM0161,True,C,Suspended License,28,H,W,M,True
+False,bridgeport,bridgeport,I,WIL0130,True,I,Registration,28,N,W,F,True
+False,csp troop c,ellington,V,1000003447,False,C,Traffic Control Signal,28,N,B,M,False
+True,bristol,bristol,V,120000062,True,O,Stop Sign,23,N,B,M,True
+False,state police,plainfield          ,V,614680420,True,C,Moving Violation,43,M,I,M,False
+False,csp troop e,griswold,V,1000002256,True,O,STC Violation,22,N,W,M,False
+False,waterbury,waterbury,V,1078,False,O,Stop Sign,33,H,W,M,True
+False,wallingford,wallingford,V,P214,True,O,Equipment Violation,30,H,W,M,True
+False,east lyme,east lyme,I,CUT7536,True,C,Other,42,N,W,M,True
+True,csp troop g,monroe,V,1000002944,True,C,Moving Violation,25,N,W,M,False
+False,clinton,clinton,V,3199,False,O,Speed Related,21,N,W,M,True
+False,norwich,norwich,V,1050,False,I,Display of Plates,51,N,B,M,True
+True,wallingford,wallingford,V,194,True,O,Cell Phone,47,N,W,M,True
+True,norwich,norwich,V,1009,True,I,Administrative Offense,63,N,B,F,False
+True,wallingford,wallingford,V,P231,True,O,Registration,23,N,W,M,True
+True,csp troop d,killingly,V,576972724,True,C,STC Violation,69,N,W,F,False
+False,manchester,manchester,V,CNK5248,True,C,Suspended License,21,H,W,M,True
+False,waterbury,waterbury,V,2281,True,O,Stop Sign,39,N,B,M,True
+True,west hartford,west hartford       ,V,1000002108,True,O,Seatbelt,32,M,W,M,False
+True,new haven,new haven,E,6514,False,O,Other,28,N,B,M,True
+True,csp troop g,trumbull,V,1000003362,True,O,Moving Violation,28,N,W,M,False
+False,east hartford,east hartford,V,DWC0319,True,O,Suspended License,30,N,W,F,False
+False,enfield,enfield,V,PWT0270,False,I,Other/Error,27,N,B,M,False
+False,new haven,new haven,V,30500,False,C,Traffic Control Signal,20,N,B,M,False
+True,new britain,new britain,V,AJD0464,False,O,Display of Plates,22,N,B,M,True
+True,state police,danbury             ,V,790642042,True,O,Other/Error,38,N,W,F,True
+True,wallingford,wallingford,V,226,True,O,Seatbelt,23,N,W,M,True
+True,waterford,waterford,E,PSC02504,True,C,Equipment Violation,25,H,W,M,True
+True,milford,milford ,E,428,True,I,Display of Plates,33,N,W,F,False
+False,state police,southbury           ,V,1000002747,False,C,Seatbelt,25,N,B,M,True
+False,stratford,stratford,E,30252,True,C,Administrative Offense,52,N,B,M,True
+False,csp troop c,stafford,V,1000002760,False,O,Administrative Offense,16,N,W,M,False
+False,derby,derby,V,61,False,O,Traffic Control Signal,22,N,W,M,False
+True,watertown,watertown,V,1177,False,I,Speed Related,37,N,W,M,True
+False,norwalk,norwalk,V,173,False,O,Administrative Offense,20,H,W,M,True
+False,new london,new london,V,PSC56058,False,O,Administrative Offense,34,H,B,M,True
+False,wallingford,wallingford,V,P049,True,O,Moving Violation,52,N,W,F,False
+False,csp troop g,bridgeport,V,1000002944,True,O,Moving Violation,24,N,B,M,False
+False,east lyme,east lyme,I,WIL5967,False,C,Other,31,H,W,M,False
+True,east haven,east haven,E,100216,True,C,Registration,44,N,W,M,True
+True,east haven,east haven,V,100184,True,I,Moving Violation,26,H,W,M,False
+False,newtown,newtown,V,FLF0081,True,O,Defective Lights,17,N,W,M,False
+True,new haven,new haven,V,6514,True,O,Defective Lights,21,N,B,M,True
+False,state police,bethel              ,V,790642042,True,O,Cell Phone,34,N,B,M,False
+True,naugatuck,naugatuck,V,PL38,True,O,Traffic Control Signal,30,H,W,M,False
+False,wallingford,wallingford,V,P213,True,O,Administrative Offense,22,N,W,M,False
+True,csp troop a,waterbury,V,1000002585,True,O,Registration,26,N,B,M,False
+False,bridgeport,bridgeport,V,1207,False,O,Speed Related,52,N,B,M,False
+False,waterbury,waterbury,V,1453,True,I,Other,31,H,B,M,True
+False,woodbridge,woodbridge,V,239,True,N,Speed Related,25,N,B,F,False
+False,seymour,seymour,V,348,False,O,Stop Sign,61,N,W,M,False
+True,waterbury,waterbury,V,1021,True,I,Moving Violation,31,H,W,F,True
+False,glastonbury,glastonbury,V,APP0396,False,I,Administrative Offense,41,N,W,M,True
+False,milford,milford,V,113,False,I,Other,37,H,B,F,True
+True,greenwich,byram,E,120000119,True,O,Display of Plates,34,N,B,F,False
+False,old saybrook,old saybrook,V,26,True,C,Cell Phone,47,N,W,M,False
+True,csp troop k,franklin,I,1000003498,True,O,Moving Violation,42,N,W,M,False
+False,glastonbury,glastonbury,V,SCC0425,True,I,Registration,73,N,W,M,False
+True,state police,woodbury            ,V,1000001946,False,O,Speed Related,35,N,W,M,True
+False,manchester,manchester,V,JTS5305,False,O,Registration,29,N,B,F,False
+True,csp troop l,burlington,V,1000002885,False,O,Speed Related,36,N,A,F,False
+True,willimantic,willimantic,V,367,False,C,Stop Sign,37,H,W,F,False
+True,hartford,hartford,V,565,True,O,Moving Violation,41,N,W,M,True
+False,west hartford,west hartford,V,1000002175,True,C,Moving Violation,42,N,W,M,False
+False,new haven,new haven,E,89,True,N,Display of Plates,45,N,B,M,True
+True,norwich,norwich,V,1042,True,C,Traffic Control Signal,29,N,W,F,True
+False,cromwell,cromwell,V,10124,True,N,Registration,46,N,W,M,True
+False,enfield,enfield,V,109,True,I,Other,56,N,W,M,False
+False,hartford,hartford,I,776,True,O,Administrative Offense,28,H,W,F,True
+False,csp troop k,east hartford,V,899734338,True,O,Speed Related,22,H,W,M,False
+True,vernon,vernon,I,625,False,O,Other,22,N,W,F,False
+False,stratford,stratford,E,30252,True,I,Display of Plates,38,N,B,F,True
+True,new haven,new haven,V,79,True,I,Other/Error,26,H,W,M,False
+False,berlin,berlin,V,TFB2836,True,O,Traffic Control Signal,14,N,W,M,False
+False,west hartford,west hartford,V,1000002101,False,O,Display of Plates,35,N,B,M,False
+False,state police,windsor             ,V,1000003156,False,C,Moving Violation,18,N,B,M,True
+False,norwich,norwich,V,1048,False,I,Moving Violation,46,H,W,M,False
+False,state police,west hartford       ,V,1000003156,True,C,Other,30,N,B,M,True
+False,csp troop d,plainfield,V,1000002707,True,C,Moving Violation,36,N,W,M,False
+True,naugatuck,naugatuck,E,PL37,True,I,Defective Lights,24,N,B,M,False
+False,wallingford,wallingford,V,P210    ,False,O,Other/Error,23,N,W,F,False
+True,south windsor,south windsor,E,MTP0139,True,O,Defective Lights,24,N,W,M,False
+False,glastonbury,glastonbury,V,SAS0410,True,I,Suspended License,29,N,B,M,True
+False,new london,new london,I,PSC56058,True,O,Other,49,N,W,M,False
+False,stratford,stratford,V,10120,True,I,Other,56,N,W,M,True
+False,new haven,new haven,V,6536,False,O,Other,24,N,B,M,False
+True,derby,derby,V,75,True,C,Other,34,H,W,M,False
+False,new london,new london,V,PSC56028,False,O,Registration,31,H,W,F,True
+False,west hartford,west hartford       ,V,1000002101,False,C,Display of Plates,42,H,W,M,True
+True,new britain,new britain,E,ACM0377,False,C,Suspended License,42,N,B,M,True
+True,state police,somers              ,E,983655904,True,C,Other/Error,22,N,W,M,False
+False,east hartford,east hartford,V,JAC0342,False,O,Stop Sign,28,N,B,M,False
+False,new milford,new milford,V,425,False,C,Stop Sign,35,N,W,F,True
+True,danbury,danbury,V,10502,True,I,Registration,10,N,W,M,True
+True,east hartford,east hartford,V,CAT0330,False,O,Administrative Offense,21,N,W,M,True
+True,state police,newtown             ,V,1000003023,False,O,Moving Violation,16,N,B,M,False
+False,vernon,vernon,V,617,True,I,Moving Violation,30,N,W,M,False
+True,wallingford,wallingford,V,P197    ,True,O,Equipment Violation,17,H,W,M,False
+True,milford,milford,V,1803,True,O,Other,38,N,W,M,False
+False,csp troop f,middlefield,V,1000003197,True,O,Registration,24,N,W,M,True
+False,csp troop a,danbury,V,790642042,False,O,Other,64,N,W,M,False
+False,west haven,west haven,I,214,False,I,Registration,23,H,W,M,False
+False,new haven,new haven,I,481,True,C,Other,37,N,W,M,True
+False,new haven,new haven,V,139,False,C,Seatbelt,31,N,B,M,True
+False,glastonbury,glastonbury,E,CJD0356,True,C,Other,11,N,W,M,True
+False,csp troop h,new britain,V,1000002608,True,I,Other,63,N,W,F,False
+True,csp troop f,madison,V,1000002347,True,O,Speed Related,34,N,W,F,False
+False,norwich,norwich,V,1041,True,I,Speed Related,36,H,W,M,False
+True,new haven,new haven,V,383,True,O,Registration,38,N,B,M,True
+False,danbury,danbury             ,V,10576,False,I,Registration,14,N,W,F,False
+True,norwich,norwich,E,1053,True,C,Defective Lights,26,N,W,M,True
+False,north haven,north haven,V,100000218,False,C,Defective Lights,16,N,B,M,True
+True,csp troop a,waterbury,V,1000003509,False,C,Other,40,H,W,F,True
+False,willimantic,willimantic,V,382,True,N,Defective Lights,19,N,B,F,True
+True,watertown,waterbury,I,1984,True,O,Other,29,N,B,M,False
+True,new haven,new haven,V,88,True,I,Other,16,N,B,M,True
+False,new haven,new haven,I,299,False,C,Other,42,H,W,M,False
+False,csp troop h,east hartford,V,1000002962,False,O,Moving Violation,18,N,B,M,False
+True,waterford,waterford,V,52,True,C,Moving Violation,38,H,B,M,True
+True,middletown,middletown,V,229,False,O,Other,79,N,W,M,True
+True,state police,torrington          ,V,1000003157,True,C,Suspended License,11,N,W,M,False
+True,new canaan,new canaan,V,275,False,O,Stop Sign,19,N,W,F,False
+False,hartford,hartford,V,565,False,C,Stop Sign,14,N,B,M,True
+False,stamford,stamford,V,77,True,O,Window Tint,17,N,B,M,True
+False,csp troop i,orange,V,1000003016,False,I,Moving Violation,27,H,W,M,False
+False,wallingford,wallingford,V,P213    ,True,O,Administrative Offense,31,N,B,F,False
+True,csp troop a,southbury,V,1000003764,False,O,Other,26,N,W,M,True
+False,darien,darien,V,PSC21362,True,I,Display of Plates,16,N,W,M,False
+True,milford,milford,V,477,True,I,Administrative Offense,42,H,W,F,True
+False,hamden,hamden              ,V,100000543,False,O,Other/Error,26,N,W,M,False
+False,willimantic,willimantic,V,262,True,O,Other,28,N,W,M,True
+False,stamford,stamford,V,2A NIGHTS,True,O,Stop Sign,29,H,W,M,False
+True,bridgeport,bridgeport,V,536,False,I,Administrative Offense,65,N,B,M,True
+False,farmington,unionville,V,359,False,N,Moving Violation,50,N,W,M,False
+True,state police,hartford            ,V,59628728,True,O,Speed Related,21,N,W,M,False
+False,state police,beacon falls        ,V,19172,True,O,Other,33,N,B,M,False
+False,plainville,plainville,V,JJH2683,True,C,Administrative Offense,36,H,W,M,False
+False,naugatuck,naugatuck,V,PL41,False,I,Seatbelt,22,N,W,M,True
+True,east hartford,east hartford,V,KKC0268,False,O,Administrative Offense,22,N,B,M,False
+False,westport,westport,V,PSC20040,True,C,Moving Violation,55,N,W,M,False
+True,new haven,new haven,V,355,False,N,Display of Plates,32,N,B,M,True
+False,middletown,middletown,V,3117,False,O,Moving Violation,26,N,W,M,True
+False,west haven,west haven,E,1224,True,N,Registration,25,N,W,M,True
+False,csp troop a,danbury,V,790642042,False,O,Speed Related,46,H,W,M,False
+False,state police,colchester          ,E,1000003030,False,C,Defective Lights,17,H,W,M,False
+False,wilton,wilton              ,V,1016,True,N,Registration,43,H,W,F,True
+False,vernon,vernon,E,595,True,C,Other,20,M,W,M,True
+True,csp troop k,columbia,V,1000002353,False,O,STC Violation,16,N,W,F,True
+True,state police,salisbury           ,V,432175311,False,C,Speed Related,24,M,W,M,False
+True,csp troop a,danbury,V,790642042,False,O,Speed Related,17,N,W,F,False
+True,state police,waterbury           ,V,1000002761,False,C,Speed Related,35,N,W,F,False
+True,wallingford,wallingford,V,P049,True,O,Moving Violation,21,N,W,M,False
+False,csp troop e,north stonington,V,1000003527,False,O,Stop Sign,38,N,W,M,False
+False,newtown,newtown,E,310,True,I,Defective Lights,20,H,W,M,False
+False,csp troop h,farmington,V,1000003200,True,O,Other,16,N,B,M,False
+False,waterford,waterford,V,PSC02545,False,C,Suspended License,28,N,B,M,False
+False,csp troop i,hamden,V,1000003534,True,C,Moving Violation,20,N,W,M,False
+True,wethersfield,wethersfield,V,250039,False,O,Moving Violation,15,H,W,M,False
+False,west hartford,west hartford,V,1000002237,False,O,Administrative Offense,23,H,I,M,True
+False,waterbury,waterbury,E,2380,True,I,Display of Plates,24,N,B,M,False
+True,norwich,norwich,E,1063,False,O,Defective Lights,27,N,W,F,False
+False,new haven,new haven,V,6511,True,C,Seatbelt,24,N,B,M,False
+True,wilton,wilton,V,1016,False,I,Moving Violation,37,N,W,M,False
+True,seymour,seymour,V,342,False,O,Speed Related,12,H,B,M,False
+True,west hartford,west hartford       ,V,1000002101,False,O,Moving Violation,34,N,W,M,False
+True,wilton,wilton,E,120000059,False,O,Defective Lights,17,N,B,M,True
+False,clinton,clinton,V,446,False,O,Speed Related,38,H,W,M,True
+False,norwich,norwich,V,1040,True,I,Stop Sign,27,N,B,M,True
+True,csp troop e,groton,V,1000003162,True,C,STC Violation,22,N,W,M,False
+False,manchester,manchester,V,SMK5114,True,O,Display of Plates,29,N,B,M,True
+False,vernon,vernon,V,625,False,C,Moving Violation,26,N,W,M,True
+False,orange,orange,V,CLB7784,False,I,Other,35,H,W,F,False
+True,new haven,new haven,E,203,True,N,Window Tint,26,N,B,M,False
+False,west hartford,west hartford       ,V,1000002108,True,C,Display of Plates,41,N,W,M,False
+False,new haven,new haven,V,30514,True,O,Other,29,N,B,F,True
+True,new haven,new haven,V,290,False,O,Display of Plates,30,N,B,M,True
+False,bridgeport,bridgeport,V,536,True,I,Registration,34,N,W,M,False
+False,stratford,bridgeport,E,30233,False,O,Display of Plates,19,H,B,M,True
+False,state police,bridgeport          ,V,1000001904,True,C,Registration,23,N,B,F,True
+True,ledyard,ledyard,V,PSC27522,True,C,Speed Related,21,N,W,F,False
+True,wethersfield,wethersfield,E,ABS0498,False,C,Defective Lights,37,N,B,M,False
+True,csp troop g,trumbull,V,1000002598,True,O,Moving Violation,42,N,W,M,False
+False,east hartford,east hartford,V,WCW0264,True,C,Registration,37,H,W,M,False
+False,hamden,hamden,V,100000674,True,O,Administrative Offense,24,N,W,M,True
+True,redding,redding,V,217,False,I,Suspended License,46,N,W,M,False
+False,new haven,new haven,E,6534,False,C,Window Tint,25,H,W,M,True
+True,stratford,stratford,V,10165,True,C,Administrative Offense,38,N,B,M,True
+False,newington,newington,V,49,True,C,Administrative Offense,49,H,W,F,False
+False,norwalk,norwalk,V,100000277,True,O,Administrative Offense,33,N,B,M,True
+True,state police,griswold            ,V,1000003375,True,C,Speed Related,15,N,W,M,False
+True,fairfield,fairfield,V,100000808,False,O,Stop Sign,15,N,W,F,False
+True,west hartford,west hartford,V,1000002139,False,N,Cell Phone,34,N,B,M,False
+True,wilton,wilton              ,V,1008,True,N,Stop Sign,20,H,W,M,False
+False,east haven,east haven,I,100216,True,I,Display of Plates,21,N,W,F,True
+True,wethersfield,wethersfield,V,542,True,C,Moving Violation,25,H,W,M,True
+True,new haven,new haven,V,6514,True,C,Stop Sign,38,N,B,M,True
+False,groton town,groton,E,PSC21943,True,O,Display of Plates,13,H,W,M,True
+False,windsor,windsor,V,224,True,I,Registration,49,H,W,F,True
+True,west haven,west haven,E,1232,True,C,Defective Lights,40,N,B,M,False
+False,csp troop e,preston,V,1000002938,True,C,Moving Violation,22,N,B,M,False
+False,csp troop f,deep river,V,1000001949,False,I,Other,31,N,W,M,False
+True,new haven,new haven,V,6511,False,C,Window Tint,26,N,W,M,False
+False,coventry,coventry,V,346,True,O,Administrative Offense,25,N,B,F,True
+True,east hartford,east hartford,V,KJH0331,True,C,Cell Phone,27,N,B,M,True
+False,stamford,stamford,V,4A NIGHTS,True,C,Display of Plates,23,N,W,M,False
+True,csp troop l,waterbury,V,1000001946,True,C,Administrative Offense,37,H,W,M,True
+False,enfield,enfield,V,58,False,O,Administrative Offense,63,N,B,M,True
+True,enfield,enfield,V,44,True,O,Window Tint,29,H,W,M,False
+True,state police,lebanon             ,V,1000003030,False,O,Stop Sign,24,N,W,M,False
+False,new london,new london,V,PSC56107,True,O,Stop Sign,39,H,W,F,False
+False,new haven,new haven,E,6583,True,C,Display of Plates,28,N,B,M,False
+False,glastonbury,glastonbury,E,BJB0397,True,C,Defective Lights,26,N,W,F,False
+True,new haven,new haven,E,229,True,O,Display of Plates,33,N,B,M,True
+False,bridgeport,bridgeport,I,HAR0158,False,O,Other,44,H,W,M,True
+True,state police,brookfield          ,V,1000002592,True,C,Speed Related,17,N,W,F,False
+False,naugatuck,naugatuck,V,PL31,True,C,Cell Phone,18,N,W,M,False
+True,danbury,danbury,E,10626,True,I,Equipment Violation,25,N,W,F,True
+False,east hartford,east hartford,I,KJH0331,False,C,Window Tint,27,H,W,F,False
+False,trumbull,trumbull,V,5102,True,C,Display of Plates,25,N,B,M,True
+False,rocky hill,rocky hill,V,1095410,True,O,Defective Lights,23,N,W,M,False
+True,vernon,vernon,V,596,False,C,Moving Violation,15,N,W,M,False
+True,bridgeport,bridgeport,V,536,True,I,Registration,37,N,B,M,False
+False,putnam,putnam,E,488,True,O,Display of Plates,19,N,W,M,True
+True,westport,westport,V,PSC20040,False,C,Speed Related,32,N,W,F,True
+True,newington,newington,V,GML2597,True,O,Moving Violation,23,N,W,M,False
+True,csp troop f,old saybrook,V,1000003170,False,C,Registration,32,N,B,M,False
+False,state police,beacon falls        ,I,1000002714,False,O,Other,32,N,W,M,True
+True,east hartford,east hartford,V,JDR0353,False,O,Administrative Offense,17,H,W,M,False
+True,wallingford,wallingford,E,P193    ,True,O,Defective Lights,14,N,W,M,False
+False,new haven,new haven,E,147,False,O,Window Tint,28,N,B,M,False
+False,state police,montville           ,V,1000002546,False,O,Other/Error,17,N,W,F,True
+False,state police,tolland             ,V,223693286,False,C,Other/Error,33,N,W,M,False
+True,trumbull,trumbull,I,5020,True,O,Other,23,H,W,M,True
+False,norwalk,norwalk,V,329,True,C,Traffic Control Signal,28,N,W,M,True
+False,ridgefield,ridgefield,V,1000176,True,O,Speed Related,19,N,W,M,True
+True,derby,derby,V,76,False,N,Suspended License,20,N,B,M,False
+True,east hartford,east hartford,V,JJF0297,True,C,Defective Lights,26,N,W,M,True
+False,manchester,manchester,V,AVP5109,False,C,Speed Related,20,N,W,M,False
+True,wethersfield,wethersfield,V,555,False,O,Moving Violation,19,H,W,M,False
+False,westport,westport,V,PSC20040,False,O,Cell Phone,53,N,W,F,True
+True,darien,darien,E,PSC21353,False,C,Defective Lights,33,H,W,M,False
+False,stratford,bridgeport,V,30252,True,O,Defective Lights,32,N,B,M,True
+False,stratford,stratford,V,30224,True,I,Registration,40,N,B,F,True
+True,west haven,west haven,V,1155,False,I,Speed Related,30,N,W,M,True
+False,norwalk,norwalk             ,E,100000244,True,O,Display of Plates,26,N,B,M,False
+True,milford,milford,E,50,True,O,Other,24,N,B,M,True
+False,csp troop f,clinton,V,1000003358,False,O,Speed Related,28,N,B,M,False
+False,stamford,stamford,V,1672,False,I,Stop Sign,54,N,W,M,False
+True,portland,portland,V,PSC29402,False,C,Moving Violation,21,N,B,M,False
+False,derby,derby,V,67,False,I,Stop Sign,30,N,W,M,False
+True,west haven,west haven,V,1000335,False,I,Display of Plates,33,H,W,M,False
+False,csp troop g,orange,V,1000003389,False,O,Other,58,N,W,M,False
+False,wallingford,wallingford,I,P230,True,O,Administrative Offense,31,N,B,M,True
+False,redding,redding,V,219,True,C,Other,27,H,W,M,False
+True,milford,milford,V,121,True,C,Registration,60,H,W,F,True
+True,csp troop k,marlborough,V,331752178,True,C,Speed Related,27,N,W,M,False
+False,state police,litchfield          ,V,1000001927,False,C,Registration,37,N,W,M,True
+True,norwalk,norwalk             ,V,100000277,False,C,Window Tint,50,N,B,M,True
+True,willimantic,willimantic,V,256,True,C,Defective Lights,23,N,W,M,True
+False,old saybrook,old saybrook,E,8,False,O,Window Tint,29,N,W,M,True
+False,bridgeport,bridgeport,E,PER0150,False,C,Defective Lights,16,H,W,M,True
+False,willimantic,willimantic,V,262,True,C,Other,21,H,W,M,True
+False,ansonia,ansonia             ,V,100000129,True,N,Display of Plates,27,N,B,M,True
+False,derby,derby,V,66,True,I,Other,40,N,W,M,True
+False,csp troop c,somers,E,983655904,True,C,Defective Lights,16,N,B,F,True
+True,branford,branford            ,I,306,True,C,Suspended License,47,N,W,M,False
+False,stratford,stratford,V,10173,False,I,Registration,46,H,W,M,True
+False,rocky hill,rocky hill,V,1116008,False,O,Moving Violation,28,N,W,M,False
+True,bridgeport,bridgeport,V,TOP0206,True,I,Moving Violation,27,N,B,M,True
+False,new haven,new haven,V,137,True,C,Stop Sign,24,H,W,M,True
+False,enfield,enfield,V,124,True,C,Speed Related,24,N,W,M,False
+False,waterford,waterford,I,73,True,O,Other,21,N,W,M,False
+False,wallingford,wallingford,V,P173,False,O,Other,31,N,B,F,True
+True,greenwich,pemberwick,V,120000089,True,I,Speed Related,25,H,W,M,True
+True,south windsor,south windsor,V,MNC0179,True,O,Registration,33,N,B,M,True
+False,csp troop c,vernon,V,1000003196,False,O,Registration,38,N,W,M,False
+True,waterbury,waterbury,V,1018,False,C,Stop Sign,33,H,B,M,False
+False,state police,clinton             ,V,1000002362,True,C,Moving Violation,49,N,W,M,True
+False,danbury,danbury,V,10502,True,I,Cell Phone,46,H,W,M,False
+False,west haven,west haven,V,1191,False,C,Speed Related,26,N,W,M,False
+True,manchester,manchester,V,DRM5035,False,O,Traffic Control Signal,16,N,W,M,True
+True,csp troop l,litchfield,V,1000003378,False,I,Registration,27,N,W,F,True
+False,wethersfield,wethersfield,V,542,True,O,Moving Violation,58,N,B,M,False
+False,norwalk,norwalk,V,100000230,True,C,STC Violation,36,N,B,M,True
+True,torrington,high street,I,66,True,C,Other,48,N,B,M,True
+False,derby,derby,V,77,True,I,Administrative Offense,34,N,B,M,True
+False,bridgeport,bridgeport,V,536,False,I,Unlicensed Operation,27,H,W,F,False
+False,newington,newington,V,TDB2590,True,I,Registration,52,N,W,F,False
+True,hartford,hartford,I,3186,True,C,Traffic Control Signal,23,N,B,M,False
+False,csp troop i,beacon falls,V,1000001893,True,O,Speed Related,37,N,B,F,False
+False,westport,westport,V,PSC20056,True,C,Window Tint,21,N,W,M,False
+False,csp troop h,southington,V,1000003161,True,O,Other,41,H,W,M,False
+False,waterbury,waterbury,V,1558,False,I,Speed Related,33,N,A,F,False
+True,csp troop a,southbury,I,324857301,True,C,Other,54,N,W,M,True
+True,wethersfield,wethersfield,V,250039,False,O,Administrative Offense,29,H,W,M,True
+True,bloomfield,bloomfield          ,V,2088,True,I,Moving Violation,82,N,B,M,False
+False,vernon,vernon              ,V,551,True,I,Moving Violation,58,N,W,F,False
+False,norwalk,norwalk,I,100000090,True,I,Unlicensed Operation,29,H,W,M,False
+False,berlin,berlin,E,JNS2806,True,I,Other,20,H,W,M,False
+False,wallingford,wallingford,I,212,True,O,Other,24,N,W,F,True
+True,csp troop l,woodbury,V,1000002600,True,O,Other,22,N,W,M,False
+True,bristol,bristol,V,120000052,False,C,Stop Sign,45,H,W,M,False
+True,westport,westport,V,PSC20059,False,C,Cell Phone,21,N,W,M,True
+False,bridgeport,bridgeport,V,536,True,I,Administrative Offense,18,N,B,F,True
+False,east hartford,east hartford,E,CAT0330,True,O,Window Tint,28,N,B,M,True
+True,csp troop a,southbury,V,1000002350,True,O,STC Violation,18,N,W,M,False
+False,hamden,hamden              ,V,100000244,True,O,Moving Violation,13,N,B,M,False
+False,middletown,middletown,E,258,True,C,Window Tint,51,N,B,M,True
+True,trumbull,trumbull,V,3372,True,C,Equipment Violation,16,N,W,M,True
+True,plainville,plainville,E,SAH2837,True,C,Defective Lights,46,N,B,M,False
+True,derby,shelton,V,77,True,O,Stop Sign,25,N,W,M,False
+True,wallingford,wallingford,V,P231,True,C,Moving Violation,26,H,W,M,True
+False,monroe,monroe,V,1000100,True,O,Speed Related,24,N,W,M,False
+False,westport,westport,V,PSC20045,True,O,Other,20,N,W,M,True
+False,new haven,new haven,E,6577,False,C,Other,33,N,B,M,False
+False,norwalk,norwalk             ,E,100000226,True,C,Display of Plates,19,H,W,M,True
+False,csp troop c,ellington,V,1000003196,True,O,Registration,15,N,W,M,False
+False,new haven,new haven,E,6575,True,O,Other,28,N,B,M,True
+False,new haven,new haven,V,6568,False,C,Other,68,N,B,M,True
+False,milford,milford,V,93,False,O,Moving Violation,24,N,W,M,False
+True,waterford,waterford,V,50,False,O,Speed Related,26,N,W,F,True
+False,bridgeport,bridgeport,V,SIM0873,False,I,Display of Plates,32,H,W,M,False
+True,wallingford,wallingford,V,128,True,C,Other,32,N,W,M,False
+False,willimantic,willimantic,V,162,False,C,Traffic Control Signal,40,N,W,F,False
+False,southington,plantsville,V,100000109,True,C,Defective Lights,28,N,W,F,True
+True,new britain,new britain,I,LAS0423,True,O,Other/Error,19,N,W,M,True
+False,middletown,middletown,V,3197,True,C,Defective Lights,23,H,W,F,True
+True,woodbridge,woodbridge          ,V,212,True,N,Stop Sign,26,N,W,M,True
+False,csp troop g,new haven,V,1000003389,True,C,Defective Lights,27,N,B,F,True
+True,state police,montville           ,I,1000002337,True,N,Moving Violation,13,N,W,M,True
+True,wallingford,wallingford,E,P199    ,True,O,Display of Plates,11,N,W,M,False
+False,stamford,stamford,E,1D NIGHTS,True,O,Window Tint,19,N,W,M,False
+True,state police,old saybrook        ,V,159668340,True,O,Speed Related,24,H,W,F,True
+True,darien,darien,V,PSC21343,True,O,Display of Plates,17,N,B,M,True
+False,stratford,bridgeport,E,30233,False,O,Registration,43,H,W,M,True
+False,west haven,west haven,V,1000324,False,O,Window Tint,35,N,B,M,False
+False,wilton,wilton,V,1016,True,I,Moving Violation,30,H,W,M,True
+True,north branford,north branford,I,365,True,O,Other,20,N,W,M,False
+True,seymour,seymour,I,2,False,O,Other/Error,42,H,W,M,True
+False,wethersfield,wethersfield,V,542,True,C,Registration,23,H,W,M,True
+True,new britain,new britain,V,MPS0474,True,C,Moving Violation,21,N,B,M,True
+False,willimantic,willimantic,I,331,False,C,Stop Sign,46,N,W,F,False
+False,danbury,danbury,V,10453,False,I,Speed Related,17,H,W,M,True
+False,seymour,seymour,E,356,True,O,Defective Lights,32,N,W,M,True
+False,waterbury,waterbury,V,1638,True,I,Registration,24,N,B,M,True
+True,new haven,new haven,E,23,False,C,Other/Error,30,H,W,M,False
+False,farmington,farmington,I,372,True,O,Registration,18,N,B,M,True
+True,winsted,winchester,V,1150,True,C,Speed Related,17,N,W,M,True
+True,new haven,new haven,V,455,True,O,Other,47,N,W,M,True
+False,waterbury,waterbury,V,2002,False,I,Registration,25,H,W,F,True
+True,trumbull,bridgeport,E,5106,False,C,Display of Plates,43,N,W,M,False
+True,waterford,waterford,V,73,True,O,Speed Related,24,N,B,M,False
+True,csp troop i,north haven,E,1000003016,True,O,Defective Lights,33,N,B,F,True
+True,state police,union               ,V,1000003174,True,C,Speed Related,23,N,W,M,True
+False,norwalk,norwalk,I,100000287,False,O,Other,22,N,W,M,True
+False,newington,newington,V,DCW2604,False,I,Speed Related,35,H,W,M,True
+False,new britain,new britain,V,DCM0394,False,O,Traffic Control Signal,25,H,W,M,False
+True,vernon,vernon,E,593,True,O,Defective Lights,35,N,W,M,True
+False,west haven,west haven,V,1000332,False,I,Registration,39,H,W,M,False
+True,state police,windham             ,V,1000002564,True,N,Speed Related,25,H,W,M,False
+True,norwalk,norwalk,E,100000283,True,O,Defective Lights,15,N,W,M,True
+False,wilton,wilton,V,1045,True,N,Registration,17,N,W,M,True
+True,norwich,norwich,I,1041,False,O,Other,18,N,W,M,True
+True,enfield,enfield,V,TJF1125,False,I,Speed Related,18,N,W,M,False
+False,state police,chaplin             ,V,1000003171,True,O,Other/Error,39,H,W,M,True
+False,new haven,new haven,V,139,False,O,Administrative Offense,28,N,B,M,True
+True,wallingford,wallingford,V,144,False,O,Other,35,H,W,M,False
+True,west hartford,west hartford,V,1000002072,True,O,Moving Violation,31,N,W,F,True
+False,new haven,new haven,V,156,True,C,Other,21,H,W,M,False
+True,state police,hartford            ,V,747982770,False,C,Other/Error,40,N,W,M,True
+True,waterbury,waterbury,V,1030,False,I,Stop Sign,35,N,W,M,True
+False,csp troop e,groton,V,1000002622,False,C,Speed Related,26,N,W,M,True
+False,wallingford,wallingford,V,P197,True,O,Defective Lights,17,N,W,M,False
+True,vernon,vernon              ,V,596,True,C,Registration,20,N,W,M,False
+True,bridgeport,bridgeport,V,1295,True,O,Stop Sign,36,N,B,M,False
+False,trumbull,trumbull,I,5102,False,O,Other,16,H,W,F,False
+False,ledyard,ledyard,V,PSC27506,True,C,Other,31,H,W,M,False
+False,clinton,clinton,E,446,True,O,Defective Lights,19,N,W,M,False
+False,stratford,stratford,V,30126,False,C,Stop Sign,20,N,W,F,True
+False,csp troop d,plainfield,V,1000002576,False,O,STC Violation,17,N,B,M,False
+True,csp troop a,waterbury,V,1000003235,True,O,Registration,28,N,B,M,False
+False,milford,milford,V,2089,True,O,Display of Plates,21,M,W,M,True
+False,greenwich,greenwich           ,E,111486,True,C,Defective Lights,28,N,W,M,False
+False,groton town,groton,V,DELAN,True,O,Speed Related,21,N,B,M,False
+True,enfield,enfield,V,84,False,I,Registration,31,N,A,M,True
+False,vernon,vernon,V,622,True,I,Registration,54,N,W,M,True
+False,glastonbury,glastonbury,E,NPC0399,False,I,Display of Plates,38,H,W,F,True
+True,farmington,farmington          ,V,346,False,I,Traffic Control Signal,51,N,W,M,True
+True,bridgeport,bridgeport,V,216,True,I,Other,28,H,W,F,False
+False,new haven,new haven,V,6575,True,O,Display of Plates,36,N,B,M,True
+False,csp troop h,hartford,V,747982770,False,C,Other,29,H,W,M,True
+False,norwalk,norwalk             ,V,100000237,False,I,Traffic Control Signal,19,N,B,F,True
+True,norwich,norwich,I,1023,True,C,Defective Lights,26,N,B,M,True
+True,west hartford,west hartford,E,1000002072,True,O,Window Tint,35,N,B,M,False
+False,norwich,norwich,E,1053,False,O,Defective Lights,22,N,W,M,True
+True,monroe,monroe,V,1000062,True,O,Other,20,M,W,M,False
+True,new haven,new haven,V,245,True,C,Display of Plates,10,H,W,M,True
+False,wallingford,wallingford,E,218,True,O,Defective Lights,27,H,W,M,True
+False,csp troop g,trumbull,V,1000001904,True,O,Registration,25,N,B,M,False
+False,hamden,hamden              ,V,100000412,False,O,Traffic Control Signal,22,N,W,F,False
+True,darien,darien,V,PSC21312,False,I,Registration,32,H,W,M,True
+False,csp troop h,hartford,E,1000002369,False,C,Administrative Offense,24,N,B,F,True
+False,manchester,manchester,V,HJA5176,True,O,Seatbelt,25,N,B,M,False
+False,westport,westport,V,PSC20079,True,O,Other/Error,22,H,B,M,False
+True,manchester,manchester,V,JDM5229,False,O,Seatbelt,21,H,W,M,False
+False,southington,southington,I,100000109,False,I,Other,25,N,W,M,False
+False,suffield,suffield,V,355,False,I,Moving Violation,28,N,B,M,False
+False,vernon,vernon,V,601,True,I,Traffic Control Signal,21,H,W,M,False
+False,state police,hartford            ,V,671622127,False,O,Seatbelt,14,H,W,M,False
+False,new britain,new britain,E,DCA0369,True,O,Defective Lights,32,H,W,F,True
+False,darien,darien,V,1021,True,O,Registration,19,N,W,M,False
+False,csp troop g,bridgeport,V,1000003221,False,C,Administrative Offense,35,N,B,M,True
+False,vernon,vernon,V,625,False,C,Stop Sign,18,N,B,M,True
+True,state police,southbury           ,V,1000002575,False,O,Other,62,N,B,M,True
+False,new haven,new haven,V,442,True,C,Stop Sign,13,N,B,M,False
+False,easton,easton,V,007,True,C,Other,32,N,W,M,True
+False,woodbridge,woodbridge          ,V,212,True,N,Speed Related,28,N,B,M,False
+False,norwalk,norwalk,V,100000342,True,O,Other,35,N,B,M,False
+False,glastonbury,glastonbury,V,JMC0418,True,I,Registration,31,N,W,F,False
+False,torrington,torrington,I,004,False,O,Administrative Offense,45,N,W,M,False
+True,wolcott, wolcott,V,175,True,I,Administrative Offense,20,H,B,M,False
+False,naugatuck,naugatuck,V,PL30,True,I,Speed Related,16,N,W,M,False
+False,meriden,meriden,V,199,True,C,Registration,26,H,W,M,False
+True,bloomfield,bloomfield,V,2088,False,O,Defective Lights,18,N,B,M,True
+False,newington,newington,E,SJA2613,True,I,Defective Lights,31,N,B,F,True
+True,newington,newington,E,GML2597,True,O,Window Tint,19,N,W,M,False
+True,newington,newington,V,47,True,O,Administrative Offense,14,H,W,M,False
+True,csp troop f,madison,V,1000001898,True,O,Other,11,H,W,M,False
+False,csp troop a,waterbury,V,1000003509,False,C,Administrative Offense,34,H,W,M,False
+False,west hartford,west hartford       ,V,1000002052,True,N,Equipment Violation,18,N,W,M,False
+False,clinton,clinton,V,445,True,C,Speed Related,19,N,W,M,True
+True,new haven,new haven,V,282,False,N,Stop Sign,17,H,W,M,False
+True,enfield,enfield,V,59,True,I,Registration,23,N,W,M,True
+True,greenwich,cos cob,V,374,False,O,Unlicensed Operation,22,N,W,F,False
+False,norwich,norwich,V,1048,False,O,Moving Violation,33,H,W,F,True
+False,east lyme,east lyme,E,WIL5967,True,C,Defective Lights,52,N,W,M,False
+True,csp troop f,old lyme,V,1000003387,False,C,Speed Related,23,N,B,M,True
+True,canton,canton              ,V,2854,False,N,Speed Related,27,N,W,M,True
+True,wallingford,wallingford,V,P199,True,O,Unlicensed Operation,53,N,W,M,True
+False,new haven,new haven,E,477,True,C,Window Tint,16,N,B,M,True
+False,bridgeport,bridgeport,V,COY0216,False,I,Speed Related,16,H,W,M,False
+False,stamford,stamford,E,11790,False,I,Defective Lights,30,H,W,M,True
+True,west hartford,west hartford,V,100258,True,N,Cell Phone,39,N,W,F,False
+False,trumbull,trumbull,E,5106,False,O,Defective Lights,33,N,B,M,False
+False,stamford,stamford,V,21534,True,I,Traffic Control Signal,39,H,W,M,True
+False,csp troop f,madison,V,1000003387,True,C,Speed Related,32,N,B,M,True
+False,torrington,torrington,V,068,False,O,Moving Violation,60,N,W,M,True
+False,enfield,enfield,V,115,True,I,Speed Related,57,N,W,M,True
+False,fairfield,fairfield           ,V,100000333,False,C,Speed Related,28,N,W,M,False
+True,new britain,new britain,V,JDK0407,True,O,Moving Violation,31,N,B,M,False
+False,hamden,hamden              ,V,100000409,True,C,Window Tint,18,N,B,M,True
+True,berlin,berlin,V,BML2828,True,I,Registration,24,N,W,M,False
+False,waterbury,waterbury,V,2041,False,I,Speed Related,29,H,W,M,False
+False,glastonbury,glastonbury,E,CJK0409,True,O,Display of Plates,26,N,W,F,False
+True,west haven,west haven,E,1000340,True,I,Defective Lights,28,H,W,F,True
+False,east hartford,east hartford,V,CMD0333,True,C,Registration,20,N,W,M,True
+False,state police,woodbury            ,V,1000003198,False,C,Other,18,N,W,F,False
+True,derby,derby,V,61,True,I,Moving Violation,57,N,W,M,True
+False,danbury,danbury,V,1878,True,I,Registration,23,N,W,M,False
+False,milford,milford,I,304,False,O,Administrative Offense,22,N,B,F,True
+False,new britain,new britain,V,BAD0473,False,O,Speed Related,20,N,W,M,True
+False,manchester,manchester,V,SP5090,False,C,Window Tint,34,N,B,M,True
+True,csp troop f,haddam,V,1000001898,False,O,Cell Phone,19,H,W,F,False
+False,csp troop g,east haven,E,961269420,True,O,Administrative Offense,26,H,W,M,True
+True,waterbury,waterbury,E,1573,True,I,Registration,32,H,W,M,False
+True,granby,granby,V,SCV0204,True,I,Speed Related,24,N,W,M,True
+True,enfield,enfield,V,90,False,O,Unlicensed Operation,26,N,B,M,False
+True,csp troop a,waterbury,E,1000002585,True,O,Registration,11,N,B,M,False
+True,danbury,danbury,V,10573,False,I,Speed Related,30,H,W,M,False
+True,torrington,torrington,V,JHOYT029,True,O,Speed Related,18,N,W,F,True
+True,vernon,vernon,V,625,False,O,Moving Violation,14,N,W,F,False
+True,willimantic,willimantic,V,280,False,C,Display of Plates,27,N,W,M,False
+True,norwich,norwich,V,1034,False,C,Speed Related,20,H,W,M,True
+False,new haven,new haven,E,315,False,I,Display of Plates,41,H,W,M,True
+True,norwalk,norwalk,V,173,True,I,Speed Related,20,N,W,M,True
+True,stamford,stamford,V,2B2,True,C,Traffic Control Signal,28,N,B,M,True
+False,south windsor,south windsor,V,MBM0155,True,O,Registration,40,N,W,M,True
+True,naugatuck,naugatuck,V,PL29,True,C,Speed Related,17,N,W,M,False
+False,norwalk,norwalk             ,V,100000232,True,N,Display of Plates,28,N,W,M,True
+True,stratford,stratford,E,30252,True,C,Display of Plates,39,N,B,M,False
+False,west haven,west haven,E,228,True,O,Window Tint,24,N,W,M,False
+True,west hartford,west hartford,E,100308,True,O,Display of Plates,23,N,W,F,True
+False,manchester,manchester,V,RG5076,False,O,Traffic Control Signal,24,H,W,F,False
+False,danbury,danbury,V,10616,True,I,Cell Phone,21,N,W,M,True
+False,hartford,hartford,V,897,True,O,Other,50,N,B,M,True
+True,ccsu,new britain,V,100000582,False,C,Speed Related,25,N,B,M,True
+True,plainville,plainville,V,KRJ2597,False,O,Registration,25,H,W,M,True
+True,willimantic,willimantic,V,331,False,C,Seatbelt,42,N,W,M,False
+True,stamford,stamford,E,1D DAYS,True,O,Display of Plates,65,N,B,M,True
+False,ansonia,ansonia,V,100000134,True,C,Other,41,H,W,M,False
+False,state police,danbury             ,I,790642042,False,C,Other,26,N,W,M,False
+False,stamford,stamford,V,23695,True,C,Moving Violation,23,N,B,M,True
+True,ansonia,ansonia,V,100000134,True,C,Moving Violation,36,N,B,M,False
+False,csp troop b,barkhamsted,V,455920825,False,C,STC Violation,20,N,W,M,True
+True,middletown,middletown,V,153,True,O,Unlicensed Operation,26,N,B,M,False
+True,meriden,meriden,V,443,True,C,Window Tint,19,N,W,M,False
+True,seymour,seymour,E,346,False,C,Equipment Violation,22,N,W,M,True
+False,ledyard,ledyard,I,PSC27506,False,C,Speed Related,41,H,W,M,True
+True,danbury,danbury,V,1000503,True,I,Registration,44,N,W,M,True
+False,orange,orange,V,WKE0770,True,O,Other/Error,52,N,W,F,False
+False,stamford,stamford,E,23750,True,I,Defective Lights,33,N,B,M,True
+True,orange,orange,E,RNL5037,False,O,Other,19,N,W,M,True
+False,coventry,coventry,V,20272,True,O,Speed Related,28,N,B,M,True
+False,seymour,seymour,V,348,True,I,Administrative Offense,46,H,W,M,False
+True,new haven,new haven,V,137,True,C,Seatbelt,30,N,W,M,False
+False,stratford,stratford,V,10154,False,O,Registration,53,N,B,M,False
+True,west hartford,west hartford,V,1000002042,True,O,Moving Violation,29,N,W,M,True
+False,new milford,new milford,I,444,False,C,Other,69,M,A,M,True
+True,csp troop d,killingly,V,1000001947,False,C,Speed Related,36,H,W,F,False
+True,norwich,norwich,E,1020,True,C,Other/Error,24,N,W,M,True
+True,wallingford,wallingford,E,218,True,O,Display of Plates,23,N,B,M,False
+False,east hartford,east hartford,V,WCW0264,True,O,Registration,42,H,W,M,True
+True,putnam,putnam,V,3202,False,O,Registration,29,N,W,M,True
+False,shelton,shelton,V,386,False,C,Defective Lights,37,N,B,F,False
+False,norwalk,norwalk,V,100000230,True,O,Stop Sign,21,N,W,M,False
+False,csp troop h,east hartford,V,1000003399,False,O,Speed Related,26,N,B,M,False
+True,weston,weston,V,30,True,I,Defective Lights,30,N,W,M,False
+True,berlin,berlin,V,JTM2849,False,I,Defective Lights,41,N,W,M,False
+False,new haven,new haven,E,6569,True,C,Administrative Offense,26,N,B,M,True
+False,csp troop h,new britain,V,1000003350,False,C,Other,33,H,W,M,False
+True,norwich,norwich,I,1040,True,C,Suspended License,25,N,B,M,True
+False,manchester,manchester,E,TL5232,True,O,Defective Lights,36,H,W,M,False
+False,westport,westport,V,PSC20061,True,C,Traffic Control Signal,26,N,W,M,False
+True,csp troop b,torrington,V,1000003231,True,C,Speed Related,24,N,A,M,False
+False,csp troop h,east hartford,V,1000001890,True,O,Moving Violation,50,N,W,M,False
+True,naugatuck,naugatuck,V,PL32,True,C,Stop Sign,26,N,B,M,False
+True,enfield,enfield,V,229,False,I,Traffic Control Signal,35,N,W,M,True
+False,waterbury,waterbury,I,2011,False,O,Defective Lights,20,N,B,M,False
+True,bristol,bristol,V,120000062,True,O,Window Tint,31,H,W,M,True
+True,yale,new haven,V,1726,True,O,Other,38,H,W,M,True
+False,plainville,plainville,I,EAG0501,False,C,Other,75,N,W,M,True
+False,csp troop k,columbia,V,488417172,False,O,Registration,56,N,W,M,False
+False,north haven,north haven,V,100000230,False,O,Administrative Offense,29,N,W,M,False
+False,state police,harwinton           ,E,389088739,True,O,Defective Lights,25,N,W,M,False
+False,norwalk,norwalk             ,V,100000243,True,C,Other,35,H,W,M,True
+True,stratford,stratford,V,30225,True,C,Moving Violation,15,N,W,M,True
+False,enfield,enfield,V,58,True,O,Registration,30,N,W,M,False
+False,berlin,berlin,V,MWM1067,True,I,Display of Plates,45,N,W,M,False
+True,state police,trumbull            ,V,439075424,True,O,Other/Error,36,N,B,M,True
+True,new haven,new haven,V,481,True,O,Other,38,N,B,M,True
+False,wilton,wilton,V,1016,False,I,Administrative Offense,61,N,B,M,True
+False,east haven,east haven,V,100332,True,C,Unlicensed Operation,45,H,W,M,False
+True,new haven,new haven,E,6506,True,C,Other,17,H,W,M,True
+False,glastonbury,glastonbury,V,SCDESK396,True,I,Speed Related,39,N,W,M,True
+False,state police,hartford            ,V,1000002271,False,C,Window Tint,29,N,W,M,False
+True,newington,newington,V,SJA2613,True,O,Registration,31,N,W,F,False
+False,norwich,norwich,E,1066,True,O,Defective Lights,30,N,B,M,False
+True,middletown,middletown,V,3064,True,C,Moving Violation,34,N,B,M,True
+True,west hartford,west hartford,E,1000002072,True,O,Other,28,N,B,M,True
+False,new london,new london,V,PSC56002,False,O,Traffic Control Signal,39,H,W,F,True
+False,greenwich,greenwich           ,V,120000092,False,I,Moving Violation,33,H,W,F,True
+False,milford,milford,E,104,True,C,Defective Lights,26,N,W,M,False
+False,csp troop b,torrington,V,18922,True,O,Registration,49,N,W,M,False
+False,greenwich,glenville,V,6068,True,O,Other,28,H,W,M,False
+True,ledyard,ledyard,V,PSC27506,True,C,Administrative Offense,43,H,W,M,False
+True,middletown,middletown,V,3064,True,O,Moving Violation,38,N,B,M,True
+True,wethersfield,wethersfield,E,SEM0240,True,C,Window Tint,32,N,B,M,True
+False,milford,milford,V,93,False,O,Registration,29,N,W,M,True
+False,clinton,clinton,V,446,True,O,Moving Violation,46,N,W,M,False
+False,vernon,vernon              ,V,611,True,C,Other/Error,28,N,W,M,False
+True,bloomfield,bloomfield,V,2088,True,O,Window Tint,27,N,B,M,False
+True,csp troop c,tolland,V,849715205,True,C,STC Violation,28,N,W,M,False
+True,state police,somers              ,V,1000003174,True,C,Other,28,N,W,M,True
+False,newington,newington,E,49,True,O,Display of Plates,20,N,B,M,False
+False,westport,westport,I,20026,True,I,Other,20,H,W,M,True
+True,derby,derby,V,73,False,O,Cell Phone,36,N,B,M,False
+True,south windsor,south windsor,E,SEH0186,False,C,Display of Plates,38,N,B,M,False
+False,newington,newington,E,BJL2618,True,O,Defective Lights,21,N,B,M,False
+False,east hartford,east hartford,I,CAT0330,False,C,Speed Related,44,N,B,M,False
+False,glastonbury,glastonbury,V,NPC0399,False,I,Suspended License,32,N,B,M,True
+False,willimantic,willimantic,V,256,False,C,Registration,23,N,W,M,True
+True,norwich,norwich,I,1036,True,C,Administrative Offense,38,N,B,M,True
+True,state police,brookfield          ,E,1000003023,True,C,Defective Lights,17,N,W,M,False
+True,vernon,vernon,V,617,False,C,Moving Violation,28,N,W,M,True
+False,new haven,new haven,E,619,True,C,Other/Error,31,N,W,M,False
+False,west hartford,west hartford       ,E,1000002072,True,O,Window Tint,35,N,B,M,False
+True,stratford,stratford,V,30353,True,I,Moving Violation,59,N,W,M,False
+True,naugatuck,naugatuck,V,PL31,True,O,Traffic Control Signal,23,N,W,F,True
+False,bristol,bristol,V,10199,True,C,Speed Related,44,H,W,M,False
+False,wallingford,wallingford,E,P049    ,True,O,Display of Plates,22,N,B,M,True
+False,vernon,vernon,V,570,False,O,Moving Violation,33,N,W,M,False
+True,state police,salisbury           ,V,1000003157,False,C,Defective Lights,22,N,W,M,False
+False,csp troop c,mansfield,V,934977327,False,O,Speed Related,24,N,W,M,True
+True,new haven,new haven,E,137,False,C,Display of Plates,33,N,B,M,True
+False,csp troop k,colchester,I,1000002851,False,O,Other,22,N,W,M,True
+False,csp troop c,mansfield,V,1000003169,True,O,Other,29,N,B,M,True
+False,manchester,manchester,E,TL5232,True,C,Defective Lights,20,N,W,M,False
+False,norwalk,norwalk             ,V,100000232,True,C,Other,20,N,B,M,False
+True,csp troop k,colchester,I,1000002850,False,C,Other,55,N,B,M,True
+True,trumbull,trumbull,V,5107,False,O,Traffic Control Signal,43,N,B,M,False
+False,stratford,stratford,V,30233,True,I,Stop Sign,23,N,W,M,False
+True,clinton,clinton,V,3172,False,I,Display of Plates,46,N,W,M,True
+True,plainville,plainville,E,RBM2829,True,O,Defective Lights,22,N,W,F,True
+True,bridgeport,bridgeport,E,185,False,C,Defective Lights,17,N,B,F,True
+False,farmington,unionville,V,338,False,I,Moving Violation,33,N,W,M,True
+False,new london,new london,V,PSC56082,False,O,Other,45,N,W,M,True
+False,enfield,enfield,V,124,False,I,Registration,61,N,W,M,True
+True,watertown,watertown,I,1151,True,O,Speed Related,26,N,W,M,False
+False,ridgefield,ridgefield,V,1000184,True,N,Stop Sign,22,N,W,M,True
+True,stratford,stratford,I,30233,True,C,Unlicensed Operation,48,N,B,F,False
+True,plymouth,terryville,V,21,True,C,Speed Related,23,N,W,M,False
+False,rocky hill,rocky hill,V,JLF0213,False,O,Speed Related,16,H,W,M,True
+False,enfield,enfield,V,20,True,O,Speed Related,31,N,B,M,True
+True,enfield,enfield,V,32,False,I,Speed Related,33,N,W,F,False
+False,waterbury,waterbury,V,2380,True,I,Administrative Offense,25,N,B,M,True
+True,west haven,west haven,E,1000332,False,I,Defective Lights,57,N,W,F,False
+False,fairfield,fairfield,E,100000967,False,O,Defective Lights,23,N,B,M,False
+True,fairfield,fairfield,V,100000734,False,O,Other,39,N,W,M,False
+False,state police,norwalk             ,V,1000003203,True,O,Other,69,N,B,M,False
+False,hartford,hartford,V,700,False,C,Window Tint,27,N,B,M,True
+True,plainfield,plainfield,E,165,True,C,Defective Lights,37,N,W,F,False
+False,bethel,bethel,V,84L,False,C,Stop Sign,41,N,W,M,False
+False,csp troop l,litchfield,E,681608887,True,O,Other,27,N,W,F,True
+True,torrington,torrington,V,PSC24181,True,I,Moving Violation,64,N,W,M,False
+False,csp troop c,willington,V,1000003196,False,C,Registration,22,N,W,M,True
+True,state police,naugatuck           ,V,1000003165,True,O,Moving Violation,25,N,B,F,False
+True,derby,derby,I,063,False,O,Other,22,N,W,F,True
+False,bridgeport,bridgeport,E,ROS0712,True,C,Display of Plates,20,N,B,M,True
+False,new haven,new haven,V,6511,False,C,Window Tint,27,N,B,M,True
+True,windsor,windsor,E,212,False,O,Defective Lights,25,N,B,M,False
+True,wallingford,wallingford,V,P227,True,O,Other,13,N,W,M,False
+True,berlin,berlin,V,TWL0819,False,O,Speed Related,13,N,W,M,False
+False,fairfield,fairfield,E,100000962,True,C,Defective Lights,31,N,W,M,False
+True,darien,darien,V,PSC21368,False,C,Speed Related,28,H,W,M,False
+True,glastonbury,glastonbury,V,CJK0409,True,I,Cell Phone,51,N,W,M,True
+False,state police,norwich             ,V,1000002762,True,C,Other,39,N,B,M,False
+False,waterbury,waterbury,V,1083,True,I,Administrative Offense,39,N,B,M,False
+False,danbury,danbury,V,1000677,True,I,Registration,45,N,W,M,False
+False,farmington,farmington,V,359,False,I,Stop Sign,19,N,W,M,True
+False,windsor,windsor,V,TXT0121,False,O,Stop Sign,26,N,B,M,False
+False,new haven,new haven,I,61,False,C,Other/Error,24,H,W,M,False
+False,glastonbury,glastonbury,V,BSR0403,False,C,Display of Plates,40,N,W,M,True
+False,csp troop c,vernon,V,1000002743,True,C,Speed Related,26,N,W,M,False
+True,seymour,seymour,V,356,True,I,Equipment Violation,54,N,B,M,True
+True,newington,newington,E,49,False,C,Moving Violation,24,N,I,M,False
+False,csp troop e,montville,V,923295155,False,O,Stop Sign,12,H,W,M,True
+False,farmington,farmington          ,V,346,True,I,Traffic Control Signal,42,N,W,M,True
+False,csp troop a,danbury,V,1000002724,True,O,Other,60,N,W,F,True
+True,torrington,torrington,V,MRICH026,True,C,Equipment Violation,34,N,W,M,False
+False,milford,milford,V,517,False,O,Other,21,N,W,M,True
+True,willimantic,willimantic,I,367,True,C,Stop Sign,52,H,W,M,False
+False,danbury,danbury             ,V,10633,False,I,Cell Phone,39,H,W,M,True
+False,csp troop c,union,E,1000003196,True,C,Window Tint,13,H,W,M,True
+True,wallingford,wallingford,I,194,True,O,Other/Error,42,N,W,F,False
+False,middletown,middletown,V,221,True,C,Traffic Control Signal,31,H,W,M,True
+True,east hampton,east hampton,V,PSC21511,True,C,Moving Violation,18,N,B,M,False
+True,east hartford,east hartford,E,JMK0326,True,C,Window Tint,24,H,W,M,False
+True,norwalk,norwalk,V,100000142,False,I,Other,31,N,W,M,False
+False,west hartford,west hartford       ,V,1000002128,True,O,Moving Violation,47,N,W,M,False
+True,glastonbury,glastonbury,V,DMG0380,False,C,Registration,30,N,W,M,False
+True,enfield,enfield,V,10,True,O,Registration,30,N,W,M,True
+True,csp troop e,new haven,V,498167384,False,C,Speed Related,42,N,W,M,True
+True,new london,new london,I,PSC56057,False,C,Other,25,N,W,M,True
+False,new london,new london,V,PAS56091,True,O,Other/Error,22,N,B,M,True
+False,state police,windham             ,I,1000002736,True,C,Other/Error,25,N,B,M,False
+False,csp troop g,milford,I,119974171,True,O,Other,45,N,B,M,False
+False,stamford,stamford,E,11790/21534,False,O,Stop Sign,35,N,B,M,False
+True,putnam,putnam,V,3202,True,O,Defective Lights,25,N,W,M,True
+True,norwich,norwich,V,1067,True,I,Registration,38,H,W,F,False
+False,east hartford,east hartford,V,JMK0326,True,C,Administrative Offense,30,H,W,M,False
+False,berlin,berlin,V,TFB2841,True,I,Administrative Offense,21,H,W,F,False
+False,norwich,norwich,V,1050,True,O,Defective Lights,20,N,W,M,True
+False,rocky hill,rocky hill,V,1076193,False,C,Traffic Control Signal,22,H,W,M,False
+True,stamford,stamford,E,1A NIGHTS,True,C,Window Tint,38,H,W,M,False
+False,new london,new london,I,PSC56057,False,O,Other,30,N,W,M,False
+True,new haven,new haven,V,203,True,N,Unlicensed Operation,18,N,B,M,False
+False,east hartford,east hartford,V,KKC0268,True,C,Window Tint,21,N,B,M,True
+False,wallingford,wallingford,V,P213    ,True,C,Registration,26,N,B,M,False
+False,waterbury,waterbury,V,1020,True,I,Moving Violation,25,N,B,M,False
+False,milford,milford,V,10,True,I,Other,38,N,B,M,True
+True,middletown,middletown,V,233,True,C,Speed Related,21,N,W,F,False
+False,branford,branford            ,V,381,False,N,Suspended License,26,N,W,M,True
+True,norwich,norwich,V,1051,True,C,Traffic Control Signal,34,N,W,F,True
+True,new haven,new haven,V,6507,True,C,Stop Sign,21,N,B,M,True
+False,csp troop a,danbury,V,790642042,True,O,Other,24,N,B,M,False
+False,torrington,torrington,E,69,True,C,Defective Lights,23,N,W,M,False
+True,middletown,middletown,V,253,False,O,Other,40,N,B,F,True
+False,farmington,unionville,V,356,False,O,Stop Sign,18,N,W,M,False
+False,simsbury,simsbury,V,222,True,O,Speed Related,27,N,W,M,True
+True,csp troop k,lebanon,V,1000003199,True,O,Administrative Offense,30,N,B,M,True
+False,north haven,north haven         ,V,100000160,False,C,Speed Related,61,N,W,M,True
+False,middletown,middletown,V,163,True,C,Display of Plates,31,N,W,M,False
+False,waterford,waterford,V,S16,True,O,Speed Related,26,N,W,M,False
+False,naugatuck,naugatuck,E,PL31,True,C,Defective Lights,20,N,W,M,True
+True,meriden,meriden,V,115,True,C,Speed Related,29,N,W,M,True
+False,new london,new london,I,PSC56030,False,O,Other,40,H,W,M,False
+False,farmington,farmington          ,V,214,False,C,Moving Violation,29,N,W,M,True
+True,cheshire,cheshire,E,3,True,O,Display of Plates,17,N,W,M,True
+True,torrington,torrington,E,66,False,I,Other,39,N,W,F,False
+False,plymouth,terryville,V,21,True,O,Speed Related,23,N,W,M,False
+True,waterbury,waterbury,I,2098,True,I,Suspended License,22,H,W,F,True
+True,fairfield,fairfield,V,100000707,True,O,Other,12,N,W,M,False
+True,csp troop g,west haven,V,119974171,True,O,Unlicensed Operation,15,N,B,F,False
+False,east hartford,east hartford,V,KKC0268,True,O,Administrative Offense,37,N,B,M,False
+True,plainville,plainville,V,MG851,True,C,Moving Violation,25,N,W,M,False
+True,state police,bolton              ,V,1000002719,False,C,Defective Lights,27,N,W,M,True
+True,danbury,danbury,V,10438,True,I,Speed Related,26,H,W,M,True
+False,west haven,west haven,V,1000333,True,I,Display of Plates,59,N,W,M,False
+False,wethersfield,wethersfield,V,538,False,C,Administrative Offense,30,N,W,M,True
+True,derby,derby,V,68,False,I,Display of Plates,38,N,B,F,False
+False,north haven,north haven         ,V,100000018,True,I,Other,28,H,W,M,True
+True,glastonbury,glastonbury,V,SAS0410,False,I,Suspended License,20,N,W,F,True
+True,old saybrook,old saybrook,V,10,False,C,Defective Lights,36,N,B,M,False
+True,westport,westport,V,PSC20046,True,O,Moving Violation,38,N,W,F,False
+True,east hartford,east hartford,V,JAC0342,True,C,Stop Sign,18,N,B,F,True
+False,wilton,wilton,I,120000071,False,O,Other,23,N,W,M,False
+True,csp troop g,bridgeport,V,1000002598,True,O,Speed Related,33,N,B,M,True
+True,wallingford,wallingford,E,218,True,O,Speed Related,16,N,B,M,True
+True,seymour,seymour,V,345,True,O,Moving Violation,36,N,B,M,False
+True,csp troop a,newtown,E,790642042,True,O,Administrative Offense,21,N,B,M,False
+False,stamford,stamford,E,23342/23344,False,O,Window Tint,17,H,W,M,True
+False,state police,waterbury           ,V,1000002230,False,C,Other/Error,20,H,W,M,False
+True,new britain,new britain,V,VD0439,False,C,Stop Sign,24,H,W,M,True
+True,norwich,norwich,E,1063,False,O,Defective Lights,18,N,W,F,False
+False,meriden,meriden,V,466,False,C,Moving Violation,37,H,W,M,True
+True,csp troop b,salisbury,E,1000002945,False,C,Administrative Offense,46,N,W,F,False
+False,seymour,seymour,V,106,True,O,Speed Related,24,N,W,M,True
+False,danbury,danbury,V,1000502,True,O,Traffic Control Signal,26,N,B,M,False
+False,norwich,norwich,V,1050,True,C,Speed Related,15,N,W,F,True
+False,naugatuck,naugatuck,E,PL39,True,I,Defective Lights,45,N,W,M,False
+False,west haven,west haven,V,1000333,True,I,Moving Violation,44,N,B,M,True
+False,east haven,east haven,V,100221,True,C,Cell Phone,36,N,W,M,False
+False,new canaan,new canaan,V,287,False,O,Registration,28,N,W,M,False
+True,ridgefield,ridgefield,V,1000064,True,O,Speed Related,16,N,W,M,False
+False,watertown,watertown,V,1000223,True,C,Display of Plates,26,N,W,M,True
+True,csp troop g,new haven,V,961269420,True,O,Moving Violation,22,N,W,M,False
+False,norwalk,norwalk,V,100000287,True,C,STC Violation,16,H,W,M,True
+False,naugatuck,naugatuck,V,PL17,False,O,STC Violation,23,N,W,M,False
+True,hartford,hartford,V,565,False,O,Stop Sign,19,N,B,M,True
+False,plainville,plainville,V,MRB0349,True,O,Traffic Control Signal,22,H,W,M,True
+False,windsor,windsor,V,5845,False,I,Defective Lights,37,N,B,M,False
+True,danbury,danbury             ,V,10606,True,I,Cell Phone,31,H,W,M,False
+False,csp troop a,waterbury,V,1000002747,False,O,Seatbelt,27,N,B,M,True
+True,new haven,new haven,I,960,True,N,Other,34,N,B,M,True
+False,stratford,stratford           ,I,10169,False,C,Registration,23,N,B,M,False
+False,csp troop h,west hartford,V,1000003386,True,O,Other,19,H,W,M,False
+False,csp troop k,mansfield,V,1000003376,False,C,STC Violation,31,N,B,M,False
+False,csp troop a,naugatuck,V,1000002585,False,O,Moving Violation,23,N,B,M,False
+True,danbury,danbury,V,1000544,False,I,Defective Lights,18,H,W,M,True
+False,csp troop g,branford,V,961269420,True,O,Speed Related,33,N,W,F,False
+False,middletown,middletown,V,163,True,C,Seatbelt,12,N,W,F,True
+False,windsor,windsor,V,RXW0169,True,I,Registration,22,N,B,M,True
+False,norwich,norwich,V,1012,True,C,Suspended License,37,N,W,M,True
+False,waterbury,waterbury,V,2247,False,I,Other,50,N,W,M,True
+False,branford,branford,V,381,True,N,Registration,30,N,W,M,False
+False,new london,new london,V,PSC56052,True,O,Traffic Control Signal,38,N,B,M,False
+False,state police,waterbury           ,V,1000002575,False,O,Speed Related,25,M,B,F,False
+False,enfield,enfield,V,20,False,I,Registration,53,N,B,F,True
+False,south windsor,south windsor,V,KRL0182,True,I,Registration,21,N,W,F,True
+False,csp troop i,wallingford,V,447203558,True,O,Speed Related,16,N,W,M,True
+True,csp troop a,southbury,E,1000003793,True,O,Defective Lights,21,N,W,M,True
+True,wethersfield,wethersfield,I,JPL0159,True,C,Moving Violation,15,N,W,F,True
+False,middletown,middletown,V,160,True,O,Moving Violation,43,N,W,M,True
+False,westport,westport,V,20015,False,O,Speed Related,49,N,W,F,False
+True,state police,shelton             ,V,1000003016,True,C,Speed Related,25,N,W,M,True
+False,derby,derby,V,77,True,I,Registration,27,N,B,M,True
+False,groton town,groton,V,MCCAG,True,O,Moving Violation,24,H,W,F,False
+False,wallingford,wallingford,V,P214    ,True,O,Equipment Violation,29,H,W,M,False
+True,csp troop g,westport,V,1000002702,True,C,Speed Related,32,N,B,M,False
+False,state police,stafford            ,V,104759822,False,O,Other,23,N,W,M,True
+False,new canaan,new canaan,E,276,True,C,Display of Plates,18,H,W,M,True
+True,manchester,manchester,V,SP5090,False,C,Window Tint,28,N,B,M,False
+True,west hartford,west hartford       ,V,1000002108,False,O,Moving Violation,26,N,W,M,False
+False,naugatuck,naugatuck,V,PL36,True,O,Speed Related,22,N,W,M,False
+False,stamford,stamford,E,PSC43182,False,I,Defective Lights,23,H,W,M,False
+True,old saybrook,old saybrook,V,19,True,I,Speed Related,23,N,W,M,True
+False,uconn,storrs,V,520,True,I,Registration,26,N,W,M,False
+False,coventry,coventry,V,2186,False,O,Speed Related,28,N,B,M,False
+False,wallingford,wallingford,I,194,True,O,Other,41,N,W,M,True
+False,middletown,middletown,V,163,True,C,Display of Plates,32,N,B,M,False
+True,seymour,seymour,V,316,True,C,Speed Related,26,N,W,M,True
+False,yale,new haven,E,572,False,N,Seatbelt,32,N,A,M,False
+True,bridgeport,bridgeport,V,GAL0758,False,I,Registration,13,N,B,M,True
+False,west haven,west haven,I,214,True,C,Other,24,N,W,M,True
+False,milford,milford,E,2325,False,C,Defective Lights,47,N,W,M,False
+True,csp troop l,watertown,V,1000003198,True,O,Speed Related,57,N,W,M,False
+True,darien,darien,V,PSC21343,False,C,Registration,47,N,W,M,True
+True,state police,stonington          ,V,44294139,False,O,Speed Related,46,N,B,M,False
+False,new haven,new haven,E,6557,False,O,Defective Lights,19,H,W,F,False
+True,state police,hartford            ,V,1000002271,False,O,Traffic Control Signal,23,H,W,M,False
+False,plainville,plainville,V,TTN2887,True,C,Window Tint,17,H,W,M,True
+True,stratford,stratford,V,10173,False,O,Registration,22,N,B,F,False
+False,waterbury,waterbury,I,1355,False,I,Administrative Offense,25,N,B,M,True
+True,west hartford,west hartford,V,1000002072,False,O,Seatbelt,30,N,W,M,True
+False,monroe,monroe,V,1000118,True,I,Registration,31,H,W,F,False
+False,manchester,manchester,V,JDM5229,True,C,Seatbelt,51,N,B,M,True
+False,farmington,farmington,E,372,True,C,Defective Lights,17,N,W,F,True
+False,state police,lisbon              ,V,965050435,True,C,Window Tint,61,N,W,M,True
+True,csp troop f,westbrook,V,1000003387,True,C,Speed Related,25,N,B,M,False
+False,norwalk,norwalk,E,100000237,True,C,Defective Lights,18,H,W,M,True
+False,branford,branford            ,V,293,True,C,Defective Lights,28,N,W,M,True
+True,farmington,farmington,V,346,True,I,Moving Violation,21,N,W,M,True
+True,groton town,groton,V,MARTA,True,O,Moving Violation,21,N,W,M,False
+False,bridgeport,bridgeport,V,RUF0703,False,O,Other,15,H,W,F,True
+False,state police,derby               ,V,1000003165,True,O,Defective Lights,32,H,W,M,False
+True,middletown,middletown,V,196,True,O,Stop Sign,51,N,W,F,True
+True,thomaston,thomaston,I,PSC24027,True,I,Speed Related,11,N,W,M,False
+False,state police,danbury             ,V,790642042,True,O,Other/Error,22,M,B,F,False
+False,west haven,west haven,V,1000340,False,I,Registration,36,N,B,M,False
+False,new haven,new haven,V,318,False,C,Administrative Offense,36,N,B,M,True
+False,csp troop c,mansfield,V,934977327,True,O,Speed Related,25,N,W,F,False
+True,csp troop h,cromwell,V,801814624,True,O,Speed Related,23,N,W,F,False
+False,stonington,pawcatuck,V,18,False,C,Moving Violation,24,N,W,M,False
+True,glastonbury,glastonbury,V,BJL0435,True,C,Moving Violation,49,H,W,M,False
+False,new haven,new haven,V,30490,True,C,Window Tint,20,N,B,M,False
+False,vernon,vernon,V,601,True,O,Moving Violation,37,N,W,M,False
+False,waterbury,waterbury,V,1638,True,I,Administrative Offense,24,N,W,F,True
+True,stamford,stamford,V,22440,True,I,Other,29,H,W,M,True
+False,wolcott,wolcott,V,222,True,I,Window Tint,53,N,W,M,False
+False,east hartford,east hartford,V,JMK0326,True,O,Speed Related,20,N,B,M,False
+True,csp troop e,montville,V,1000003180,False,C,Registration,31,N,I,M,True
+False,wethersfield,wethersfield,V,563,False,O,Moving Violation,16,H,W,M,False
+True,enfield,enfield,V,65,False,I,Traffic Control Signal,22,N,W,M,False
+False,rocky hill,rocky hill,V,1095410,True,C,Stop Sign,17,N,W,M,False
+True,csp troop g,new haven,V,1000002623,True,C,Moving Violation,45,N,B,M,True
+False,state police,woodbury            ,V,1000003198,False,C,Display of Plates,37,N,W,M,False
+True,west hartford,west hartford,V,100280,True,O,Cell Phone,19,N,W,M,False
+True,new haven,new haven,V,6528,True,C,Other,32,N,B,M,True
+False,windsor,windsor,V,BXB0127,True,O,Moving Violation,24,N,B,M,False
+False,norwalk,norwalk,E,100000367,True,C,Display of Plates,54,N,W,F,True
+False,new haven,new haven,E,147,False,C,Window Tint,25,N,B,M,False
+False,ridgefield,ridgefield,V,1000064,True,O,Speed Related,30,M,W,M,False
+False,bridgeport,bridgeport,V,HAR0158,True,C,Stop Sign,27,H,W,M,False
+False,new haven,new haven,V,6583,True,C,Other,25,N,B,M,True
+True,wallingford,wallingford,V,P228,False,N,Administrative Offense,14,N,B,M,True
+False,new london,new london,V,PSC56082,False,O,Other,24,N,B,M,True
+False,new haven,new haven,E,6528,True,O,Window Tint,30,N,B,M,False
+True,berlin,berlin,V,MWM1067,True,I,Other,30,N,B,F,False
+False,enfield,enfield,I,121,False,O,Unlicensed Operation,14,H,W,F,True
+True,bristol,bristol,V,120000062,True,C,Other,14,H,W,M,True
+False,east hartford,east hartford,V,JMK0326,True,C,Registration,32,N,B,M,False
+False,new haven,new haven,V,6528,True,C,Other,25,N,B,M,False
+False,enfield,enfield,V,10,True,C,Speed Related,24,N,W,M,True
+True,ansonia,ansonia,V,100000097,False,C,Moving Violation,54,N,W,F,False
+False,csp troop d,brooklyn,V,1000002949,False,C,Speed Related,12,N,W,M,False
+False,new milford,new milford,V,454,False,C,Speed Related,38,N,W,M,True
+True,willimantic,willimantic,V,282,False,O,Other,54,M,B,M,False
+False,derby,derby,V,63,True,O,Seatbelt,22,N,W,M,True
+False,berlin,berlin,V,DEG1593,True,I,Suspended License,26,H,W,F,True
+False,csp headquarters,tolland,V,44294139,True,O,Speed Related,27,N,B,F,False
+False,bristol,bristol,V,120000062,True,O,Moving Violation,58,N,W,M,True
+True,west hartford,west hartford       ,V,1000002128,True,C,Moving Violation,31,N,W,M,False
+False,norwalk,norwalk,E,100000321,True,C,Window Tint,37,H,W,M,True
+False,berlin,berlin,V,BML2828,False,I,Registration,45,H,W,M,False
+False,norwich,norwich,V,1042,True,I,Registration,51,N,B,M,False
+True,wethersfield,wethersfield,E,JBH0915,False,C,Other/Error,21,H,W,M,True
+False,stratford,stratford,V,30233,True,C,Stop Sign,25,N,W,F,True
+False,state police,norwich             ,I,1000003395,False,O,Other/Error,30,N,B,M,True
+False,middletown,middletown,I,160,False,O,Speed Related,50,H,W,M,True
+False,state police,plainfield          ,V,1000002266,True,C,Cell Phone,29,N,W,M,True
+False,csp troop g,darien,V,1000002702,False,O,Registration,22,N,I,M,False
+False,north haven,north haven,V,100000071,True,N,Moving Violation,25,N,B,M,False
+False,csp troop g,milford,V,1000003362,False,C,Registration,34,N,B,M,False
+False,east lyme,east lyme,I,WIL5967,True,O,STC Violation,34,N,W,F,False
+True,stratford,stratford,I,10095,True,I,Administrative Offense,21,N,B,M,True
+False,csp troop g,new haven,V,159668340,False,O,Registration,33,N,B,M,True
+True,stamford,stamford,V,TE4,False,O,Cell Phone,26,N,B,M,False
+False,glastonbury,glastonbury,E,BJB0397,False,O,Window Tint,29,H,W,M,False
+True,new haven,new haven,V,6534,True,C,Traffic Control Signal,18,N,W,F,False
+False,west hartford,west hartford       ,V,1000002029,True,N,Traffic Control Signal,30,N,W,M,False
+True,west hartford,west hartford       ,V,1000002145,False,C,Registration,44,H,W,M,False
+False,milford,milford,V,482,False,I,Other,23,N,W,M,False
+False,manchester,manchester,V,JD5231,True,O,Defective Lights,16,N,B,M,True
+False,bridgeport,bridgeport,V,1418,True,I,Defective Lights,51,N,B,M,True
+False,west hartford,west hartford,V,1000002072,True,C,Moving Violation,51,N,W,M,False
+True,state police,bridgeport          ,I,1000003175,False,C,Speed Related,35,M,B,M,True
+False,newtown,newtown,V,343,False,I,Defective Lights,24,N,W,M,False
+True,state police,newtown             ,V,660735214,True,C,Speed Related,34,N,B,M,True
+False,waterbury,waterbury,E,1033,False,C,Defective Lights,23,N,W,M,False
+False,newington,newington,E,38,False,O,Window Tint,38,H,W,M,True
+False,derby,derby,V,66,False,I,Registration,50,N,W,M,False
+False,csp troop c,somers,V,1000002961,True,C,Other,59,N,W,M,True
+True,manchester,manchester,V,LE5293,True,O,Cell Phone,22,N,B,M,False
+False,state police,hartford            ,V,1000002760,True,I,Other/Error,21,H,W,M,True
+True,watertown,oakville,V,1151,True,C,Speed Related,21,N,W,M,False
+False,norwalk,norwalk             ,V,100000277,True,C,Stop Sign,29,N,W,M,True
+False,manchester,manchester,V,RG5076,True,O,Window Tint,16,N,B,M,True
+False,manchester,manchester,V,LMH5272,True,O,Cell Phone,18,N,B,M,False
+True,new haven,new haven,E,30495,True,C,Display of Plates,23,N,B,M,False
+True,seymour,seymour,V,101,True,I,Registration,56,N,B,M,True
+False,stamford,stamford,E,23372/23373,True,I,Defective Lights,18,H,W,M,False
+False,north haven,north haven,V,100000218,True,I,Registration,41,H,W,M,False
+False,waterbury,waterbury,V,2034,True,I,Suspended License,66,H,W,M,True
+True,hartford,hartford,V,707,False,O,Stop Sign,25,H,W,M,True
+False,windsor locks,windsor locks,V,206,True,I,Registration,33,H,W,M,False
+False,stamford,stamford,V,23372/23373,True,I,Stop Sign,41,N,B,M,True
+True,state police,danbury             ,V,1000003022,False,C,Other,17,N,W,M,False
+True,vernon,vernon,V,625,True,C,Moving Violation,25,H,W,M,False
+False,csp troop a,waterbury,V,1000002747,True,O,Moving Violation,19,N,B,M,False
+False,new milford,new milford,V,426,True,C,Speed Related,29,N,W,M,True
+False,bristol,bristol,E,120000060,False,C,Defective Lights,26,N,B,M,False
+False,groton city,groton city,V,PSC21807,True,C,Moving Violation,34,H,W,M,True
+False,berlin,berlin,V,JTM2849,True,O,Speed Related,18,N,B,M,False
+False,norwich,norwich,V,1069,False,O,Speed Related,40,N,B,M,True
+False,newington,newington,V,AAP2595,True,O,Traffic Control Signal,52,N,W,M,True
+False,new london,new london,E,PSC56090,True,O,Equipment Violation,35,N,W,M,True
+True,stratford,stratford,V,30225,True,I,Registration,23,N,W,F,False
+False,norwalk,norwalk,V,100000243,False,C,Defective Lights,22,N,B,M,True
+False,east windsor,east windsor,V,155,False,I,Other,66,N,W,M,False
+False,new haven,new haven,V,354,False,C,Stop Sign,46,N,B,M,False
+False,uconn,storrs,E,484,True,C,Display of Plates,24,N,W,M,False
+True,new haven,new haven,V,139,False,O,Other,27,H,W,M,True
+False,state police,brookfield          ,V,1000002747,False,O,Seatbelt,48,N,B,M,False
+False,wethersfield,wethersfield,V,RGM0161,False,C,Display of Plates,19,N,W,M,False
+True,east hartford,east hartford,V,JMK0326,True,C,Administrative Offense,21,N,B,F,False
+False,west hartford,west hartford       ,V,1000002052,True,C,Cell Phone,43,N,W,F,False
+False,state police,mansfield           ,V,1000002097,True,O,Display of Plates,23,H,B,M,True
+True,rocky hill,rocky hill,V,JLF0213,True,C,Cell Phone,51,N,W,F,True
+False,west hartford,west hartford       ,V,1000002108,True,C,Other,29,N,W,M,False
+True,stratford,stratford,V,30190,True,C,Moving Violation,19,N,W,M,False
+True,csp troop g,bridgeport,V,119974171,False,O,Moving Violation,27,N,W,M,False
+False,stratford,stratford,V,30233,True,O,Moving Violation,35,N,B,M,True
+True,csp troop a,southbury,I,1000003764,True,C,Other,43,N,W,M,True
+True,wallingford,wallingford,E,230,True,O,Window Tint,32,N,W,M,False
+True,stratford,stratford,V,10165,True,O,Seatbelt,34,N,B,M,True
+True,csp troop k,east haddam,V,1000003671,True,O,Display of Plates,61,N,W,M,False
+False,stratford,stratford,I,30126,True,I,Seatbelt,23,N,B,M,True
+False,greenwich,chickahominy        ,V,120000092,True,O,Moving Violation,22,H,W,M,False
+True,greenwich,chickahominy,V,120000219,True,O,Administrative Offense,25,H,W,M,False
+True,state police,danbury,V,790642042,False,C,Speed Related,34,H,W,M,False
+True,hartford,hartford,I,665,True,C,Moving Violation,62,H,W,M,True
+True,west hartford,west hartford       ,V,1000002101,True,O,Moving Violation,32,N,B,M,True
+False,watertown,oakville,V,1000223,True,C,Moving Violation,24,N,W,M,False
+False,greenwich,greenwich           ,I,4121,True,C,Stop Sign,17,M,B,M,True
+False,danbury,danbury,V,10616,True,I,Registration,54,N,W,M,True
+False,west hartford,west hartford       ,V,100318,False,C,Suspended License,41,N,W,M,True
+False,csp troop a,danbury,V,790642042,False,C,Administrative Offense,54,N,W,M,True
+True,west hartford,west hartford,V,1000002139,True,N,Moving Violation,29,H,W,M,False
+True,glastonbury,glastonbury,V,JMC0418,False,I,Stop Sign,22,H,W,M,False
+False,norwalk,norwalk,E,100000187,True,O,Registration,17,H,W,M,False
+True,stamford,stamford,V,8S2,True,N,Traffic Control Signal,57,N,W,M,True
+False,greenwich,greenwich,V,7182,True,C,Speed Related,20,N,A,M,True
+False,old saybrook,old saybrook,V,23,True,O,Registration,26,N,W,F,False
+True,east windsor,east windsor,V,DDL0188,False,O,Suspended License,27,N,W,M,True
+True,new britain,new britain,E,MPS0474,True,O,Seatbelt,17,N,W,M,False
+True,vernon,vernon,V,623,True,C,Moving Violation,24,N,B,M,False
+True,bridgeport,bridgeport,V,HAR0158,False,I,Speed Related,56,N,B,M,True
+False,east hartford,east hartford,V,JJF0297,True,O,Defective Lights,55,N,B,F,False
+False,norwich,norwich,V,1051,False,I,Speed Related,45,N,W,F,True
+True,enfield,enfield,V,103,False,O,Moving Violation,29,N,W,M,False
+False,enfield,enfield,V,10,False,O,Defective Lights,20,N,B,M,False
+False,wethersfield,wethersfield,V,250039,False,C,STC Violation,33,H,W,F,True
+False,fairfield,fairfield,V,100000928,True,C,Administrative Offense,31,N,W,M,True
+False,west haven,west haven,I,1210,True,O,Other,30,N,W,M,False
+False,north haven,north haven,V,100000218,True,O,Registration,24,N,W,M,False
+False,bridgeport,bridgeport,V,TOP0206,True,C,Stop Sign,57,N,B,M,True
+False,wallingford,wallingford,V,P049,True,O,Speed Related,21,H,W,M,True
+False,waterbury,waterbury,E,2087,True,I,Other,23,N,B,F,True
+True,south windsor,south windsor,E,1214,False,I,Display of Plates,75,N,W,M,True
+True,north haven,north haven,V,100000230,True,I,Other,39,N,B,M,False
+False,csp troop b,winchester,I,1000002726,True,O,Administrative Offense,31,N,B,M,True
+True,waterbury,waterbury,E,1000349,True,I,Defective Lights,28,H,W,M,True
+False,glastonbury,glastonbury,V,SCC0425,True,I,Moving Violation,71,N,W,M,True
+False,west hartford,west hartford,V,100280,False,O,Other,12,N,W,M,True
+False,danbury,danbury,V,1000493,False,I,Registration,35,N,W,M,True
+True,naugatuck,naugatuck,V,PL39,True,C,Equipment Violation,15,N,W,M,True
+True,enfield,enfield,V,32,True,O,Stop Sign,21,H,W,M,False
+True,new haven,new haven,V,6505,False,C,Registration,56,N,B,M,False
+True,csp troop g,westport,V,1000002748,False,C,Registration,38,H,W,M,False
+True,winsted,winchester,V,1150,True,O,Other,40,N,W,M,True
+False,trumbull,trumbull,E,5106,False,O,Defective Lights,17,N,B,M,False
+False,csp troop h,middletown,I,1000003156,False,O,Other,48,N,W,M,False
+True,csp troop g,bridgeport,V,1000002958,True,I,Speed Related,29,H,B,F,True
+False,state police,haddam              ,V,159668340,False,O,Other/Error,44,N,W,M,False
+False,milford,milford,V,50,False,O,Other,33,N,B,M,False
+True,csp troop g,bridgeport,V,1000002702,True,O,Moving Violation,36,N,W,M,True
+True,new milford,new milford,V,419,False,O,Seatbelt,19,N,W,M,True
+False,csp troop i,wallingford,V,447203558,False,O,Speed Related,14,N,W,M,False
+False,middletown,middletown,V,165,True,O,Speed Related,44,N,W,M,True
+True,norwalk,norwalk             ,E,100000232,True,C,Other,39,N,W,M,False
+False,torrington,torrington,E,026,False,I,Defective Lights,57,N,W,M,True
+False,stratford,stratford,E,30233,False,I,Defective Lights,29,N,B,M,True
+True,wethersfield,wethersfield,V,542,False,O,Administrative Offense,50,H,W,F,False
+False,state police,stafford            ,V,1000002715,True,C,Seatbelt,26,H,W,M,False
+True,windsor locks,windsor locks,V,63,True,I,Cell Phone,44,N,W,F,False
+True,danbury,danbury             ,V,10606,False,I,Suspended License,37,N,B,F,True
+False,farmington,farmington,V,372,True,I,Moving Violation,48,N,W,M,True
+False,wallingford,wallingford,V,231,True,O,Defective Lights,66,N,W,M,False
+False,norwich,norwich,V,1010,True,C,Defective Lights,22,H,W,M,True
+False,stratford,stratford,V,30124,False,I,Administrative Offense,17,N,W,M,True
+True,willimantic,willimantic,I,336,False,O,Moving Violation,28,H,W,M,True
+False,rocky hill,rocky hill,V,1095410,True,C,Speed Related,52,N,W,F,False
+True,csp troop d,killingly,V,117829510,False,C,Registration,24,N,W,F,False
+False,vernon,vernon              ,E,570,False,C,Display of Plates,47,N,W,M,False
+True,west hartford,hartford            ,V,1000002072,True,O,Defective Lights,28,N,B,M,False
+False,westport,westport,V,PSC20044,False,O,Speed Related,27,N,B,M,False
+True,plainville,plainville,V,PH4976,False,O,Registration,29,N,B,M,False
+False,groton town,groton,E,MARTA,True,O,Defective Lights,25,N,W,M,False
+False,waterbury,waterbury,V,2387,False,I,Display of Plates,36,N,B,F,True
+True,csp troop f,essex,E,1000002969,False,C,Equipment Violation,29,N,W,M,True
+False,fairfield,fairfield,E,100000962,True,C,Defective Lights,26,N,W,M,False
+False,bristol,bristol,V,120000090,False,C,Moving Violation,38,N,W,F,False
+False,east hartford,east hartford,V,194,False,C,Seatbelt,10,N,W,M,False
+True,enfield,enfield,E,124,False,C,Defective Lights,24,N,W,F,True
+True,ansonia,ansonia,V,100000195,True,C,Moving Violation,15,N,W,M,False
+False,seymour,seymour,V,343,True,I,Suspended License,20,N,W,F,False
+False,waterbury,waterbury,V,1083,False,I,Stop Sign,23,N,B,F,False
+True,cheshire,cheshire,V,37,False,C,Administrative Offense,24,N,B,F,True
+False,csp troop g,westport,V,1000003472,False,O,Speed Related,18,H,B,M,False
+True,stratford,stratford,V,30252,True,I,Defective Lights,27,H,W,M,False
+False,norwich,norwich,I,1040,False,O,Registration,33,N,B,M,True
+False,watertown,watertown,V,1177,True,O,Moving Violation,24,N,W,M,False
+False,state police,colchester          ,V,1000002851,True,I,Other/Error,43,N,W,F,False
+True,seymour,seymour,V,345,True,O,Moving Violation,30,N,B,M,False
+True,csp troop a,waterbury,V,1000003363,False,O,Registration,32,N,W,F,False
+True,groton town,groton,E,PSC21981,True,C,Window Tint,29,N,B,M,True
+False,west haven,west haven,V,1225,False,N,Defective Lights,60,H,W,M,False
+False,danbury,danbury,V,10502,True,I,Registration,35,N,W,F,False
+True,orange,orange,V,HJP5140,False,I,Moving Violation,31,N,B,M,False
+False,monroe,monroe,V,1000093,True,O,Defective Lights,33,N,W,M,True
+False,new haven,new haven,E,1746,True,O,Display of Plates,31,N,B,M,False
+True,plainville,plainville,V,BCB2685,False,O,Registration,26,N,W,M,False
+False,new haven,new haven,V,271,False,O,Other,27,H,B,M,True
+True,windsor locks,windsor locks,V,206,False,I,Administrative Offense,21,N,B,F,True
+False,state police,lisbon              ,V,1000002938,True,C,Traffic Control Signal,21,N,W,M,False
+True,windsor,windsor,E,215,True,I,Defective Lights,24,N,B,M,False
+False,milford,milford,E,295,True,C,Other,28,N,W,M,False
+True,csp troop e,montville,V,175841017,True,O,Speed Related,28,N,W,F,False
+True,state police,lebanon,V,1000002719,False,C,Speed Related,24,N,W,M,True
+False,new haven,new haven,V,6507,False,C,Moving Violation,31,N,B,M,False
+True,stratford,stratford,V,10083,False,C,Registration,42,N,W,M,False
+False,bloomfield,bloomfield          ,V,136,False,I,Defective Lights,50,N,W,M,True
+True,west hartford,west hartford,V,1000002108,False,C,Moving Violation,17,N,W,F,True
+True,csp troop e,griswold,V,1000003527,False,O,Other,21,N,W,M,True
+False,east hartford,east hartford,V,CMD0333,False,C,Other,30,N,W,M,False
+True,branford,branford,I,118,True,N,Other,25,N,W,M,True
+False,vernon,vernon,E,590,True,C,Defective Lights,19,N,W,M,False
+True,naugatuck,naugatuck,V,PL20,False,I,Speed Related,47,N,B,F,True
+True,south windsor,south windsor,I,JDR0191,False,O,Other,16,N,B,F,True
+False,westport,westport,V,PSC20059,True,O,Speed Related,29,H,W,F,False
+False,norwalk,norwalk,V,100000277,True,O,Moving Violation,22,N,W,M,False
+True,wethersfield,ngtn,V,250039,False,O,Registration,28,H,W,M,True
+False,torrington,torrington,V,68,False,O,Stop Sign,20,N,W,M,False
+True,stamford,stamford,V,1B,True,O,Window Tint,27,N,B,M,False
+False,orange,orange,E,MB7896,True,O,Display of Plates,66,N,W,M,True
+False,csp troop k,colchester,V,1000003030,True,O,Registration,21,N,W,F,True
+True,new haven,new haven,E,30498,True,C,Display of Plates,34,N,B,M,True
+False,old saybrook,old saybrook,V,10,False,O,Speed Related,10,N,B,M,False
+True,west hartford,west hartford,V,1000002128,True,O,Administrative Offense,30,N,B,M,False
+False,stratford,stratford,V,30233,False,C,Stop Sign,20,N,W,F,True
+False,west haven,west haven,V,1194,False,N,Other,23,N,W,M,True
+True,glastonbury,glastonbury,E,BJB0397,True,C,Defective Lights,23,H,W,M,True
+True,willimantic,willimantic,I,182,True,C,Moving Violation,18,H,W,M,False
+True,wallingford,wallingford,V,213,True,O,Registration,29,N,W,M,False
+False,uconn,storrs,V,520,True,C,Stop Sign,18,N,W,M,False
+False,new haven,new haven,V,6511,True,C,Window Tint,33,N,B,M,True
+False,torrington,torrington,E,7,True,O,Defective Lights,46,N,W,M,True
+True,csp troop k,lebanon,V,1000003194,True,O,Other,32,N,B,M,False
+False,stratford,stratford           ,I,10169,True,C,Stop Sign,33,N,W,M,False
+True,old saybrook,old saybrook,V,26,True,O,Seatbelt,39,N,W,M,True
+True,manchester,manchester,V,RG5076,True,O,Registration,17,N,B,F,True
+False,new canaan,new canaan,E,275,False,O,Window Tint,25,N,W,M,False
+False,derby,derby,V,67,True,C,Stop Sign,20,H,W,M,True
+True,glastonbury,glastonbury,E,NPC0399,False,O,Defective Lights,22,N,W,M,False
+False,state police,new haven           ,V,1000002705,True,O,Registration,30,N,W,F,False
+False,new britain,new britain,E,RO00406,False,O,Window Tint,27,H,W,M,False
+True,suffield,suffield,V,114,True,O,Registration,17,N,W,F,False
+False,state police,hebron              ,V,569478224,True,C,Registration,28,N,W,M,True
+True,west hartford,west hartford       ,V,1000002101,True,C,Cell Phone,53,H,W,M,False
+True,bridgeport,bridgeport,V,BEN0134,True,O,Speed Related,39,N,B,M,True
+True,naugatuck,naugatuck,V,PL40,True,O,Stop Sign,32,N,W,M,True
+False,glastonbury,glastonbury,V,DMG0380,True,I,Registration,26,N,W,M,False
+False,waterford,waterford,V,52,True,C,Speed Related,16,N,W,M,True
+False,fairfield,fairfield           ,V,100000707,False,C,Window Tint,49,N,W,F,False
+False,derby,derby,V,43,True,C,Stop Sign,31,N,W,M,True
+True,newington,newington,E,TG2627,True,C,Defective Lights,32,N,B,M,True
+True,csp troop i,bethany,I,1000002761,False,C,Other,38,N,B,M,False
+False,branford,branford            ,V,381,False,N,Registration,36,N,W,M,False
+False,wethersfield,wethersfield,V,PJM0164,True,C,Moving Violation,33,N,B,M,True
+False,wallingford,wallingford,V,PSC27059,True,O,Seatbelt,25,H,W,M,True
+False,stratford,stratford,E,30339,False,O,Display of Plates,24,N,B,M,False
+False,new haven,new haven,I,960,True,O,Window Tint,32,N,B,M,True
+False,state police,tolland             ,I,1000003210,True,O,Other,25,N,W,M,True
+True,bridgeport,bridgeport,V,338,True,C,Stop Sign,32,N,B,M,True
+False,windsor,windsor,V,4030,False,I,Stop Sign,24,N,W,F,True
+False,manchester,manchester,I,JBD5172,True,O,Other,38,H,W,F,False
+True,enfield,enfield,V,58,True,I,Administrative Offense,68,N,W,M,True
+True,vernon,vernon,V,625,True,C,Moving Violation,44,N,W,M,True
+True,newtown,newtown,V,1366,False,O,Seatbelt,14,N,W,M,True
+True,manchester,manchester,V,JBD5172,True,O,Window Tint,29,H,W,F,True
+True,berlin,berlin,V,CAG2461,True,I,Speed Related,40,N,W,M,False
+False,norwich,norwich,E,1044,True,C,Other,30,N,W,M,False
+False,new haven,new haven,V,615,True,O,Other/Error,18,N,B,M,False
+True,norwich,norwich,E,1030,True,C,Moving Violation,28,N,W,F,True
+True,east hartford,east hartford,V,RWP0357,True,C,Window Tint,31,N,W,M,False
+False,trumbull,trumbull,V,5079,True,O,Traffic Control Signal,32,N,W,M,True
+False,stamford,stamford,V,3C NIGHTS,True,C,Seatbelt,27,H,W,M,False
+False,new britain,new britain,V,RJC0458,False,C,Stop Sign,17,H,W,M,True
+True,clinton,clinton,V,462,False,O,Display of Plates,31,N,W,F,True
+True,vernon,vernon,V,601,True,O,Speed Related,28,N,W,M,True
+False,state police,lisbon              ,V,965050435,True,O,Other,18,N,W,M,False
+False,csp troop g,trumbull,V,1000003472,False,O,Moving Violation,23,H,W,M,False
+False,old saybrook,old saybrook,E,35,True,C,Defective Lights,22,H,W,M,True
+True,new haven,new haven,E,6533,True,C,Display of Plates,26,N,B,M,True
+False,state police,montville           ,V,1000002546,True,C,Seatbelt,44,N,B,M,True
+True,westport,westport,V,PSC20079,True,O,Speed Related,33,N,W,M,False
+True,new haven,new haven,E,6505,False,O,Defective Lights,19,H,B,M,True
+False,waterbury,waterbury,I,1558,True,I,Administrative Offense,17,H,W,M,False
+False,wallingford,wallingford,V,P225,True,O,Traffic Control Signal,18,N,W,M,True
+True,westport,westport,I,PSC20008,True,O,Other,32,H,W,F,False
+False,new britain,new britain,I,SJO0418,False,O,Other,14,H,W,M,True
+False,simsbury,simsbury,V,1060,False,O,Speed Related,21,N,W,M,False
+False,glastonbury,glastonbury,V,NPC0399,True,I,Administrative Offense,59,N,W,M,False
+False,east haven,east haven,V,100303,True,I,Registration,47,N,W,M,True
+True,east hartford,east hartford,V,TVC0254,False,C,Speed Related,20,N,B,M,True
+True,wilton,wilton              ,E,120000062,True,I,Defective Lights,27,N,W,F,True
+False,willimantic,willimantic,V,262,False,O,Other,32,N,W,M,False
+False,stratford,stratford,V,30252,True,O,Registration,25,N,B,M,False
+False,state police,somers              ,V,1000003160,False,N,Stop Sign,24,N,W,M,True
+True,torrington,torrington,V,068,True,N,Other,26,N,W,F,True
+False,state police,sterling            ,V,1000003162,True,C,Other/Error,34,N,W,M,True
+True,berlin,berlin,V,TJC2845,True,C,Administrative Offense,34,N,W,F,False
+True,meriden,meriden,V,256,False,C,Speed Related,19,H,W,M,True
+False,ansonia,ansonia,E,100000186,False,O,Display of Plates,18,N,B,M,True
+True,waterbury,waterbury,V,1000349,True,C,Stop Sign,26,N,W,M,True
+False,monroe,monroe,V,1000126,True,O,Speed Related,22,N,W,F,False
+True,norwalk,norwalk,E,100000288,False,O,Window Tint,30,N,B,M,True
+False,windsor,windsor,V,3788,False,I,Speed Related,31,N,B,M,False
+False,new haven,new haven,V,6583,False,C,Seatbelt,31,H,W,M,False
+True,middletown,middletown,V,163,False,C,Display of Plates,44,N,W,F,True
+False,trumbull,trumbull,V,5102,True,O,Cell Phone,31,N,W,M,True
+False,stonington,pawcatuck,V,25,False,O,Speed Related,19,N,W,M,False
+True,newington,new britain,E,42,False,O,Administrative Offense,41,N,W,M,False
+True,plymouth,terryville,V,21,True,O,Speed Related,20,N,W,M,False
+False,milford,milford,I,982,True,C,Other,39,N,B,F,True
+False,east hartford,east hartford,V,KJH0331,False,C,Window Tint,28,N,W,M,True
+False,csp troop h,hartford,V,1000003525,True,C,Moving Violation,17,N,W,M,True
+False,csp troop k,marlborough,V,1000002221,False,O,Other,22,H,W,M,False
+False,greenwich,greenwich,V,101468,True,N,Other,62,N,W,M,True
+False,vernon,vernon,V,625,False,C,Moving Violation,43,N,W,F,False
+False,vernon,vernon,E,570,True,C,Defective Lights,18,N,W,M,False
+False,norwalk,norwalk             ,E,100000243,False,O,Defective Lights,13,N,B,F,True
+True,plainville,plainville,V,BCB2685,True,C,Moving Violation,46,N,W,M,True
+True,csp troop g,bridgeport,V,1000002598,True,C,STC Violation,18,H,W,F,False
+True,yale,new haven,V,32526,False,I,Administrative Offense,23,N,B,F,True
+False,winsted,winsted,I,500,True,I,Other,13,N,W,F,True
+True,new london,new london,V,PSC56074,False,O,Other,30,N,B,M,True
+False,stamford,stamford,I,2B NIGHTS,True,C,Other,25,N,W,M,True
+False,yale,new haven,V,1746,False,I,Moving Violation,24,H,W,M,True
+True,csp troop h,wethersfield,I,1000001933,False,C,Other,23,N,W,F,True
+False,darien,darien,V,1021,True,I,Display of Plates,30,N,B,M,False
+False,yale,new haven,E,32534,True,I,Other,17,N,B,F,False
+False,new haven,new haven,V,6551,True,C,Traffic Control Signal,34,N,B,M,False
+False,wethersfield,wethersfield,V,551,True,O,Other,16,N,W,M,False
+True,bristol,bristol             ,V,10167,True,C,Seatbelt,17,N,W,M,True
+True,csp troop g,new haven,V,1000002347,False,C,Administrative Offense,20,N,B,M,False
+True,west hartford,west hartford,V,1000002164,True,O,Moving Violation,35,H,W,M,False
+True,enfield,enfield,V,MWORDEN,True,O,Speed Related,15,H,W,M,True
+True,north haven,north haven         ,V,100000149,False,C,Traffic Control Signal,25,N,W,F,True
+False,stamford,stamford,E,2B,False,O,Defective Lights,22,H,W,M,True
+True,willimantic,windham,V,319,True,N,Speed Related,51,N,B,M,True
+False,east hartford,east hartford,E,CAT0330,False,O,Window Tint,22,N,B,M,True
+True,stratford,stratford,E,30252,True,I,Window Tint,26,N,B,M,True
+False,state police,branford            ,V,593650992,False,N,Moving Violation,54,N,W,M,False
+True,westport,westport,V,PSC20025,True,C,Traffic Control Signal,33,N,W,M,True
+False,hartford,hartford,E,1001,False,O,Defective Lights,23,H,W,M,False
+False,manchester,manchester,E,DJR5294,True,O,Defective Lights,23,N,B,M,False
+True,vernon,vernon,V,617,True,C,Moving Violation,24,N,W,F,True
+True,east hartford,east hartford,V,CAT0330,False,O,Other,13,H,W,M,True
+False,csp troop l,burlington,V,1000003198,True,O,Registration,29,N,W,M,False
+False,milford,milford,E,517,True,I,Defective Lights,32,H,W,M,True
+True,csp troop l,woodbury,V,1000003696,True,C,Speed Related,25,N,W,M,True
+True,east hartford,east hartford,V,WCW0264,False,C,Speed Related,29,H,W,F,True
+True,stratford,stratford,V,30228,True,I,Moving Violation,24,N,W,M,True
+False,wilton,wilton,E,120000064,True,O,Defective Lights,25,N,B,M,True
+False,csp troop i,hamden,V,1000003165,False,C,STC Violation,44,H,W,F,False
+True,clinton,clinton,V,451,True,O,Cell Phone,13,N,W,F,True
+True,waterbury,waterbury,V,1076,False,I,Administrative Offense,64,N,B,M,False
+False,norwalk,norwalk             ,E,100000224,True,I,Defective Lights,37,N,B,M,False
+False,newington,newington,V,MHB2612,True,I,Administrative Offense,14,N,A,M,True
+False,west hartford,west hartford,V,1000002042,False,C,Moving Violation,29,N,W,M,False
+True,farmington,farmington          ,V,372,False,O,Moving Violation,42,N,W,M,False
+True,vernon,vernon,E,625,True,C,Equipment Violation,27,N,B,M,False
+False,danbury,danbury,V,10502,False,I,Cell Phone,42,N,W,F,False
+True,newington,newington,V,207,False,O,Registration,35,H,W,F,True
+False,waterbury,waterbury,V,2098,False,I,Administrative Offense,26,H,W,M,True
+False,state police,colchester          ,I,1000002851,False,O,Seatbelt,19,N,B,M,True
+True,wallingford,wallingford,V,P173    ,True,O,Other,42,N,W,M,False
+True,ridgefield,ridgefield,V,1000184,True,O,Defective Lights,18,N,W,M,False
+True,stamford,stamford,V,23342/23344,True,I,Traffic Control Signal,40,H,W,M,True
+False,norwalk,norwalk             ,E,100000187,False,C,Registration,37,M,W,M,False
+False,berlin,berlin,V,RLC2567,True,I,Speed Related,25,H,W,F,False
+False,middletown,middletown,V,232,False,C,Speed Related,24,N,W,F,False
+True,east windsor,east windsor,I,188,False,O,Suspended License,32,N,B,M,False
+False,new haven,new haven,V,6524,False,O,Defective Lights,20,N,B,M,True
+True,berlin,berlin,E,DAI2851,True,C,Defective Lights,21,N,B,M,False
+False,willimantic,willimantic,V,319,True,N,Stop Sign,19,M,W,F,True
+False,west hartford,west hartford,I,1000002101,True,O,Other,31,N,B,M,False
+False,csp troop d,canterbury,V,576972724,True,C,Other,36,N,W,M,False
+True,stratford,stratford,V,10165,True,O,Registration,48,N,W,F,False
+False,west hartford,west hartford       ,V,1000002108,True,O,Display of Plates,24,N,W,M,False
+False,berlin,berlin,V,CAG2461,False,O,Cell Phone,59,N,W,M,True
+True,manchester,manchester,V,JPJ5139,True,O,Speed Related,32,N,B,M,True
+False,derby,derby,V,73,True,I,Registration,29,H,W,M,False
+False,ansonia,ansonia,V,100000217,True,C,Defective Lights,26,N,W,M,False
+True,new haven,new haven,E,281,True,N,Display of Plates,15,N,B,M,False
+True,csp troop e,griswold,I,785469339,False,C,Moving Violation,47,N,W,M,True
+True,north haven,north haven         ,E,100000018,False,C,Seatbelt,31,N,W,M,False
+True,hamden,hamden,V,100000081,True,I,Display of Plates,17,H,W,M,False
+True,new haven,new haven,V,30491,True,O,Traffic Control Signal,33,N,B,M,True
+False,vernon,vernon,V,625,False,C,Moving Violation,26,N,W,M,False
+False,enfield,enfield,V,JPETERSON,True,I,Other/Error,21,N,W,M,False
+True,waterbury,waterbury,V,1004,True,I,Stop Sign,15,N,W,M,True
+False,newtown,sandy hook,E,1369,False,O,Registration,27,N,I,M,False
+True,new britain,new britain,V,RJC0458,True,C,Moving Violation,46,H,W,M,False
+True,norwich,norwich,V,1042,True,C,Window Tint,34,H,W,M,False
+False,csp troop g,new haven,V,1000003362,False,C,Administrative Offense,48,H,W,M,True
+True,torrington,torrington,V,083,True,O,Stop Sign,29,N,W,F,True
+False,norwalk,norwalk,V,100000279,True,O,Registration,45,N,B,M,False
+False,norwich,norwich,V,1067,True,I,Speed Related,21,N,B,M,False
+False,ledyard,ledyard,V,PSC27529,False,C,Other,24,N,W,M,False
+True,csp troop a,southbury,E,1000003764,True,O,Defective Lights,16,H,W,M,False
+False,west hartford,west hartford,E,1000002072,True,C,Window Tint,36,H,W,M,False
+True,norwalk,norwalk             ,V,100000219,True,C,Defective Lights,26,N,B,M,False
+True,wethersfield,wethersfield,V,250039,True,O,Defective Lights,37,N,W,F,True
+True,ledyard,ledyard,V,PSC27506,False,C,Other,38,H,W,M,True
+False,csp troop g,norwalk,V,19018,False,O,Seatbelt,24,N,W,M,False
+True,southington,southington,V,100000109,True,C,Speed Related,30,N,W,M,True
+False,east hartford,east hartford,V,195,True,O,Administrative Offense,23,N,B,M,True
+True,new haven,new haven,E,264,True,O,Defective Lights,35,N,B,M,False
+True,hamden,hamden,V,100000409,False,C,Other,26,H,W,M,True
+False,bridgeport,bridgeport,E,RUF0703,False,O,Display of Plates,38,N,B,M,False
+True,wallingford,wallingford,I,P221,False,O,Other,24,N,B,F,False
+True,groton town,groton,I,LAFLA,True,O,Other,33,N,B,M,True
+False,state police,enfield             ,I,1000003166,True,N,Other,32,N,W,M,False
+False,east hartford,east hartford,E,GEO0337,True,C,Window Tint,31,N,B,M,True
+True,wallingford,wallingford,V,P214    ,True,C,Defective Lights,33,N,W,M,False
+False,state police,east haddam         ,V,1000002719,False,C,Suspended License,28,N,W,M,True
+True,state police,vernon              ,E,1000003196,True,C,Defective Lights,24,N,W,M,False
+False,danbury,danbury,V,1000502,True,I,Display of Plates,34,N,W,M,False
+False,torrington,torrington,V,4,True,N,Stop Sign,28,N,W,M,True
+True,milford,milford,V,475,True,I,Administrative Offense,49,N,W,F,True
+False,norwalk,norwalk,V,100000277,True,O,Defective Lights,33,N,W,M,False
+False,danbury,danbury,V,10502,False,I,Registration,32,N,W,M,False
+True,wallingford,wallingford,V,214,True,C,Display of Plates,24,H,W,M,True
+False,old saybrook,old saybrook,V,29,True,O,Speed Related,24,N,W,F,False
+False,derby,derby,V,076,True,O,Administrative Offense,14,N,W,M,True
+True,csp troop a,waterbury,V,1000002747,True,O,Display of Plates,25,N,W,M,True
+True,new haven,new haven,E,442,True,O,Defective Lights,19,N,B,M,False
+False,south windsor,south windsor,V,WME0194,True,O,Speed Related,28,H,W,M,False
+True,naugatuck,naugatuck,E,PL39,True,O,Defective Lights,21,N,W,M,False
+True,wallingford,wallingford,V,PSC27059,True,C,Defective Lights,23,N,W,M,False
+True,danbury,danbury,V,1862,True,I,Suspended License,51,H,W,M,True
+False,new haven,new haven,V,155,False,O,Seatbelt,25,N,B,M,False
+False,torrington,highland ave,V,94,True,C,Speed Related,28,N,W,M,True
+False,east hartford,east hartford,I,CAC0338,True,C,Window Tint,23,N,W,M,False
+False,westport,westport,V,PSC20056,False,C,Display of Plates,24,N,B,M,False
+False,csp troop d,killingly,I,1000003495,False,O,Other,48,N,W,F,True
+True,state police,colchester          ,V,1000002549,True,O,Moving Violation,19,N,W,M,False
+False,state police,thompson            ,V,1000002949,False,C,Speed Related,17,N,W,M,False
+True,east hartford,east hartford,V,195,False,O,Unlicensed Operation,55,N,B,M,False
+False,stamford,stamford,V,2C DAYS,False,O,Seatbelt,48,H,W,M,True
+True,csp troop h,east hartford,V,1000003490,False,O,Other,25,N,B,M,True
+False,milford,milford ,E,2325,True,C,Display of Plates,30,N,B,M,False
+False,new britain,new britain,V,700,True,C,Stop Sign,47,H,W,M,True
+True,csp troop f,essex,V,1000002969,False,O,Seatbelt,36,N,W,M,True
+False,state police,preston             ,V,1000002750,False,C,Registration,14,N,W,M,False
+False,southington,southington,V,600108603,True,N,Speed Related,55,N,W,M,True
+False,west haven,west haven,E,1217,True,I,Defective Lights,47,N,W,M,False
+True,norwich,norwich,I,1015,True,O,Other,30,N,W,M,False
+False,groton city,groton city,V,PSC21837,False,O,Moving Violation,27,N,B,M,False
+False,east haven,east haven,V,100303,True,I,Speed Related,24,N,B,F,False
+False,glastonbury,glastonbury,V,DAK0357,False,O,Other,31,H,W,M,True
+False,csp troop k,windham,I,381140169,False,O,Other,25,N,W,F,True
+False,csp troop a,danbury,V,1000003024,True,C,Speed Related,31,N,W,M,True
+False,state police,stafford            ,V,1000002090,True,N,Registration,31,M,W,M,False
+False,new haven,new haven,V,6557,False,C,Speed Related,18,N,B,M,True
+True,new canaan,new canaan,V,271,True,C,Registration,26,H,W,M,False
+True,guilford,guilford,E,26,False,C,Defective Lights,10,N,W,M,True
+False,csp troop a,new fairfield,V,1000003023,False,C,Registration,27,N,W,M,False
+True,vernon,vernon,V,617,False,C,Moving Violation,36,N,B,M,True
+True,wethersfield,wethersfield,V,MVF0930,False,C,Registration,33,N,W,M,False
+False,hartford,hartford,V,684,True,O,Cell Phone,33,N,B,M,False
+True,norwich,norwich,V,1072,True,O,Moving Violation,23,H,W,M,True
+True,windsor,windsor,V,SXP0122,False,I,Moving Violation,19,H,W,M,False
+True,wilton,wilton,V,120000071,False,O,Speed Related,27,N,B,F,True
+False,norwich,norwich,V,1067,True,I,Defective Lights,20,H,W,F,False
+True,wilton,wilton,V,1008,True,O,Other,16,H,W,M,False
+False,new haven,new haven,V,6623,False,C,Other,29,H,W,F,False
+True,groton city,groton city,V,PSC21818,True,C,Cell Phone,27,N,W,F,True
+False,wallingford,wallingford,V,P223,False,O,Moving Violation,54,N,W,M,False
+False,csp troop c,somers,I,1000002961,True,C,Other,56,N,W,M,False
+False,ridgefield,ridgefield          ,V,1000104,True,N,Cell Phone,48,N,W,M,True
+False,csp troop g,stamford,V,1000003487,True,C,Defective Lights,44,N,B,M,False
+True,ansonia,ansonia,V,100000097,False,C,Defective Lights,15,N,B,M,True
+False,shelton,shelton,V,356,False,C,Stop Sign,10,N,W,M,False
+False,stratford,stratford,V,30252,True,I,Registration,27,N,W,M,True
+False,watertown,watertown,V,1167,True,I,Registration,31,N,W,M,True
+False,monroe,monroe              ,V,1000126,True,I,Registration,22,N,W,M,False
+False,west haven,west haven,V,1172,True,I,Moving Violation,25,N,W,F,False
+True,cheshire,cheshire,E,12,False,O,Other,25,N,W,M,True
+True,naugatuck,naugatuck,V,PL32,True,O,Other,29,H,W,M,True
+False,westport,westport,E,PSC20056,True,O,Equipment Violation,29,H,W,M,True
+False,east hartford,east hartford,V,219,True,O,Defective Lights,16,H,W,M,True
+True,west hartford,west hartford       ,V,1000002023,True,N,Defective Lights,51,N,W,M,True
+False,hamden,hamden,V,100000573,True,C,Seatbelt,31,N,W,F,True
+False,waterbury,waterbury,V,1545,True,I,Registration,53,N,W,M,True
+False,csp troop h,hartford,V,1000002369,True,O,Other,34,N,W,F,False
+False,cheshire,cheshire,V,21,True,O,Moving Violation,39,N,B,M,False
+False,watertown,watertown,I,1151,False,C,Other,24,N,W,F,True
+True,state police,marlborough         ,V,1000003030,True,C,Other/Error,28,N,B,M,False
+False,state police,danbury             ,V,1000002598,True,O,Seatbelt,27,M,W,M,False
+False,torrington,torrington,E,069,True,N,Equipment Violation,20,N,B,M,True
+True,west haven,west haven,E,1225,True,I,Defective Lights,30,N,B,M,True
+False,csp troop g,trumbull,V,1000002598,True,O,Moving Violation,22,N,W,M,False
+False,csp troop i,new haven,V,1000003501,True,O,Speed Related,28,N,B,M,False
+False,wallingford,wallingford,V,P207,False,O,Equipment Violation,27,N,W,M,False
+False,west hartford,west hartford       ,V,1000002052,True,N,Registration,25,N,W,M,False
+True,waterbury,waterbury,V,1005,True,O,Stop Sign,32,N,B,M,False
+True,waterbury,waterbury,V,1040,False,I,Traffic Control Signal,17,N,W,M,True
+False,derby,derby,V,081,True,O,Speed Related,16,N,B,M,False
+False,granby,lost acres,E,MBJ0223,False,O,Defective Lights,22,N,W,F,True
+True,new haven,new haven,V,6528,False,C,Other,33,N,B,M,True
+False,plainville,plainville,V,JJH2683,True,O,Registration,27,H,W,F,False
+False,waterford,waterford,V,PSC02568,True,C,Traffic Control Signal,46,H,W,M,False
+True,torrington,torrington,V,DACYR048,False,C,Registration,40,N,W,M,True
+True,stamford,stamford,V,21922/22326,True,I,Display of Plates,30,N,W,F,False
+False,csp troop l,litchfield,V,1000003529,False,C,Traffic Control Signal,41,N,W,M,True
+False,new britain,new britain,V,666,False,O,Registration,26,H,W,M,True
+True,new milford,new milford,V,444,True,O,Registration,15,N,W,M,True
+False,wolcott,wolcott,E,222,True,I,Display of Plates,29,M,W,M,False
+False,groton city,groton city,V,PSC21818,False,C,Cell Phone,21,N,W,M,True
+False,manchester,manchester,V,ANB5304,True,O,Display of Plates,22,N,B,M,True
+False,csp troop d,killingly,I,576972724,True,O,Other,46,N,W,M,True
+True,new britain,new britain,I,AVR0297,False,C,Other,20,N,W,M,True
+True,wilton,wilton              ,V,1016,True,N,Registration,23,N,W,F,False
+False,north haven,north haven         ,V,100000160,False,I,Registration,28,N,B,M,False
+False,danbury,danbury             ,V,10560,True,I,Traffic Control Signal,59,N,W,M,False
+True,putnam,putnam,V,489,True,O,Seatbelt,33,N,W,M,True
+False,enfield,enfield,V,MTARDUCCI,False,I,Suspended License,44,H,W,F,False
+False,meriden,meriden,V,469,True,C,Stop Sign,22,H,W,M,True
+True,wethersfield,ngtn,V,250039,False,O,Registration,24,H,W,M,True
+True,manchester,manchester,E,SDB5301,True,O,Defective Lights,23,N,W,M,False
+False,clinton,clinton,E,3199,True,C,Defective Lights,16,N,W,M,True
+True,manchester,manchester,E,RG5076,False,C,Equipment Violation,19,N,W,M,True
+True,west hartford,west hartford,V,1000002165,False,O,Moving Violation,29,H,W,M,False
+False,csp troop c,ellington,V,557714559,True,O,Speed Related,10,N,W,M,False
+True,west hartford,west hartford,E,1000002072,False,O,Window Tint,26,N,B,M,False
+True,cheshire,cheshire,E,3120,False,C,Defective Lights,34,H,W,M,True
+False,state police,danbury             ,V,790642042,False,C,Speed Related,55,N,W,M,False
+False,trumbull,trumbull,E,5106,True,O,Display of Plates,23,N,B,M,False
+False,csp troop a,naugatuck,V,1000003509,True,O,Speed Related,30,N,B,F,False
+False,windsor locks,windsor locks,V,216,True,I,Speed Related,37,N,W,M,True
+True,waterford,waterford,V,PSC02503,True,O,Other,14,N,W,M,False
+True,west hartford,west hartford,V,1000002237,True,C,Moving Violation,38,N,W,M,True
+False,glastonbury,glastonbury,V,EAR0326,True,I,Other,13,H,W,M,False
+False,new haven,new haven,V,89,False,C,Registration,36,N,B,M,True
+True,greenwich,greenwich,V,7182,False,C,Speed Related,20,N,W,M,False
+True,csp troop i,beacon falls,V,1000003178,True,C,Moving Violation,28,N,B,M,False
+False,berlin,berlin,V,ADK2494,True,O,Traffic Control Signal,23,N,B,M,False
+False,east haven,east haven,V,100221,True,I,Moving Violation,62,N,W,M,True
+True,west hartford,west hartford       ,V,1000002052,True,C,Cell Phone,38,N,W,F,True
+False,berlin,berlin,E,MLL2842,True,O,Defective Lights,22,N,B,M,True
+False,manchester,manchester,V,JP5243,True,C,Stop Sign,20,N,W,M,True
+False,csp troop k,bolton,V,1000002599,False,I,Speed Related,39,N,W,M,False
+False,ledyard,ledyard,V,PSC27506,True,C,Registration,29,N,W,F,False
+True,stratford,stratford,V,30251,True,I,Registration,31,H,W,M,False
+False,new haven,new haven,I,258,True,I,Other/Error,33,N,B,M,False
+False,derby,derby,V,77,False,I,Administrative Offense,26,H,W,F,True
+False,wallingford,wallingford,V,230,False,O,Defective Lights,23,N,B,M,False
+False,wallingford,wallingford,V,P213,False,O,Administrative Offense,39,H,W,M,True
+True,west hartford,west hartford,V,1000002128,True,O,Defective Lights,15,N,W,M,False
+True,seymour,seymour,V,332,True,O,Traffic Control Signal,31,N,W,M,False
+False,waterbury,waterbury,I,1558,True,I,Administrative Offense,30,N,W,M,True
+False,stamford,stamford,E,22978,True,O,Defective Lights,23,N,W,M,False
+False,clinton,clinton,V,3070,False,O,Speed Related,32,N,W,F,True
+False,danbury,danbury,V,10504,True,I,Unlicensed Operation,28,H,W,M,False
+False,manchester,manchester,V,DRM5035,False,O,Stop Sign,28,N,B,F,False
+True,southington,southington,I,100000081,True,C,Other,14,N,W,M,True
+True,waterbury,waterbury,V,2210,False,I,Moving Violation,33,N,W,M,False
+False,state police,montville           ,V,1000002708,True,O,Speed Related,40,N,B,M,False
+True,enfield,enfield,V,124,True,I,Cell Phone,31,N,B,F,False
+False,waterford,waterford,V,PSC02503,True,C,Suspended License,46,N,A,F,False
+True,new britain,new britain,E,SJO0418,False,O,Other,19,H,W,M,False
+False,rocky hill,rocky hill,V,1000247,True,O,Speed Related,23,N,W,M,False
+False,wallingford,wallingford,V,P197    ,True,O,Administrative Offense,48,H,W,M,True
+False,csp troop h,hartford,V,1000001890,False,C,Administrative Offense,21,H,W,M,True
+True,norwich,norwich,V,1037,True,C,Speed Related,38,N,B,M,True
+True,branford,branford            ,V,381,True,N,Speed Related,52,N,W,F,False
+True,newtown,newtown,V,339,False,C,Speed Related,10,N,W,M,False
+True,danbury,danbury,V,10573,False,I,Cell Phone,65,N,W,M,True
+False,monroe,monroe,E,1000102,True,O,Defective Lights,17,N,W,M,True
+False,waterford,waterford,V,PSC02545,True,O,Other,32,N,W,M,True
+False,waterbury,waterbury,V,1041,True,C,Traffic Control Signal,49,N,W,M,True
+True,stratford,stratford,V,10192,True,C,Seatbelt,37,N,W,M,True
+True,west hartford,west hartford       ,V,1000002072,True,C,Display of Plates,21,N,W,M,False
+True,monroe,monroe,E,1000070,True,O,Defective Lights,24,N,W,M,False
+True,danbury,danbury,V,10502,True,I,Registration,72,N,W,F,True
+True,enfield,enfield,V,32,False,O,Registration,24,N,W,F,True
+True,new haven,new haven,V,30490,False,C,Stop Sign,22,N,B,M,True
+False,state police,prospect            ,V,1000002980,False,C,Equipment Violation,45,H,W,M,True
+False,windsor,windsor,V,224,False,I,Registration,37,N,B,M,False
+True,danbury,danbury,V,1000502,True,I,Registration,35,N,W,M,False
+False,berlin,berlin,V,TFB2841,True,I,Administrative Offense,36,H,W,M,False
+False,wallingford,wallingford,E,199,True,C,Equipment Violation,32,N,W,M,False
+True,stratford,stratford,E,30252,True,C,Display of Plates,37,N,W,F,True
+True,ledyard,ledyard,V,PSC27509,True,C,Speed Related,26,N,W,M,True
+False,hamden,hamden,V,100000626,False,C,Stop Sign,19,N,B,M,True
+False,branford,branford,V,307,True,N,Administrative Offense,45,N,W,M,False
+False,branford,branford,V,381,False,N,Defective Lights,39,N,W,F,False
+True,middletown,middletown,V,3136,True,C,Stop Sign,14,N,W,F,True
+True,naugatuck,naugatuck,E,PL33,False,I,Defective Lights,50,N,W,M,False
+False,darien,darien,V,PSC21309,True,C,Speed Related,55,N,W,F,False
+False,south windsor,south windsor,E,10039,True,O,Display of Plates,14,H,W,M,True
+False,uconn,storrs,E,520,True,I,Display of Plates,21,N,A,M,False
+False,state police,colchester          ,V,974601606,False,N,Moving Violation,28,M,W,F,False
+False,newington,newington,V,49,True,C,Speed Related,31,N,B,M,False
+False,naugatuck,naugatuck,V,S6,True,C,Registration,26,N,B,M,False
+False,derby,derby,V,63,False,I,Moving Violation,36,N,B,M,True
+True,state police,montville           ,V,136981404,False,C,Suspended License,51,N,W,M,False
+False,east haven,east haven,E,100215,True,I,Defective Lights,27,N,W,F,False
+False,state police,norwalk             ,V,1000002709,True,C,Other/Error,26,N,B,M,False
+False,state police,danbury             ,V,512066154,False,I,Other/Error,21,H,W,M,True
+False,new haven,new haven,V,262,True,N,Speed Related,31,N,B,M,False
+True,enfield,enfield,V,65,True,O,Stop Sign,31,H,B,M,True
+False,wilton,wilton,V,1016,True,I,Defective Lights,15,N,B,F,False
+False,enfield,enfield,I,11,True,O,Other,18,N,W,F,False
+True,vernon,vernon,V,602,True,C,Traffic Control Signal,37,N,W,M,True
+True,monroe,monroe,V,1000115,True,I,Speed Related,50,N,W,M,False
+False,farmington,farmington,V,346,True,O,Registration,26,N,W,M,False
+False,manchester,manchester,V,RG5076,True,O,Seatbelt,20,N,B,M,False
+False,weston,weston,V,29,True,C,Defective Lights,34,N,W,F,True
+True,state police,tolland             ,V,951755976,False,O,Other,18,N,W,F,True
+False,windsor locks,windsor locks,V,206,True,I,Registration,44,N,W,M,True
+True,danbury,danbury,V,10561,True,I,STC Violation,22,H,W,M,False
+False,west hartford,west hartford,I,1000002241,True,N,Display of Plates,36,N,W,F,False
+True,enfield,enfield,E,220,True,C,Defective Lights,27,N,W,M,True
+False,bridgeport,bridgeport,V,536,False,I,Administrative Offense,44,H,W,M,True
+False,new haven,new haven,V,40,True,C,Registration,40,H,W,F,True
+False,coventry,coventry,V,36,False,O,Speed Related,23,N,W,M,False
+False,westport,westport,V,PSC20025,True,O,Cell Phone,26,N,B,F,True
+True,wilton,wilton              ,V,1016,False,N,Moving Violation,20,N,W,F,False
+False,torrington,torrington,I,004,False,O,Administrative Offense,41,N,W,M,False
+True,clinton,clinton,V,458,False,C,Registration,23,N,W,F,True
+False,wilton,wilton,V,120000071,True,I,Speed Related,33,H,W,M,False
+False,plainville,plainville,V,KRJ2597,True,O,Stop Sign,21,N,W,M,True
+True,torrington,torrington,E,7,True,C,Moving Violation,56,N,W,M,True
+False,state police,new haven           ,E,961269420,True,O,Registration,27,H,W,M,False
+True,west haven,west haven,E,1231,True,I,Registration,28,H,W,M,False
+False,waterbury,waterbury,V,1034,True,O,Moving Violation,55,N,W,M,False
+True,csp troop a,new fairfield,V,1000003032,True,O,Display of Plates,19,N,A,M,False
+True,waterbury,waterbury,V,850,False,I,Moving Violation,23,N,B,M,True
+True,newington,newington,V,5,True,O,Display of Plates,23,N,B,M,False
+False,bloomfield,bloomfield,V,2138,True,O,Unlicensed Operation,12,H,B,M,True
+True,bloomfield,bloomfield,V,2103,True,O,Traffic Control Signal,28,N,B,M,True
+False,csp troop c,willington,V,1000003196,False,C,Speed Related,28,N,B,M,True
+True,stratford,stratford           ,V,10186,True,I,Display of Plates,38,H,W,F,False
+False,csp troop a,waterbury,V,1000002747,True,O,Defective Lights,29,H,W,M,True
+False,hartford,hartford,V,840,False,O,Other/Error,18,H,W,M,True
+False,new haven,new haven,E,6534,False,C,Other,26,N,B,M,False
+False,bristol,bristol             ,V,120000063,False,N,Defective Lights,27,H,W,M,False
+False,bloomfield,bloomfield,V,2094,True,I,Speed Related,34,H,W,M,True
+True,glastonbury,glastonbury,V,DMG0380,False,C,Suspended License,31,N,W,M,True
+True,csp troop g,east haven,V,1000002347,False,O,Moving Violation,31,N,W,M,False
+False,newtown,newtown,V,1040,False,O,Moving Violation,22,N,W,M,True
+True,milford,milford,V,2116,True,I,Moving Violation,57,N,W,M,True
+False,state police,north haven         ,I,1000003179,False,O,Other,19,N,B,M,False
+True,state police,montville           ,V,1000002696,True,O,Moving Violation,21,H,W,M,False
+True,torrington,torrington,V,MBLAS067,True,O,Traffic Control Signal,16,N,W,F,False
+True,new haven,new haven,V,98,True,C,Traffic Control Signal,34,N,B,M,True
+True,willimantic,windham,I,318,True,N,Other,31,M,B,M,True
+False,clinton,clinton,V,183,True,I,Moving Violation,22,N,W,M,False
+False,ridgefield,ridgefield,E,1000204,False,N,Defective Lights,38,N,W,M,False
+False,wolcott,wolcott,V,194,True,I,Speed Related,30,N,W,M,True
+True,middletown,middletown,V,3234,True,O,Speed Related,23,N,I,M,False
+True,csp troop d,plainfield,V,614680420,False,O,Administrative Offense,46,H,W,M,False
+False,newington,newington,V,RFP2617,True,I,Suspended License,25,N,B,M,True
+True,east haven,east haven,V,100332,False,C,Registration,39,N,W,M,False
+True,plainville,plainville,V,MSK2655,False,C,Cell Phone,29,N,W,M,True
+False,hamden,hamden,I,100000626,True,O,Stop Sign,14,N,B,M,False
+False,wallingford,wallingford,E,P194,False,C,Display of Plates,31,H,W,M,True
+False,new haven,new haven,V,6568,True,O,Window Tint,26,N,B,M,True
+False,waterbury,waterbury,I,1558,True,I,Administrative Offense,30,N,W,M,True
+False,newtown,newtown,V,327,False,I,Moving Violation,26,N,W,M,False
+False,glastonbury,glastonbury,V,BJB0397,False,C,Moving Violation,36,N,W,F,False
+True,milford,milford,E,518,True,C,Other,22,H,W,M,True
+True,west haven,west haven,V,1000468,False,I,Administrative Offense,28,H,W,F,False
+False,east hartford,east hartford,V,227,False,O,Registration,33,N,B,M,False
+False,norwich,norwich,V,1054,False,C,Speed Related,19,N,B,M,True
+False,middletown,middletown,V,163,True,C,Moving Violation,27,H,W,M,True
+False,new britain,new britain,E,JJT0396,True,O,Defective Lights,31,N,B,M,True
+False,csp troop d,killingly,V,1000003482,True,C,Other,20,N,W,M,True
+True,csp troop f,old saybrook,V,1000003181,False,C,Speed Related,33,H,W,M,True
+False,waterbury,waterbury,V,2237,True,O,Window Tint,28,N,B,M,True
+True,west hartford,west hartford,V,1000002256,True,O,Administrative Offense,30,N,W,M,False
+True,groton city,groton,V,PSC21807,True,O,Registration,26,N,W,M,False
+True,windsor,windsor,V,5342,True,I,Traffic Control Signal,28,N,B,F,True
+False,csp troop a,newtown,V,324857301,False,O,Other,20,N,A,M,True
+False,state police,hampton             ,V,1000002961,False,O,Moving Violation,57,N,W,F,True
+False,enfield,enfield,V,14,True,C,Defective Lights,21,N,W,M,False
+False,old saybrook,old saybrook,V,29,True,O,Other,24,N,W,F,True
+False,glastonbury,glastonbury,V,BSR0403,True,I,Administrative Offense,27,H,W,M,True
+False,windsor,windsor,V,6196,False,I,Speed Related,15,N,W,M,False
+False,waterbury,waterbury,E,1083,True,I,Administrative Offense,32,N,B,F,True
+False,milford,milford,V,477,False,C,Other,48,N,W,M,False
+True,east hartford,east hartford,V,DWC0319,True,C,Administrative Offense,32,N,B,M,False
+False,stamford,stamford,V,2B2,True,O,Stop Sign,37,N,W,M,False
+False,wallingford,wallingford,E,49,True,O,Window Tint,31,H,W,M,False
+False,csp troop c,stafford,V,1000002961,False,C,Other,22,N,W,M,True
+False,stamford,stamford,V,TE1,True,I,Other,29,H,W,M,True
+True,willimantic,willimantic,V,319,True,N,Other/Error,27,N,B,M,True
+False,plainville,plainville,V,SAH2837,True,O,Window Tint,15,N,W,F,True
+True,wallingford,wallingford,V,P138    ,False,C,Suspended License,41,N,W,F,False
+True,csp troop g,milford,V,1000003364,True,O,Registration,32,N,B,M,True
+False,waterbury,waterbury,V,1638,True,I,Cell Phone,22,N,B,M,False
+False,uconn,storrs,V,412,True,I,Stop Sign,20,N,W,F,True
+False,norwich,norwich,E,1036,True,C,Defective Lights,54,N,W,M,True
+True,csp troop d,brooklyn,E,1000002949,True,C,Window Tint,25,N,W,M,False
+False,east hartford,east hartford,V,KKC0268,False,O,Display of Plates,39,H,W,M,True
+True,csp troop e,norwich,V,1000003187,True,C,Speed Related,39,N,B,M,False
+False,state police,clinton             ,V,1000002942,True,O,Registration,17,N,W,M,False
+False,wethersfield,wethersfield,V,573,False,O,Defective Lights,16,H,W,M,False
+True,naugatuck,naugatuck,V,PL21,False,O,Speed Related,40,N,W,M,True
+False,east hartford,east hartford,V,195,False,O,Unlicensed Operation,24,N,W,M,True
+True,wallingford,wallingford,V,P049    ,True,C,Seatbelt,44,N,W,M,False
+False,new canaan,new canaan,E,286,False,O,Defective Lights,20,H,W,M,False
+True,brookfield,brookfield,E,16749,True,O,Defective Lights,15,H,W,M,False
+False,west haven,west haven,E,1000331,True,I,Display of Plates,33,N,W,F,True
+False,state police,killingly,V,1000002266,True,O,Moving Violation,73,N,W,M,True
+False,plymouth,terryville,V,23,True,C,Moving Violation,17,N,W,M,False
+True,southington,southington,E,100000253,True,O,Defective Lights,30,N,W,M,True
+True,csp troop a,southbury,V,1000003228,True,C,Other,29,N,B,F,True
+False,new haven,new haven,V,616,True,C,Window Tint,35,H,W,M,False
+False,csp troop b,torrington,V,1000002569,False,O,Moving Violation,28,N,W,M,True
+True,westport,westport,I,PSC20044,False,O,Other,24,N,B,M,False
+True,south windsor,south windsor,V,KRL0182,True,O,Traffic Control Signal,32,N,W,M,True
+False,new haven,new haven,V,6536,False,O,Traffic Control Signal,19,N,B,M,False
+True,middletown,middletown,V,198,True,O,Display of Plates,22,N,B,M,True
+True,csp troop h,vernon,V,1000002608,True,C,Other,58,N,W,F,False
+False,branford,branford            ,V,306,True,O,Traffic Control Signal,15,N,W,M,False
+True,new haven,new haven,E,6529,True,C,Display of Plates,57,N,B,M,True
+False,derby,derby,V,77,False,I,Administrative Offense,16,N,B,M,True
+True,clinton,clinton,V,462,True,I,Speed Related,31,N,W,F,True
+False,bridgeport,bridgeport,V,536,True,I,Registration,26,N,W,M,False
+True,monroe,monroe,E,1000141,True,O,Defective Lights,23,N,B,M,False
+False,derby,derby,V,76,True,I,Administrative Offense,31,N,W,M,False
+False,state police,east hartford       ,V,1000002602,False,O,Other,26,N,W,M,True
+False,fairfield,fairfield,V,100000806,True,C,Administrative Offense,19,N,B,M,False
+False,bristol,bristol             ,I,120000035,True,N,Other,30,M,B,M,False
+False,windsor,windsor,V,BXT0195,True,I,Speed Related,22,N,W,M,True
+True,seymour,seymour,V,348,True,I,Suspended License,32,H,W,M,True
+False,stratford,stratford,V,30332,True,I,Administrative Offense,23,H,W,F,False
+True,west hartford,west hartford,I,1000002237,True,O,Other,21,N,B,F,False
+False,hartford,hartford,V,SABI29,True,I,Administrative Offense,29,N,B,M,False
+False,bridgeport,bridgeport,E,MUL0164,True,C,Defective Lights,26,N,B,M,False
+True,wallingford,wallingford,V,PSC27059,True,C,Administrative Offense,40,N,B,M,False
+False,rocky hill,rocky hill,V,PFV0197,False,C,Traffic Control Signal,56,N,W,M,False
+False,wallingford,wallingford,E,P234,True,C,Display of Plates,32,H,W,F,True
+False,willimantic,willimantic,V,148,False,N,Other,20,M,W,M,True
+False,hartford,hartford,V,882,True,C,Stop Sign,30,N,B,M,True
+False,new haven,new haven,V,393,True,C,Other,41,H,W,F,True
+False,west haven,west haven,E,224,True,I,Display of Plates,36,N,W,M,True
+False,wilton,wilton              ,V,1031,False,I,Traffic Control Signal,29,N,W,F,False
+False,state police,windsor locks       ,V,1000002570,True,C,Cell Phone,34,N,W,M,True
+False,csp troop d,thompson,V,1000003690,True,C,Display of Plates,24,N,W,F,True
+False,greenwich,byram,V,5551,True,O,Display of Plates,46,N,B,M,False
+False,clinton,clinton,V,462,False,C,Speed Related,23,N,W,M,False
+False,east windsor,east windsor,V,DDL0188,True,C,Other,37,N,B,M,True
+True,greenwich,greenwich,V,120000140,True,I,Speed Related,36,N,W,M,False
+False,greenwich,greenwich,V,120000089,False,O,Defective Lights,15,H,W,M,True
+True,danbury,danbury,V,10502,True,I,Cell Phone,33,N,W,F,False
+True,plainville,plainville,E,JJH2683,True,O,Defective Lights,30,N,W,M,True
+False,state police,waterbury           ,V,1000003235,False,O,Suspended License,18,N,B,M,True
+False,west hartford,west hartford       ,V,100314,True,O,Registration,25,N,W,F,True
+True,csp troop e,montville,V,1000002239,False,I,STC Violation,35,N,B,M,False
+True,waterbury,waterbury,V,2273,True,I,Other,17,H,W,F,True
+False,west haven,west haven,E,1000331,True,C,Display of Plates,24,H,W,F,False
+False,csp troop h,wethersfield,V,1000002271,True,C,Speed Related,28,N,B,M,False
+True,csp troop i,naugatuck,V,1000002761,True,C,Stop Sign,27,N,W,F,False
+False,waterbury,waterbury,E,2087,True,O,Display of Plates,34,N,B,M,True
+True,waterbury,waterbury,V,1076,True,I,Traffic Control Signal,25,H,W,M,True
+False,cromwell,cromwell,V,10111,True,C,Speed Related,31,N,B,M,True
+False,csp troop l,woodbury,V,1000002298,False,O,Other,19,N,W,M,True
+False,east haven,east haven          ,V,100222,True,C,Other/Error,29,N,W,M,False
+False,state police,greenwich           ,E,781042031,True,C,Window Tint,41,H,W,M,False
+False,csp troop a,newtown,V,1000002724,True,O,Other,23,N,W,F,True
+True,west hartford,west hartford       ,V,1000002072,True,C,Moving Violation,28,N,W,M,True
+False,ledyard,ledyard,V,PSC27529,True,C,Other,23,N,W,M,False
+True,new britain,new britain,V,KRJ0491,True,O,Display of Plates,22,H,W,M,False
+True,waterbury,waterbury,E,1083,True,I,Display of Plates,61,N,B,M,True
+False,waterbury,waterbury,V,1420,True,I,Display of Plates,37,H,W,M,True
+False,enfield,enfield,I,60,True,C,Other,18,N,W,M,True
+True,new haven,new haven,V,6511,True,C,Other,21,H,W,M,True
+False,north haven,north haven         ,V,100000141,False,N,Other,25,H,W,M,True
+False,uconn,mansfield,V,517,True,I,Moving Violation,46,N,B,M,True
+True,csp troop h,hartford,V,1000001890,False,C,Administrative Offense,22,H,W,M,False
+True,willimantic,willimantic,I,367,True,C,Administrative Offense,22,H,W,M,True
+True,vernon,vernon,V,611,False,C,Traffic Control Signal,28,N,B,M,True
+False,new haven,new haven,E,6519,True,C,Other,11,H,B,M,True
+True,fairfield,fairfield           ,V,100000707,False,O,Equipment Violation,22,N,W,M,False
+False,simsbury,simsbury            ,V,1053,False,O,Defective Lights,23,N,W,M,False
+True,norwalk,norwalk             ,V,100000187,True,C,Other/Error,63,N,W,M,True
+False,vernon,vernon,E,625,False,C,Display of Plates,12,N,B,M,False
+True,windsor locks,windsor locks,V,212,True,I,Moving Violation,16,N,W,M,True
+False,state police,montville           ,V,1000002586,False,C,Speed Related,24,N,B,M,False
+True,norwich,norwich,V,1050,False,C,Defective Lights,35,N,B,M,False
+False,wallingford,wallingford,E,P224,False,O,Defective Lights,22,N,B,M,False
+False,wallingford,wallingford,V,217,True,C,Moving Violation,18,H,W,M,False
+False,state police,torrington          ,V,1000002945,True,C,Suspended License,27,H,B,M,True
+False,farmington,farmington,V,305,False,N,Moving Violation,26,N,B,M,True
+True,stamford,stamford,E,23342/23344,False,I,Display of Plates,23,H,W,F,True
+True,derby, derby,V,66,False,I,Display of Plates,30,N,W,M,False
+True,new london,new london,V,PSC56052,False,O,Moving Violation,29,N,W,M,False
+True,hartford,hartford,I,823,False,C,Moving Violation,63,N,W,M,False
+True,new britain,new britain,E,JJM0489,False,O,Defective Lights,23,H,W,M,True
+True,cheshire,cheshire,V,37,False,O,Moving Violation,27,N,W,F,True
+False,bloomfield,bloomfield          ,V,2106,True,O,Other,47,N,B,M,False
+True,north haven,north haven,I,100000230,True,O,Registration,35,N,W,F,False
+True,trumbull,trumbull,V,3005,True,C,Traffic Control Signal,12,N,W,M,True
+False,norwalk,norwalk,E,100000230,False,C,Defective Lights,49,N,W,M,True
+False,meriden,meriden,V,252,True,O,Other,48,N,W,M,False
+False,wethersfield,wethersfield,V,543,True,C,Registration,20,N,W,F,True
+False,csp troop e,montville,V,903836693,False,C,STC Violation,47,N,W,M,True
+False,farmington,farmington,I,359,False,I,Other,39,H,W,M,False
+True,manchester,manchester,E,DJR5294,False,O,Defective Lights,35,N,W,M,True
+False,new haven,new haven,I,354,False,C,Other/Error,34,H,W,F,False
+False,ridgefield,ridgefield,V,1000096,True,N,Speed Related,42,N,B,M,False
+True,norwich,norwich,I,1041,True,I,Other,41,N,W,M,False
+True,farmington,farmington,V,405,True,C,Stop Sign,26,N,B,M,True
+False,state police,vernon              ,V,1000002746,True,O,Other,49,N,B,M,False
+False,newington,newington,E,GML2597,True,O,Window Tint,26,N,W,M,True
+True,state police,clinton             ,V,26013717,False,O,Speed Related,28,N,B,M,False
+True,wallingford,wallingford,E,P218,False,C,Registration,29,H,W,M,False
+True,new milford,new milford,V,454,False,O,Speed Related,13,N,W,F,True
+False,norwich,norwich,V,1050,True,O,Defective Lights,28,H,W,M,False
+False,middletown,middletown,V,3064,True,O,Defective Lights,31,N,W,F,True
+False,newington,newington,E,MAK2580,True,I,Display of Plates,18,H,W,M,False
+True,csp troop k,marlborough,I,1000002732,True,O,Other,30,N,W,M,False
+True,norwich,norwich,V,1058,False,O,Traffic Control Signal,18,N,B,M,True
+False,waterbury,waterbury,V,1058,False,I,Speed Related,37,N,B,M,False
+False,east hartford,east hartford,V,CAC0338,True,C,Display of Plates,21,N,B,M,True
+False,derby,derby,V,077,True,O,Administrative Offense,25,N,B,M,False
+False,norwich,norwich,E,1054,True,O,Defective Lights,21,N,B,M,False
+True,bridgeport,bridgeport,V,KEL0104,True,C,Speed Related,40,H,W,M,True
+False,norwich,norwich,E,1053,True,I,Other,31,H,W,F,True
+True,torrington,torrington,V,68,False,O,Other,59,N,W,M,False
+False,new britain,new britain,V,707,True,O,Cell Phone,35,N,B,M,False
+False,vernon,vernon,V,623,False,C,Traffic Control Signal,55,N,B,M,True
+False,west haven,west haven,V,1000332,True,I,Display of Plates,51,N,W,M,True
+False,wallingford,wallingford,V,P049    ,True,O,Registration,43,H,W,M,True
+False,waterford,waterford,E,73,True,O,Defective Lights,44,N,B,M,False
+False,west hartford,west hartford       ,V,1000002101,False,C,Moving Violation,31,N,W,M,False
+False,darien,darien,V,PSC21343,True,C,Speed Related,12,N,B,M,True
+False,ridgefield,ridgefield,V,1000093,True,N,Speed Related,40,H,W,F,False
+False,meriden,meriden,V,445,False,O,Moving Violation,13,H,W,M,False
+False,brookfield,brookfield,E,15278,True,O,Defective Lights,21,N,W,F,False
+False,csp troop f,haddam,V,1000001949,True,C,Speed Related,28,N,W,M,True
+False,newington,newington,E,GML2597,True,O,Window Tint,29,N,B,M,False
+False,new britain,new britain,V,AJD0464,True,C,Display of Plates,23,H,W,M,True
+False,state police,montville           ,V,1000003029,False,O,Moving Violation,20,N,B,M,True
+False,torrington,torrington,E,26,True,I,Defective Lights,37,N,B,M,False
+False,norwich,norwich,I,1040,True,O,Other,17,N,B,M,True
+False,uconn,storrs,I,362,True,C,Other,24,N,B,F,False
+True,enfield,enfield,V,RBARTOLUCCI,True,C,Equipment Violation,13,N,W,M,True
+False,wallingford,wallingford,V,219,False,O,Stop Sign,36,N,W,F,True
+False,state police,brooklyn            ,V,1000002753,False,I,Other,32,N,W,M,True
+True,norwalk,norwalk             ,E,100000288,True,I,Registration,23,N,B,F,True
+False,danbury,danbury,V,1878,True,I,Registration,30,N,W,M,True
+False,waterbury,waterbury,V,1428,True,O,Other,39,N,W,F,False
+True,state police,darien              ,V,1000002944,True,C,Other,21,H,W,M,False
+True,glastonbury,glastonbury,V,JSB0411,False,C,Traffic Control Signal,25,N,W,F,False
+False,milford,milford,V,464,True,C,Display of Plates,37,N,B,M,True
+False,state police,stafford            ,V,1000001902,True,C,Moving Violation,23,N,W,M,False
+False,bristol,bristol,V,10168,False,N,Speed Related,36,N,B,F,False
+True,state police,southbury           ,I,95565661,True,C,Other,23,N,W,F,False
+True,csp troop d,plainfield,V,1000003495,False,C,Registration,26,N,B,M,False
+False,csp troop g,westport,V,1000002733,False,O,Cell Phone,28,H,W,M,True
+True,meriden,meriden,E,275,True,C,Defective Lights,31,H,W,F,True
+False,enfield,enfield,V,10,True,O,Administrative Offense,19,N,W,M,False
+False,enfield,enfield,V,14,False,C,Defective Lights,22,N,W,M,True
+True,west hartford,west hartford,V,1000002256,False,O,Administrative Offense,23,N,W,M,False
+False,new haven,new haven,V,6507,True,C,Administrative Offense,34,N,B,M,True
+False,norwich,norwich,I,1048,True,C,Other,19,N,W,F,False
+False,bristol,bristol,V,120000050,False,N,Speed Related,52,N,A,M,False
+True,waterbury,waterbury,V,2223,True,I,Other,27,N,B,M,False
+True,norwich,norwich,V,1063,True,O,Registration,22,N,B,M,True
+True,east hartford,east hartford,V,224,False,N,Registration,46,H,W,M,True
+False,wallingford,wallingford,V,P227,True,N,Administrative Offense,34,N,W,M,True
+False,windsor,windsor,E,215,False,I,Defective Lights,29,N,B,M,True
+True,csp troop e,lisbon,E,1000003527,False,O,Window Tint,39,N,B,M,False
+True,bridgeport,bridgeport,V,1092,False,C,Moving Violation,24,H,W,M,False
+True,fairfield,fairfield,E,100000822,True,O,Defective Lights,24,H,W,M,False
+False,fairfield,fairfield,V,100000178,True,O,Other,27,N,B,M,False
+False,berlin,berlin,I,JTM2849,True,I,Other,44,H,W,M,False
+True,newington,newington,V,SJA2613,True,I,Suspended License,16,N,A,M,True
+True,milford,milford,V,2325,True,C,Registration,29,N,B,M,False
+True,new britain,new britain,V,RO00406,True,O,Display of Plates,11,H,W,F,True
+False,csp troop g,bridgeport,V,1000003203,True,C,Registration,34,H,W,M,False
+False,bloomfield,bloomfield          ,E,2088,False,C,Defective Lights,25,N,B,M,True
+False,state police,ashford,V,265069536,True,O,Speed Related,19,N,W,M,True
+True,new haven,new haven,V,20,False,N,Defective Lights,23,N,W,M,True
+False,new london,new london,V,PSC56082,False,O,Cell Phone,26,H,W,M,False
+True,danbury,danbury,V,1000503,True,C,Defective Lights,41,N,W,M,False
+False,norwich,norwich,E,1053,False,C,Defective Lights,26,N,W,F,True
+False,stratford,stratford,V,30231,True,I,Administrative Offense,39,N,B,M,True
+True,wethersfield,wethersfield,V,250028,False,C,Other,22,H,W,M,True
+False,new haven,new haven,E,629,True,N,Defective Lights,20,N,B,M,False
+True,east hartford,east hartford,V,DWC0319,False,O,Administrative Offense,21,N,W,M,False
+False,west haven,west haven,V,1000333,True,I,Display of Plates,32,H,W,F,True
+False,bridgeport,bridgeport,E,MUL0164,True,C,Defective Lights,33,H,W,M,True
+True,trumbull,trumbull,E,5069,False,O,Defective Lights,24,N,B,F,True
+True,berlin,berlin,V,JJS2844,True,I,Registration,34,H,W,M,False
+False,new britain,new britain,V,785,True,O,Traffic Control Signal,35,N,B,M,True
+False,seymour,seymour,I,345,True,I,Registration,59,N,W,F,True
+True,bristol,bristol,V,120000088,True,O,Moving Violation,37,N,W,M,True
+False,new britain,new britain,V,804,False,O,Window Tint,17,H,W,M,True
