@@ -6,14 +6,14 @@ This is the third unit of DS in the Real World specialization. In this learning 
 
 #### Main topics
 
-- Recommender Systems Workflow
-- Train/Test Split for Recommender Systems
-- Evaluation Metrics
+- Model diagnosing (for performance and client requirements)
+- Calibrating and fixing model problems
+- Redeploying the model
 
 ## How to go through this BLU
 
 1. Follow the [Learning Unit Workflow](https://github.com/LDSSA/batch4-students#learning-unit-workflow) to setup your environment.
-2. Go through the Learning Notebooks (there's two of them).
+2. Go through the Learning Notebook and the original_model notebook.
 3. Do the Exercise notebook, and submit it on [the portal](https://portal.lisbondatascience.org), as usual.
 
 ## "I need help understanding something"
