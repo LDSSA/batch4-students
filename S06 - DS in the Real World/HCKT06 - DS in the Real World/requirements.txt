@@ -1,0 +1,13 @@
+jupyter==1.0.0
+nbgrader==0.6.1
+notebook==6.1.4
+joblib==0.17.0
+pandas==1.1.4
+lightgbm==3.1.0
+scikit-learn==0.23.2
+numpy==1.19.4
+matplotlib==3.3.3
+requests==2.24.0
+seaborn==0.11.0
+flask==1.1.2
+peewee==3.14.0
